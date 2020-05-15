@@ -1,0 +1,313 @@
+#' Interactively retrieve quantitative data from paper
+#'
+#' @param keywords A set of keywords as characters (i.e. trait of interest) in a vector
+#' @param n A number specifying the threshold to consider keyword present
+#' @param trait A name for the output file (RDS format)
+#'
+#' @return A data frame containing matches above threshold and verified matches
+#' @export
+#'
+#' @examples
+#' semi.auto('bisse',5,'bisse_presence_out')
+#'
+#' keywords<-c('tree','shrub','epiphyte')
+#' semi.auto(keywords,5,'growth_form_out')
+#'
+semi.auto <- function(keywords, n, trait, cleaned_text, sorted_words) {
+
+    ###
+    # could provide T/F input that will include taxonomy
+    ###
+
+    options(stringsAsFactors = FALSE)
+
+    data_files <- list.files(pattern = ".txt$")
+
+    traits_mat <- matrix(nrow = length(cleaned_text), ncol = length(keywords))
+    colnames(traits_mat) <- keywords
+
+    head(traits_mat)
+
+    # check where traits are present, may be present and are not present
+
+    for (h in 1:length(keywords)) {
+        for (j in 1:length(cleaned_text)) {
+            if (keywords[h] %in% names(sorted_words[[j]]) == FALSE) {
+                traits_mat[, keywords[h]][j] <- "n"
+            } else if (sorted_words[[j]][keywords[h]] > n) {
+                traits_mat[, keywords[h]][j] <- "y"
+            } else {
+                traits_mat[, keywords[h]][j] <- "m"
+            }
+        }
+    }
+
+    # get which paragraphs may mention trait in document
+
+    # make file for output
+    cat("# trait used to check", sep = "\n", file = "trait.Rmd")
+
+    # print to console width
+    options(width = 80)
+
+    for (g in 1:length(keywords)) {
+
+        # trait name
+        cat(paste("##", keywords[g]), sep = "\n", file = "trait.Rmd", append = T)
+
+        # column with for trait
+        traits_mat_y <- traits_mat[, keywords[g]]
+
+        # which articles may reference trait
+        mp <- which(traits_mat_y == "m")
+
+        if (length(mp) > 0) {
+
+            for (d in 1:length(mp)) {
+
+                # cat trait name
+                cat(paste("###", data_files[mp[d]]), sep = "\n \n", file = "trait.Rmd", append = T)
+                ### merge adjacent paragraphs
+                comb_paras <- paste(cleaned_text[mp[d]], collapse = " ")
+
+                # Split the string into individual words
+                splitString <- strsplit(comb_paras, " ")[[1]]
+
+                # Find the location of the word of interest
+                loc <- grep(keywords[g], splitString)
+
+                # Subset as you normally would
+
+                comb_occs <- list()
+
+                if (length(loc) > 0) {
+
+                  for (j in 1:length(loc)) {
+
+                    if ((loc[j] - 50) > 0) {
+                      cat(paste(splitString[c((loc[j] - 50):(loc[j] + 50))], collapse = " "), sep = "\n", file = "trait.Rmd",
+                        append = T)
+                      cat(paste(""), sep = "\n", file = "trait.Rmd", append = T)
+
+                      comb_occs[[j]] <- paste(splitString[c((loc[j] - 50):(loc[j] + 50))], collapse = " ")
+                    } else {
+                      cat(paste(splitString[c((loc[j]):(loc[j] + 50))], collapse = " "), sep = "\n", file = "trait.Rmd", append = T)
+                      cat(paste(""), sep = "\n", file = "trait.Rmd", append = T)
+
+                      comb_occs[[j]] <- paste(splitString[c((loc[j]):(loc[j] + 50))], collapse = " ")
+                    }
+                  }
+                } else {
+                  comb_occs[[1]] <- "error"
+                }
+
+                cat(paste(paste("Is", red$bold$underline(keywords[g]), "used in", data_files[mp[d]], "?", sep = " "), sep = "\n"))
+                cat("", sep = "\n")
+                cat("", sep = "\n")
+                for (k in 1:length(comb_occs)) {
+
+                  unique_words <- lapply(strsplit(comb_occs[[k]], " "), function(x) {
+                    x[!x == ""]
+                  })
+
+                  # creating a dataframe with crayonized text
+                  df <- tibble::enframe(unique_words) %>% tidyr::unnest() %>%
+                  # here you can specify the color/word combinations you need
+                  dplyr::mutate(.data = ., value2 = dplyr::case_when(grepl(keywords[g], value) ~ crayon::red$bold$underline(value),
+                    TRUE ~ value)) %>% dplyr::select(., -value)
+
+                  cat(df$value2)
+
+                  # cat(paste(comb_occs[[k]]),sep='\n'))
+                  cat("", sep = "\n")
+                  cat("", sep = "\n")
+                }
+                answ <- readline(prompt = "y or n?: ")
+                traits_mat[mp[d], keywords[g]] <- answ
+
+            }
+        }
+    }
+
+    rownames(traits_mat) <- data_files
+
+    ### Transform data into values per paper (e.g. names of models used)
+
+    traits_vect <- vector()
+
+    for (i in 1:length(rownames(traits_mat))) {
+        traits_vect[i] <- paste(names(traits_mat[i, ][traits_mat[i, ] == "y"]), collapse = ",")
+    }
+
+    names(traits_vect) <- data_files
+
+    saveRDS(traits_vect, file = paste(trait, "tax.rds", sep = "_"))
+
+    return(traits_vect)
+
+}
+
+
+
+
+
+#' Interactively retrieve quantitative data from paper
+#'
+#' @param keywords A set of keywords as characters (i.e. trait of interest) in a vector
+#' @param trait A name for the output file (RDS format)
+#'
+#' @return A data frame containing values for each trait of interest
+#'
+#' @examples
+#' semi.auto('tips','tips_value_out')
+#'
+#' keywords<-c('species','genera','family')
+#' semi.auto(keywords,'taxonomy_out')
+#'
+semi.auto.value <- function(keywords, trait, cleaned_text, sorted_words) {
+    library(crayon)
+    library(corpus)
+    library(tm)
+    library(pdftools)
+    library(readtext)
+    require(quanteda)
+    require(readtext)
+    library(stringi)
+    library(qdap)
+    library(qdapRegex)
+    library(data.table)
+    require(reshape2)
+    library(ggplot2)
+    require(rmarkdown)
+
+    options(stringsAsFactors = FALSE)
+
+    setwd("~/Dropbox/projects/AJH_DiveRS/sse_review/test_pdfs/")
+
+    data_files <- list.files(pattern = ".txt$")
+
+    traits_mat <- matrix(nrow = length(cleaned_text), ncol = length(keywords))
+    colnames(traits_mat) <- keywords
+
+    head(traits_mat)
+
+    # check where traits are present, may be present and are not present
+
+    for (h in 1:length(keywords)) {
+        for (j in 1:length(cleaned_text)) {
+            if (keywords[h] %in% names(sorted_words[[j]]) == FALSE) {
+                traits_mat[, keywords[h]][j] <- "n"
+            } else {
+                traits_mat[, keywords[h]][j] <- "m"
+            }
+        }
+    }
+
+    # get which paragraphs may mention trait in document
+
+    # make file for output
+    cat("# trait used to check", sep = "\n", file = "trait.Rmd")
+
+    # print to console width
+    options(width = 80)
+
+    for (g in 1:length(keywords)) {
+
+        # trait name
+        cat(paste("##", keywords[g]), sep = "\n", file = "trait.Rmd", append = T)
+
+        # column with for trait
+        traits_mat_y <- traits_mat[, keywords[g]]
+
+        # which articles may reference trait
+        mp <- which(traits_mat_y == "m")
+
+        if (length(mp) > 0) {
+
+            for (d in 1:length(mp)) {
+
+                # cat trait name
+                cat(paste("###", data_files[mp[d]]), sep = "\n \n", file = "trait.Rmd", append = T)
+                ### merge adjacent paragraphs
+                comb_paras <- paste(cleaned_text[mp[d]], collapse = " ")
+
+                # Split the string into individual words
+                splitString <- strsplit(comb_paras, " ")[[1]]
+
+                # Find the location of the word of interest
+                loc <- grep(paste("\\<", keywords[g], "\\>", sep = ""), splitString)
+
+                # Subset as you normally would
+
+                comb_occs <- list()
+
+                if (length(loc) > 0) {
+
+                  for (j in 1:length(loc)) {
+
+                    if ((loc[j] - 50) > 0) {
+                      cat(paste(splitString[c((loc[j] - 50):(loc[j] + 50))], collapse = " "), sep = "\n", file = "trait.Rmd",
+                        append = T)
+                      cat(paste(""), sep = "\n", file = "trait.Rmd", append = T)
+
+                      comb_occs[[j]] <- paste(splitString[c((loc[j] - 50):(loc[j] + 50))], collapse = " ")
+                    } else {
+                      cat(paste(splitString[c((loc[j]):(loc[j] + 50))], collapse = " "), sep = "\n", file = "trait.Rmd", append = T)
+                      cat(paste(""), sep = "\n", file = "trait.Rmd", append = T)
+
+                      comb_occs[[j]] <- paste(splitString[c((loc[j]):(loc[j] + 50))], collapse = " ")
+                    }
+                  }
+                } else {
+                  comb_occs[[1]] <- "error"
+                }
+
+                cat(paste(paste("Identify", red$bold$underline(keywords[g]), "value in", data_files[mp[d]], sep = " "), sep = "\n"))
+                cat("", sep = "\n")
+                cat("", sep = "\n")
+                for (k in 1:length(comb_occs)) {
+
+                  unique_words <- lapply(strsplit(comb_occs[[k]], " "), function(x) {
+                    x[!x == ""]
+                  })
+
+                  # creating a dataframe with crayonized text
+                  df <- tibble::enframe(unique_words) %>% tidyr::unnest() %>%
+                  # here you can specify the color/word combinations you need
+                  dplyr::mutate(.data = ., value2 = dplyr::case_when(grepl(keywords[g], value) ~ crayon::red$bold$underline(value),
+                    TRUE ~ value)) %>% dplyr::select(., -value)
+
+                  cat(df$value2)
+
+                  # cat(paste(comb_occs[[k]]),sep='\n'))
+                  cat("", sep = "\n")
+                  cat("", sep = "\n")
+                }
+                answ <- readline(prompt = "value: ")
+                traits_mat[mp[d], keywords[g]] <- answ
+
+            }
+        }
+    }
+
+    rownames(traits_mat) <- data_files
+
+    traits_mat <- data.frame(traits_mat)
+
+    traits_mat[traits_mat == ""] <- NA
+    traits_mat[traits_mat == "n"] <- NA
+
+    saveRDS(traits_mat, file = paste(trait, "tax.rds", sep = "_"))
+
+    return(traits_mat)
+
+}
+
+
+
+
+
+
+
+
+
