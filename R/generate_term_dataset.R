@@ -16,8 +16,6 @@ generate.term.dataset <- function(cleaned_text,in_dir, keywords) {
 
     data_files <- list.files(path = in_dir, pattern = "*.txt$", full.names = T)
 
-    keywords <- read.table(paste(keywords))
-    keywords <- keywords$V1
 
     # empty lists to fill
     combined_text <- list(rep("NULL", length(cleaned_text)))
