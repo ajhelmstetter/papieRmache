@@ -16,5 +16,5 @@ list of cleaned texts
 Clean text files
 }
 \examples{
-clean.text(in_dir = "./data/test_pdfs/")
+clean.text(in_dir = "./inst/extdata/test_pdfs/")
 }
