@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-#' clean.text(in_dir = "./data/test_pdfs/")
+#' clean.text(in_dir = "./inst/extdata/test_pdfs/")
 clean.text <- function(in_dir) {
 
     ###
@@ -16,10 +16,10 @@ clean.text <- function(in_dir) {
     options(stringsAsFactors = FALSE)
 
     # Build a dictionary of lemmas (stems of words)
-    lemma_data <- read.csv("data/baseform_en.tsv", encoding = "UTF-8")
+    lemma_data <- read.csv("./inst/extdata/baseform_en.tsv", encoding = "UTF-8")
 
     # extended stop word list
-    stopwords_extended <- readLines("data/stopwords_en.txt", encoding = "UTF-8")
+    stopwords_extended <- readLines("./inst/extdata/stopwords_en.txt", encoding = "UTF-8")
     print(in_dir)
     # list all text files in folder
     data_files <- list.files(path = in_dir, pattern = "*.txt$", full.names = T)
@@ -48,8 +48,10 @@ clean.text <- function(in_dir) {
         extracted_texts <- readtext(data_files[h], docvarsfrom = "filepaths", dvsep = "/")
 
         # the extracted_texts can be written by write.csv2 to disk for later use.
-        write.csv2(extracted_texts, file = "../text_extracts.csv", fileEncoding = "UTF-8")
-        textdata <- read.csv("../text_extracts.csv", header = TRUE, sep = ",", encoding = "UTF-8")
+        write.csv2(extracted_texts, file = "text_extracts.csv", fileEncoding = "UTF-8")
+        textdata <- read.csv("text_extracts.csv", header = TRUE, sep = ",", encoding = "UTF-8")
+        system('rm text_extracts.csv')
+
 
         # change text into corpus
         sotu_corpus <- corpus(textdata[1, ])
@@ -87,7 +89,7 @@ clean.text <- function(in_dir) {
         # find out format of article if normal paper layout methods line number should be smaller than results or discussion
         # m_loc<min(r_loc) || m_loc<min(d_loc)
 
-        kw <- read.table("../keywords.txt")
+        kw <- read.table("./inst/extdata/keywords.txt")
 
         ## ask about whether you want to include taxonomy (long)
 

@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: person("Andrew", "Helmstetter", email = "andrew.j.helmstetter@gmail.com",
                   role = c("aut", "cre"))
 Description: Takes as input a set of papers, in the format of text files produced by 'pdftotext' and facilitates interactive and automatic extraction of quantitative and qualitative data.
-Imports:
+Depends:
         corpus (>= 0.10.1),
         crayon (>= 1.3.4),
         data.table (>= 1.12.8),

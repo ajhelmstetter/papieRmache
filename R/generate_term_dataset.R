@@ -8,7 +8,8 @@
 #' @export
 #'
 #' @examples
-#' generate.term.dataset(cleaned_text = foo, in_dir = "data/test_pdfs/",keywords = "data/keywords.txt")
+#' ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
+#' generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = c("bisse","musse"))
 #'
 generate.term.dataset <- function(cleaned_text,in_dir, keywords) {
 

@@ -11,8 +11,11 @@
 #' @export
 #'
 #' @examples
-#' keywords<-c('tree','shrub','epiphyte')
-#' semi.auto(in_dir = "./pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = cleaned_text, sorted_words = sorted_words)
+#'
+#' keywords<-c('bisse','musse')
+#' ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
+#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
+#' semi.auto(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
 #'
 semi.auto <- function(in_dir ,keywords, n, out_file, cleaned_text, sorted_words) {
 
@@ -174,7 +177,10 @@ semi.auto <- function(in_dir ,keywords, n, out_file, cleaned_text, sorted_words)
 #' @export
 #'
 #' @examples
-#' semi.auto.value(in_dir = "./pdfs/", keywords ="species", out_file ="species_number", cleaned_text = cleaned_text, sorted_words = sorted_words)
+#' keywords<-c('species')
+#' ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
+#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
+#' semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords ="species", out_file ="species_number", cleaned_text = ct, sorted_words = td)
 #'
 semi.auto.value <- function(in_dir,keywords, out_file, cleaned_text, sorted_words) {
 
@@ -304,12 +310,4 @@ semi.auto.value <- function(in_dir,keywords, out_file, cleaned_text, sorted_word
     return(traits_mat)
 
 }
-
-
-
-
-
-
-
-
 
