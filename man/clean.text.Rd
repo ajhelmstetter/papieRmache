@@ -4,10 +4,12 @@
 \alias{clean.text}
 \title{Clean text files}
 \usage{
-clean.text(in_dir)
+clean.text(in_dir, all_keywords)
 }
 \arguments{
 \item{in_dir}{directory with input text files}
+
+\item{all_keywords}{vector with all keywords you are interested in}
 }
 \value{
 list of cleaned texts
@@ -16,5 +18,6 @@ list of cleaned texts
 Clean text files
 }
 \examples{
-clean.text(in_dir = "./inst/extdata/test_pdfs/")
+data(papieRmache)
+clean.text(in_dir = "./extdata/test_pdfs/",all_keywords=kw)
 }

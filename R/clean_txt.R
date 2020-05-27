@@ -1,13 +1,16 @@
 #' Clean text files
 #'
 #' @param in_dir directory with input text files
-#'
+#' @param all_keywords vector with all keywords you are interested in
 #' @return list of cleaned texts
 #' @export
 #'
 #' @examples
-#' clean.text(in_dir = "./inst/extdata/test_pdfs/")
-clean.text <- function(in_dir) {
+#'
+#' download.file("https://raw.github.com/aronlindberg/latent_growth_classes/master/LGC_data.csv", destfile = "/tmp/test.csv", method = "curl")
+#'
+#' clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
+clean.text <- function(in_dir,all_keywords) {
 
     ###
     # true/false param to be added for taxonomy
@@ -16,10 +19,21 @@ clean.text <- function(in_dir) {
     options(stringsAsFactors = FALSE)
 
     # Build a dictionary of lemmas (stems of words)
-    lemma_data <- read.csv("./inst/extdata/baseform_en.tsv", encoding = "UTF-8")
+
+    ###
+    # make customisable
+    ###
+
+    lemma_data <- lemma_data
 
     # extended stop word list
-    stopwords_extended <- readLines("./inst/extdata/stopwords_en.txt", encoding = "UTF-8")
+
+    ###
+    # make customisable
+    ###
+
+    stopwords_extended <- stopwords_extended
+
     print(in_dir)
     # list all text files in folder
     data_files <- list.files(path = in_dir, pattern = "*.txt$", full.names = T)
@@ -49,6 +63,11 @@ clean.text <- function(in_dir) {
 
         # the extracted_texts can be written by write.csv2 to disk for later use.
         write.csv2(extracted_texts, file = "text_extracts.csv", fileEncoding = "UTF-8")
+
+        ###
+        # figure out if i really need to read/write csv
+        ###
+
         textdata <- read.csv("text_extracts.csv", header = TRUE, sep = ",", encoding = "UTF-8")
         system('rm text_extracts.csv')
 
@@ -89,7 +108,7 @@ clean.text <- function(in_dir) {
         # find out format of article if normal paper layout methods line number should be smaller than results or discussion
         # m_loc<min(r_loc) || m_loc<min(d_loc)
 
-        kw <- read.table("./inst/extdata/keywords.txt")
+        kw <- all_keywords
 
         ## ask about whether you want to include taxonomy (long)
 
@@ -106,8 +125,6 @@ clean.text <- function(in_dir) {
         cleaned_text[[h]] <- paste(cl_sp, collapse = " ")
 
     }
-
-    saveRDS(cleaned_text, "cleaned_text.RDS")
 
     return(cleaned_text)
 }
