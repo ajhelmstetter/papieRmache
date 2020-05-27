@@ -7,8 +7,8 @@
 #'
 #' @examples
 #'
-#' download.file("https://raw.github.com/aronlindberg/latent_growth_classes/master/LGC_data.csv", destfile = "/tmp/test.csv", method = "curl")
-#'
+#' download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+#' unzip("./test_pdfs.zip")
 #' clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 clean.text <- function(in_dir,all_keywords) {
 
@@ -112,7 +112,7 @@ clean.text <- function(in_dir,all_keywords) {
 
         ## ask about whether you want to include taxonomy (long)
 
-        mod_pres <<- kw$V1
+        mod_pres <<- kw
 
         # find paragraphs that mention models
         lines_with_mods <- vector()

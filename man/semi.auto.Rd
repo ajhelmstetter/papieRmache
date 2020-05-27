@@ -26,10 +26,15 @@ A data frame containing matches above threshold and verified matches
 Interactively retrieve qualitative data from a paper
 }
 \examples{
+download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+unzip("./test_pdfs.zip")
+
+ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 
 keywords<-c('bisse','musse')
-ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
-td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
-semi.auto(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
+
+td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
+
+semi.auto(in_dir = "./test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
 
 }

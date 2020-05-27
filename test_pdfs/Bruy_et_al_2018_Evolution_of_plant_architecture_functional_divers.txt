@@ -1,0 +1,2403 @@
+ORIGINAL RESEARCH
+published: 04 December 2018
+doi: 10.3389/fpls.2018.01775
+
+Evolution of Plant Architecture,
+Functional Diversification and
+Divergent Evolution in the Genus
+Atractocarpus (Rubiaceae) for New
+Caledonia
+David Bruy 1,2*, Tom Hattermann 1,2 , Laure Barrabé 3 , Arnaud Mouly 4,5 , Daniel Barthélémy 1,6
+and Sandrine Isnard 1,2
+1
+
+AMAP, IRD, CIRAD, CNRS, INRA, Université de Montpellier, Montpellier, France, 2 AMAP, IRD, Herbier de Nouméa, Nouméa,
+New Caledonia, 3 Endemia, Plant Red List Authority, Nouméa, New Caledonia, 4 Laboratoire Chrono-Environnement UMR
+6249 CNRS, Université Bourgogne Franche-Comté, Besançon, France, 5 Jardin Botanique de la Ville de Besançon et de
+l’Université de Franche-Comté, Besançon, France, 6 CIRAD, UMR AMAP, Montpellier, France
+
+Edited by:
+Jill Christine Preston,
+University of Vermont, United States
+Reviewed by:
+Marie-Stéphanie Samain,
+Instituto de Ecología (INECOL), Mexico
+John R. Paul,
+University of San Francisco,
+United States
+*Correspondence:
+David Bruy
+david.bruy@ird.fr
+Specialty section:
+This article was submitted to
+Plant Evolution and Development,
+a section of the journal
+Frontiers in Plant Science
+Received: 10 July 2018
+Accepted: 15 November 2018
+Published: 04 December 2018
+Citation:
+Bruy D, Hattermann T, Barrabé L,
+Mouly A, Barthélémy D and Isnard S
+(2018) Evolution of Plant Architecture,
+Functional Diversification and
+Divergent Evolution in the Genus
+Atractocarpus (Rubiaceae) for New
+Caledonia. Front. Plant Sci. 9:1775.
+doi: 10.3389/fpls.2018.01775
+
+The diversification of ecological roles and related adaptations in closely related species
+within a lineage is one of the most important processes linking plant evolution and
+ecology. Plant architecture offers a robust framework to study these processes as
+it can highlight how plant structure influences plant diversification and ecological
+strategies. We investigated a case of gradual evolution of branching architecture in
+Atractocarpus spp. (Rubiaceae), forming a monophyletic group in New Caledonia
+that has diversified rapidly, predominantly in rainforest understory habitats. We used
+a transdisciplinary approach to depict architectural variations and revealed multiple
+evolutionary transitions from a branched (Stone’s architectural model) to a monocaulous
+habit (Corner’s architectural model), which involved the functional reduction of branches
+into inflorescences. We propose an integrative functional index that assesses branching
+incidence on functional traits influencing both assimilation and exploration functions.
+We showed that architectural transitions correlate with ecologically important functional
+traits. Variation in ecologically important traits among closely relatives, as supported by
+the architectural analysis, is suggestive of intense competition that favored divergence
+among locally coexisting species. We propose that Pleistocene climatic fluctuations
+causing expansion and contraction of rainforest could also have offered ecological
+opportunities for colonizers in addition to the process of divergent evolution.
+Keywords: branching index, convergence, corner’s rules, gardenieae, Island, rainforest, treelet, understory
+
+INTRODUCTION
+Convergent and divergent evolution are widely recognized as important drivers of plant
+diversification at large scale (Givnish and Sytsma, 1997; Gianoli, 2004; Drummond et al., 2012;
+Couvreur et al., 2015; Givnish, 2016). Well known examples of large scale convergence in plants
+(i.e., the appearance of phenotypic similarities among distantly related taxa) include the evolution
+of a cushion growth habit in alpine environments (Boucher et al., 2012, 2016; Aubert et al.,
+2014), rosette-shrubs in islands (Carlquist, 1974; Givnish, 2010; Lens et al., 2013), climbing
+
+Frontiers in Plant Science | www.frontiersin.org
+
+1
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+Despite the functional importance of plant architectural
+traits, little is known about their evolution (Kurmann and
+Hemsley, 1999; León Enriquez et al., 2008). In a recent
+review, Chomicki et al. (2017) investigated the evolution of
+plant architecture for several groups. Their results showed
+preferential transitions between models, suggesting pre-requisite
+morphological ability for the evolution of a given plant
+architecture. In contrast, some model transitions seem never
+to occur, suggesting that genetic constraints might prevent
+them. Chomicki et al. (2017) did not, however, investigate
+processes involved in plant architectural evolution. Bateman
+(Bateman and DiMichele, 1994; Bateman, 1999) argued that
+the changes involved in the transition from one architecture
+to another are too important and deep for such transitions
+to take place gradually. Rather, such evolution is suggested
+to occur preferentially by saltation, which involves the direct
+shift from one competitive architecture to another without
+passing through intermediate states associated with lower fitness.
+Other authors have proposed the notion of an “architectural
+continuum” (Oldeman, 1974; Barthélémy et al., 1989), suggesting
+a continuous transition from one model to another in some
+groups (Hallé et al., 1978). In the context of this diversity
+of possible models to explain evolution in plant architecture,
+detailed studies within individual clades that combine results
+from molecular phylogenetic work with detailed architectural
+analysis may be particularly informative.
+Atractocarpus Schltr. & K. Krause (Gardenieae, Rubiaceae),
+a Pacific genus of about 40 species, of which 32 are endemics
+to New Caledonia (Mouly et al., under review), is ideally
+suited to study the evolution of plant architecture and to
+test hypotheses regarding the role of architecture in plant
+ecological diversification. Especially since a recently published
+phylogeny based on comprehensive sampling is available for
+the genus (Mouly et al., under review). Most members
+of this genus are treelets occurring in the understory of
+tropical and subtropical rainforests, and they exhibit substantial
+variation in branching pattern (Tirvengadum and Sastre,
+1979; Robbrecht and Puff, 1986), ranging from monocaulous
+(i.e., unbranched) to well-branched species, including various
+intermediate states (Figure 1). The New Caledonia members
+of Atractocarpus, which originated from a single colonization
+event that occurred ca. 2.4 Myr ago (Mouly et al., under
+review), has the highest diversification rate of any genus
+studied to date (1.17 species species−1 Myr−1 ), approaching
+that of the well-known Hawaiian lobelioid genus Cyanea on the
+island of Maui (1.36 species species−1 Myr−1 , Givnish et al.,
+2009).
+The presence of a high diversification rate combined with
+architectural diversity is thought to provide an indication of
+ecological diversification, a situation that is often associated with
+island colonization (Silvertown, 2004; Silvertown et al., 2005).
+In groups adapted to growing in the forest understory, light is
+a variable and limiting resource, and in response, plants have
+deployed various growth strategies related to leaf photosynthesis
+and the economization of carbon. To quantify the architectural
+gradient from monocaulous (unbranched) to well-branched
+species, we developed a new “functional branching index,”
+
+mechanisms in lianas (Sousa-Baena et al., 2014, 2018), and
+succulence in arid environments (Ogburn and Edwards, 2010;
+Arakaki et al., 2011). These and others examples demonstrate that
+similar habitats or micro-habitats can produce selective pressures
+that favor some morphological and physiological traits. Another
+evolutionary process, sometimes linked with convergence, is the
+diversification of ecological roles among closely related species,
+i.e., divergent evolution, which results in the exploitation of
+different ecological resources (e.g., Bramwell, 1975; Givnish
+et al., 2009, 2014). Convergent and divergent evolution have
+been attributed to morpho-physiological traits, whose gradual
+evolution or rapid innovation can lead to adaptive radiation,
+sometimes involving increased diversification rates (Givnish and
+Sytsma, 1997; Givnish et al., 2014; Couvreur et al., 2015). A
+striking feature of convergent and divergent evolution is that it
+often involves variation in growth habit, which represents the
+ultimate form of a plant expressed in its physiognomy (Warming,
+1909). Growth habit results from the integration of a set of
+traits, e.g., branching pattern and structure, body size and shape,
+position of inflorescences, and anatomy, among others, which
+have generally been studied independently (e.g., Carlquist, 1984;
+Rowe and Speck, 2005; Givnish et al., 2009; Isnard et al., 2012;
+Wagner et al., 2014). Few work has, however, used the integrative
+approach provided by plant architecture to study the evolution of
+plant growth habit.
+Plant architecture characterizes the spatial arrangement and
+specialization of structures (morphological origin, branching
+pattern, axis categorization) and their evolution during ontogeny
+(Hallé et al., 1978; Barthélémy and Caraglio, 2007). As such, it
+can highlight how plant structure impacts plant diversification
+and can help identify evolutionary processes underlying plant
+evolution (Bateman, 1994, 1999; Sussex and Kerk, 2001; MeyerBerthaud et al., 2010). Architectural studies have shown that
+plants are modular organisms comprising elements that can
+differ in their organization and functions (Hallé et al., 1978;
+Barthélémy and Caraglio, 2007). For instance, in many tree and
+treelet species, the trunk functions primarily for exploration and
+to provide support, while branches are involved in assimilation
+and reproduction. Plant architecture thus influences spatial
+and temporal exploitation of resources (Smith et al., 2014).
+Some architectural traits have been shown to impact plant
+fitness, either directly (Küppers, 1989; Millet et al., 1999;
+Charles-Dominique et al., 2010, 2012, 2017; Millan, 2016) or
+in interaction with other functional traits (Pérez-Harguindeguy
+et al., 2013; Trueba et al., 2016). Among the best known
+examples are Corner’s rules, which stipulate that “the greater
+the ramification, the smaller become the branches and their
+appendages” (leaves, flowers, and fruits, Corner, 1949). This
+statement points toward an effect of plant architecture on
+leaf size and linked architecture and plant ecological strategies
+(White, 1983a; Ackerly, 1996). To date, approaches linking
+plant architecture and function are scarce although some
+architectural indexes can assess interesting strategies such
+as defense against herbivores (“Index of caginess,” CharlesDominique et al., 2017) or leaf-to-stem relation that trigger
+flowering (“Index of axialisation,” Lauri, 1988; Lauri and Kelner,
+2001).
+
+Frontiers in Plant Science | www.frontiersin.org
+
+2
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+FIGURE 1 | Photographs of different Atractocarpus species in their environment showing variability in growth habit and lateral axis. Monocaulous species: (A) A.
+confertus, (B) A. bracteatus, (C) A. bracteatus. Intermediate species: (D) A. ngoyensis, (E) A. ngoyensis, (F) A. ngoyensis. Branched species: (G) A. pseudoterminalis,
+(H) A. sp. nov. 10, (I) A. pseudoterminalis.
+
+MATERIALS AND METHODS
+
+which assesses branching incidence on functional traits that
+influence assimilation and exploration functions. Considering
+each understory species of Atractocarpus in New Caledonia, we
+analyzed correlations between architecture and traits associated
+with key ecologically significant functions (viz., photosynthesis,
+hydraulic, mechanics, and dispersal). We investigated the
+evolution of plant architecture (branched vs. unbranched) in
+forest understory species and its impact on the exceptional
+diversification rate of the genus. Finally, we explored how
+ecological opportunities might stimulate the diversification of
+architecture through spatial differentiation in resource use (niche
+partitioning) in closely related species following the colonization
+of New Caledonian rainforests.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+Sampling
+We sampled all the 27 known rainforest species of Atractocarpus
+occurring in New Caledonia (list of taxa in Appendix 1 in
+Supplementary Material). For Ancestral Character Estimation
+(ACE), three Australian Atractocarpus species and one species in
+each of the most closely related genera for which DNA sequences
+were available (Mouly et al., 2014, under review) were included
+as outgroups.
+Individuals were sampled in 20 rainforest sites occurring
+on Grande Terre, New Caledonia’s main island (Appendix 1 in
+Supplementary Material).
+
+3
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+Branching Index and Plant Architectural
+Traits
+
+12 due to small population sizes and habitat degradation, so
+these taxa were removed from this analysis. We concentrated
+our sampling in the apical part of the trunk because (i) this
+enabled standardization of physiological age and (ii) unbranched
+and branched species can be compared only on the basis of
+the main stem. Moreover, variation in resource allocation and
+anatomy between unbranched and branched species might be
+more prevalent toward the apex, where large leaves are deployed
+(Carlquist, 1974). Stem and leaf measurements were standardized
+as follows. Leaf traits (SLA, leaf area) were measured on the five
+youngest, fully expended leaves of the main axis (trunk). Wood
+was collected below the terminal leaf tuft for the measurement
+of anatomical traits (proportion of tissues, specific wood density,
+and specific stem density). Internode length and diameter were
+measured on the five youngest, well-developed trunk-internodes
+(before secondary growth). Branch traits (cumulated length,
+leaf number, leaf area) were measured on two representative
+branches per individual and the total number of branches was
+counted.
+Most of the individuals studied in the field were infertile,
+so fruit traits were measured on herbarium specimens [NOU
+and P; acronyms follow Thiers (continuously updated)]. We
+selected undamaged and unflattened fruits from which length
+and diameter were measured. As Atractocarpus fruits are often
+ellipsoid to tubular (Puttock, 1999), these two dimensions are
+used to approximate fruit volume (Table 1). A total of 592 fruits
+were measured, and only the five largest fruits per taxon (four for
+A. confertus and A. sessilifolius) were used to ensure that values
+from only mature fruits were included in our analyses. One of
+the species, A. sp. nov. 6, is a very rare species whose fruits have
+never been observed; it was consequently excluded from the fruit
+volume dataset.
+
+Based on the observation that an observed architectural gradient
+might result from differential allocation in branch length and
+supported leaf area (Figure 1), we used two functional branching
+indexes based on the differentiation of function from branches to
+trunk (Corner, 1958). Given that photosynthetic function can be
+approximated by leaf area (Pérez-Harguindeguy et al., 2013) and
+exploration function by stem length (Barthélémy and Caraglio,
+2007; Smith et al., 2014), branching indexes were calculated as
+follows:
+Leaf area supported by branches
+Total leaf area (branches+trunk)
+Branches cumulated length
+Total stem length (branches+trunk)
+
+(i) Photosynthetic branching index:
+(ii) Exploration branching index:
+
+A value of zero indicates that photosynthesis and exploration
+are assumed only by the trunk and that branches (lateral
+exploration) are lacking, which corresponds to the monocaulous
+habit, physiognomically defined as “trees with a single trunk
+or visible stem of the plant” (Hallé et al., 1978). The higher
+the value of the index, the greater the functional role played
+by branches. We built a single integrative branching index
+that expresses the architectural gradient by combining these
+two variables using Principal Component Analysis (correlation
+between photosynthetic and exploration branching indexes:
+rho = 0.86) employed in the ade4 package for R (Dray and
+Dufour, 2007).
+Species were segregated into three architectural classes
+(Monocaulous, Intermediate, and Branched) using Wilcoxon
+signed-rank tests that enable detection of breaks in the
+distribution of the integrative branching index.
+Using morphological criteria reviewed by Barthélémy and
+Caraglio (2007), we then described main traits commonly
+used in architectural analyses (growth process, branching
+pattern, position of reproductive structures, etc.) for the 27
+New Caledonian species of Atractocarpus. The number of
+individuals studied varied from more than a hundred in
+some species (e.g., A. pseudoterminalis, A. ngoyensis and
+A. bracteatus) to 12 in A. sezitat, a rare species whose
+habitat is highly disturbed by introduced herbivores. All
+species were studied at different ontogenetic stages (from
+very young plants to senescent adults) except A. sezitat
+and A. sp. nov. 12, for which no young plants could be
+found.
+
+Data Analysis
+Phylogenetic Tree
+The molecular phylogeny of Mouly et al. (under review) was used
+for analysis. This ultrametric phylogenetic tree was constructed
+under Bayesian Inference using one nuclear (ITS) and two
+chloroplastic (trnTL, rpl32) loci. Since the current study focused
+on rainforest species, we pruned the five dry forest and maquis
+species using the R software (Ver. 3.4.3).
+
+Phylogenetic Signal
+We assessed phylogenetic independence of measured traits
+(Felsenstein, 1985) using two complementary statistics calculated
+under a Brownian Motion (BM) model of evolution. Pagel’s
+Lambda (Pagel, 1999; Freckleton et al., 2002) is widely
+used for low rates of type I error and robustness, even
+for poorly or moderately informative phylogenies (Freckleton
+et al., 2002; Münkemüller et al., 2012). Because this statistic
+loses statistical power when used on small phylogenies (<30
+terminals, Freckleton et al., 2002), we also used Blomberg’s Kappa
+(Blomberg et al., 2003; Kembel, 2009) that is less robust but more
+appropriate for small taxonomic sampling (until 20 taxa, Kamilar
+and Cooper, 2013). Both statistics were calculated considering
+intraspecific variation using the phytools package for R (Revell,
+2012).
+
+Plant Functional Traits
+We tested the correlation of 14 traits with branching index.
+The traits were selected to reflect important features of plant
+ecological strategies (Table 1). They were measured on five
+individuals per species and, when possible (e.g., for leaf
+and internode traits), five times per individual. The selection
+of individuals was standardized for environment (rainforest
+understory) and for ontogeny following three criteria: (i)
+recently mature individuals, (ii) non reiterated individuals (see
+Oldeman, 1974; Barthélémy and Caraglio, 2007), and (iii) nontraumatized trunks. It was not possible to locate individuals
+meeting all three conditions for A. sezitat and A. sp. nov.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+4
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+TABLE 1 | Functional traits measured for 25 Atractocarpus species.
+Trait
+
+Abbreviation Unit
+
+Formula
+
+Related function
+
+References
+
+sr
+
+Plant height
+Plant basal diameter
+
+Geometric feature of buckling
+resistance
+
+Almeras et al., 2004; Niklas et al.,
+2006; Homeier et al., 2010
+Wright et al., 2007; Olson et al., 2009;
+Pérez-Harguindeguy et al., 2013
+
+TRUNK TRAITS
+Slenderness ratio
+
+Ø
+
+Specific wood density swd
+
+Wood dry mass
+g.cm−3 Wood
+fresh volume
+
+Growth rate, drought resistance and
+mechanical reinforcement
+
+Specific stem density ssd
+
+Stem dry mass
+g.cm−3 Stem
+fresh volume
+
+Internode diameter
+
+internode_d
+
+cm
+
+√
+Min IN diameter × Max IN diameter
+
+Growth rate, capacitance, mechanical Pérez-Harguindeguy et al., 2013;
+reinforcement
+Díaz et al., 2016
+
+Internode length
+
+internode_l
+
+cm
+
+Proportion of pith
+
+%_pith
+
+Proportion of wood
+
+%_wood
+
+Growth rate, mechanical
+reinforcement
+
+Vertessy et al., 1995; Schuerger
+et al., 1997; Olson et al., 2009
+
+Ø
+
+Growth rate, leaf spacing
+
+Weijschedé et al., 2007; Dong et al.,
+2010
+
+Ø
+
+Area of pith
+whole section area
+
+Primary growth, stem biomechanics
+
+Carlquist, 1974; Niklas, 1992;
+Levionnois et al., 2018
+
+Ø
+
+Area of wood
+whole section area
+
+Secondary growth, stem
+biomechanics
+
+Penfound, 1931; Schuerger et al.,
+1997; Hummel et al., 2007
+
+Proportion of cortex
+
+%_cortex
+
+Ø
+
+Pérez-Harguindeguy et al., 2013
+
+hv
+
+Ø
+
+Area of cortex
+whole section area
+Wood area at POM
+LF area above the POM
+
+Storage
+
+Huber value
+
+Allocation of wood to leaf area
+deployed
+
+Penfound, 1931; Gleason et al.,
+2012; Pérez-Harguindeguy et al.,
+2013
+
+Mean leaf area
+
+mean_la
+
+cm²
+
+Ø
+
+Energy balance, hydraulic demand
+
+Ackerly, 2004; Poorter et al., 2009;
+Pérez-Harguindeguy et al., 2013
+
+Specific Leaf Area
+
+sla
+
+fresh area
+cm.g−1 Leaf
+Leaf dry mass
+
+Allocation of biomass to light
+harvesting
+
+Westoby et al., 2002;
+Pérez-Harguindeguy et al., 2013
+
+WHOLE PLANT TRAIT
+Total leaf area
+
+total_la
+
+cm²
+
+Leaf number
+
+nb_leaf
+
+Ø
+
+FRUIT TRAIT (HERBARIUM MEASURE)
+Fruit volume
+
+fruit_vol
+
+cm3
+
+Energy balance, hydraulic demand
+(BR mean LF area × Number of BR) +
+(Mean area of TR LF × Number of TR LF)
+Number of TR LF +
+Light harvesting
+(BR mean number of LF × Number of BR)
+
+Dispersal, reproductive allocation
+
+Core fruit length ×
+(Core fruit width)2
+
+Pérez-Harguindeguy et al., 2013;
+Díaz et al., 2016
+Duncan and Hesketh, 1968; White,
+1983a
+Cornelissen, 1999; Cornelissen et al.,
+2003
+
+References are given to justify the interest of each trait for corresponding functions. IN, internode; POM, point of measurement; LF, leaf; BR, branch; TR, trunk.
+
+genus, Ancestral Character Estimation (ACE) was performed.
+We assigned an architectural class to each of the 11 outgroup
+species based on published descriptions (Fosberg, 1987; Smith
+and Darwin, 1988; Fosberg et al., 1993; Puttock, 1999; Wong,
+2004; Zahid and Wong, 2004, 2010; Tong et al., 2013), herbaria
+specimens (P, K, BM, E) and available photos. The ACE were
+performed using a maximum likelihood method under the ape
+package for R (Paradis et al., 2004). Three possible models of
+evolution fitted the data characteristics: (i) equal transition rates
+between classes (ER), (ii) different transition rates between classes
+but with equal rates for reversions (SYM), and (iii) different rates
+for every transition (ARD). The best model was selected using the
+corrected Akaike Information Criterion (AICc).
+
+Trait Correlations and Functional Characterization
+We used phylogenetic regression based on the method proposed
+by Ives et al. (2007) and implemented in the phytools package
+for R (Revell, 2012) to test whether architectural variation
+was correlated with functional specialization. Using maximum
+likelihood, this method fits bivariate models taking into account
+both phylogenetic framework and intraspecific variation. The
+response variable was the integrative branching index, and the
+explanatory variables were all other functional traits (Table 1).
+Significance of relations was tested using a likelihood ratio test
+between the model and a model constrained with a slope of zero.
+To characterize the functional space of each architectural
+classes, we performed a Principal Component Analysis. We used
+the species arithmetical mean of each functional traits (branching
+index excluded), and functional differences between architectural
+classes (Monocaulous, Intermediate, Branched) were tested with
+a permanova (Vegan package for R, Oksanen et al., 2018).
+
+Trait Based Diversification
+To test whether one of the architectural classes has contributed
+more than the others to the diversification of New Caledonian
+Atractocarpus (by increasing speciation rates and/or decreasing
+extinction rates), we used the Multiple State Speciation
+Extinction (MuSSE) framework (Fitzjohn et al., 2009) as
+implemented in the diversitree package for R (Fitzjohn, 2012).
+
+Ancestral Character Estimation
+To determine the putative ancestral architectural class of
+Atractocarpus and infer the evolution of architecture in the
+
+Frontiers in Plant Science | www.frontiersin.org
+
+5
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+For this analysis, outgroups were dropped from the phylogeny
+to consider only the 27 rainforest Atractocarpus species. Fifteen
+models of diversification were used, each differing in whether
+or not of speciation, extinction and transition rates were equal
+between classes (Table 2). Model selection was done according to
+AICc.
+
+the branching position of C1, which was continuous for
+some monocaulous species while diffuse for others. Two main
+quantitative architectural traits varied greatly among species, the
+number of modules per branch and the length of modules, which
+decreased in monocaulous species (Table 3, Figures 3, 4). For
+example, A. longistipitatus is a monocaulous species whose C2
+comprise many very short modules (apart from the first one). By
+contrast, A. bracteatus is also monocaulous but its C2 comprise
+a single long module (Figure 4). The number of internodes
+per module vary little in the genus but tend to be reduced in
+monocaulous species, with an extreme case of one node per
+module in A. confertus (Table 3). All species showed the ability
+to develop delayed reiterate on damaged or aged individuals.
+
+RESULTS
+Branching Index
+Branching indexes confirmed the existence of a morphofunctional gradient from branched to monocaulous species of
+Atractocarpus, for both exploration and photosynthetic functions
+(Figures 2A,B). For both indexes, interspecific variation was
+too gradual to allow the partitioning in distinct classes, but
+when combined (i.e., using the branching index), three distinct
+architectural groups could be differentiated (Wilcoxon tests:
+P < 0.1, Figure 2C), viz. the branched, intermediate and
+monocaulous architectural classes. On average, branched species
+had 82% of photosynthesis and 76% of exploration provided by
+branches, vs. 36 and 45%, respectively, for intermediate species,
+and 3 and 16% for monocaulous species.
+
+Functional Characterization
+Phylogenetic signal varied substantially depending on which
+statistic was used (Lambda or Kappa, Table 4). This was probably
+due to the small size of our phylogeny (25 terminals), since
+the statistics differ in sensitivity to the number of terminals
+(Freckleton et al., 2002; Kamilar and Cooper, 2013). Blomberg’s
+Kappa captures significant phylogenetic signal for stem specific
+density, proportion of pith, Huber value, and mean leaf area,
+whereas Pagel’s Lambda captures significant signal for internode
+diameter (Table 4). Among all measured functional traits, only
+the branching index had a highly significant phylogenetic signal
+calculated with both Pagel’s Lambda and Blomberg’s Kappa.
+Several functional traits were significantly related to the
+branching index (Table 5), including biomechanics (e.g.,
+slenderness ratio, internode diameter) as well as photosynthesis
+(e.g., leaf area, SLA), hydraulics (e.g., Huber value), and even
+dispersal (fruit volume). These correlations between architecture
+and functions were confirmed by PCA and Permanova
+(P = 0.016), which showed significant differences between the
+functional space occupied by the three architectural classes
+(Figure 5). Intermediate species were confounded between the
+two other architectural classes, but monocaulous and branched
+species appeared to be functionally very different. In comparison
+to monocaulous species, branched taxa tend to have numerous
+small leaves, higher SLA, smaller fruits and, smaller internode
+diameters with a lower proportion of wood, but a higher wood
+area-leaf area ratio (Huber value). The monocaulous A. confertus
+(the lowest point on Figure 5) was distinct from the other
+Atractocarpus species examined in having numerous very large
+leaves, leading to a disproportionately higher total leaf area (up
+to 2.4 m² vs. a mean of 0.5 m² for the other species).
+
+Architectural Characterization
+The architecture of New Caledonian Atractocarpus species
+involves two axis categories: (i) a trunk (C1), i.e., an orthotropic
+monopodium with continuous indeterminate growth, and (ii)
+“branches” (C2), i.e., orthotropic sympodia with terminal
+sexuality conferring rhythmic growth (Table 3, Figure 3). The
+sympodial branching of C2 always originates in a hypotonic
+(i.e., on the lower surface) or amphitonic position, resulting
+in upward flower exposure (Figure 1). The only qualitative
+architectural variation observed between species concerned
+
+TABLE 2 | Models fitted for trait based diversification analysis.
+Model
+
+1
+2
+3
+4
+5
+6
+7
+8a
+8b
+8c
+9a
+9b
+9c
+10
+11
+
+Speciation
+rates
+
+Extinction
+rates
+
+Transition
+rates
+
+6=
+
+6=
+
+6=
+
+−46.72
+
+=
+
+=
+
+=
+
+−50.59
+
+6=
+
+=
+
+=
+
+−49.59
+
+6=
+
+6=
+
+=
+
+−49.56
+
+6=
+
+=
+
+6=
+
+−46.72
+
+=
+
+=
+
+6=
+
+−46.16
+
+=
+
+6=
+
+6=
+
+−46.16
+
+I = B; M 6=
+
+=
+
+=
+
+−50.58
+
+=
+
+=
+
+−50.50
+
+M = I; B 6=
+
+0
+
+=
+
+=
+
+−49.59
+
+M = I; B 6=
+M = B; I 6=
+
+I = B; M 6=
+
+M = B; I 6=
+
+0
+0
+
+AICc
+
+=
+
+−50.58
+
+=
+
+−50.50
+
+0
+
+=
+
+−49.59
+
+=
+
+=
+
+−50.59
+
+6=
+
+0
+
+=
+
+−49.59
+
+Ancestral Character Estimation
+All considered outgroup species belonged to the branched
+architectural class, except for the Fijian Sukunia pentagonoides
+(Seem.) A.C.Sm, which is monocaulous. Among the three
+possible models of evolution that fitted the data, the best
+supported one was that of equal transition rates between classes
+(ER), with an AICc of 84.4 vs. 96.1 and 104.2 for SYM and ARD,
+respectively. According to this model, the ancestral architecture
+of Atractocarpus was most likely branched (probability = 0.98,
+Figure 6), and the monocaulous habit evolved two or three
+times in the two main New Caledonian clades (referred to
+
+Bold lines represent models with lowest AICc. M, Monocaulous; I, Intermediate; B,
+branched.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+6
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+FIGURE 2 | Branching indexes calculated on the base of (A) exploration function, (B) photosynthetic function and (C) the combination of both, for 25 Atractocarpus
+species. Letters in (C) correspond to the result of the Wilcoxon test; species with shared letters are not significantly different for a given risk of error.
+
+Trait Based Diversification
+
+as “monocaulous clade A” and “monocaulous clade B” in
+Figure 6), ca. 1.4 and 0.9–0.6 Myr ago respectively. In each clade,
+species with an intermediate architecture are closely related to
+monocaulous species, the only exception being A. brandzeanus,
+whose closest relatives are branched. Conversely, pairs of sister or
+closely related species never showed branched and monocaulous
+habit.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+Following the IACc, models 2 and 10 are the best fitted, in
+which speciation and transition rates are equal for each state
+and extinction rates are equal or null (Table 2). This means that
+diversification was not greater among the members of any of the
+architectural classes during the evolution of Atractocarpus in New
+Caledonia.
+
+7
+
+December 2018 | Volume 9 | Article 1775
+
+Frontiers in Plant Science | www.frontiersin.org
+
+8
+
+A. sp10
+A. sp8
+
+A. sp1
+42
+
+A. sp13
+38
+
+A. sp3
+38
+
+A. sezitat
+48
+
+29
+
+A. sp12
+
+A. pseudoterminalis
+
+A. mollis
+
+56
+
+5.5
+
+Max. number of
+module/branch
+
+Mean length of
+module (cm)
+
+4.8
+
+6.5
+
+8.9
+
+9.2
+
+41
+7.8
+
+7.6
+
+7
+
+31
+5.9
+
+71
+6.9
+
+6.5
+
+30
+
+28
+
+25
+
+25
+
+7.7
+
+14.8
+
+11.5
+
+6.3
+
+12.9
+
+19
+
+15
+
+12
+
+7.1
+
+16
+
+2 (-3)
+
+1-2
+
+1-2
+
+Number of relay
+
+2-3
+
+Sympodial
+
+Sympodial
+
+Branching pattern
+
+Number of
+internode/module
+
+A. sessilifolius
+2
+
+A. longistipitatus
+
+2
+
+Rhythmic
+
+2.4
+
+46
+
+1.5
+
+26
+
+12.1
+
+5
+
+2
+
+1-2
+
+8.1
+
+5
+
+Sympodial
+
+4.5
+
+9
+
+Rhythmic acrotone
+
+8.5
+
+5
+
+A. colnettianus
+5.9
+
+1
+
+2
+
+na
+
+na
+
+na
+
+5.1
+
+1
+
+A. vaginatus
+Continuous
+
+Determinate
+
+Absent
+
+Orthotropic
+
+Monopodial
+
+Continuous
+
+Indeterminate
+
+Terminal
+
+Terminal
+Rhythmic acrotone
+
+Terminal
+Rhythmic acrotone
+
+Branching position
+
+Reproduction
+
+A. bracteatus
+Orthotropic
+
+Rhythmic
+
+Rhythmic
+Orthotropic
+
+Growth periodicity
+
+Growth direction
+
+A. baladicus
+Diffuse
+
+A. pterocarpon
+Monocaulous
+
+A. heterophyllus
+
+Orthotropic
+
+Determinate
+
+Diffuse
+
+Diffuse
+
+Branching position
+Determinate
+
+Absent
+
+Absent
+
+Growth pattern
+
+Orthotropic
+
+Orthotropic
+
+Growth direction
+
+Reproduction
+
+Continuous
+Monopodial
+
+Continuous
+Monopodial
+
+Growth periodicity
+
+Branching pattern
+
+Indeterminate
+
+46
+
+A. artensis
+
+Indeterminate
+
+48
+
+A. sp4
+2-3
+
+A. sp2
+
+Growth pattern
+
+2 (-3)
+
+A. aragoensis
+
+2
+
+A. ngoyensis
+Intermediate
+
+A. brandzeanus
+
+2
+
+A. sp7
+
+Branched
+
+A. nigricans
+
+AC, Axis category; C1, First axis category (trunk); C2, Second axis category (“branches”).
+
+C2
+
+C1
+
+Number of AC
+
+Architectural class
+
+Taxon
+
+A. sp6
+
+TABLE 3 | Architectural traits of 27 Atractocarpus species.
+
+A. conferta
+1.7
+
+1
+
+1
+
+Bruy et al.
+Evolution of Plant Architecture in Atractocarpus
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+FIGURE 3 | Schematic representation of the three main architectural classes found in the rainforest understory species of Atractocarpus: (A) Monocaulous, (B)
+Intermediate (C) Branched.
+
+FIGURE 4 | Photographs of branches with their axillary leaves (i.e., from trunk) for height Atractocarpus species with different branching degrees. Arrows indicate
+apical death, i.e., flowering sites (for A. longistipitatus (E), only half of apical death has been represented). Branched species: (A) A. pseudoterminalis, (B) A. sp4.
+Intermediate species: (C) A. ngoyensis, (D) A. brandzeanus. Monocaulous species: (E) A. longistipitatus, (F) A. pterocarpon, (G) A. bracteatus, (H) A. confertus.
+
+DISCUSSION
+
+The measurement of functionally explicit variables (branch
+length and leaf area) that link plant architecture and function
+(Lauri, 1988; Lauri and Kelner, 2001; Charles-Dominique et al.,
+2017) showed that variation of growth habit in Atractocarpus
+is correlated with a gradual variation from branched species,
+for which photosynthesis and exploration are largely assumed
+by branches, toward monocaulous species, for which these
+functions are assumed by the trunk. The reduced C2 in
+monocaulous species supports a limited number of small leaves
+(on average 4 leaves of 9 cm2 ) and are dedicated almost
+
+Evolution of Plant Architecture
+Despite the diversity of growth habits in the genus Atractocarpus,
+ranging from well branched to monocaulous species, the
+architectural construction of members of the group is fairly
+homogenous. Differences between species mainly result from
+quantitative variations in which the number of modules per
+branches and module length tend to increase with increasing
+branching index.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+9
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+exclusively to reproduction. These “axes” are functionally closer
+to inflorescences than branches (Van Steenis, 1963) and are often
+considered as such by taxonomists (e.g., Fosberg et al., 1993;
+Puttock, 1999).
+The branched architectural class appears to be ancestral
+in Atractocarpus and our results indicated at least two
+independent origins of monocauly in New Caledonia. Other
+examples of derived monocauly have recently been revealed
+in flowering plants (Chomicki et al., 2017; Barrabé et al.,
+2018). The intermediate architectural class is evolutionary
+closer to the monocaulous habit since intermediate and
+monocaulous species are always sister taxa or very close
+relatives. There is a high probability that the putative ancestor
+of “monocaulous clade B,” had an intermediate architecture.
+This insight, as well as the architectural gradient observed
+among extant species, suggests a gradual evolutionary transition
+from the branched architecture toward monocauly through an
+intermediate architectural class. Reversion from a monocaulous
+architecture toward an intermediate one appears to have been
+possible (e.g., Atractocarpus sp. nov. 7) but full reversion to a
+branched architecture was not observed.
+The similarity of developmental origin and the gradual
+quantitative architectural variation of lateral axes (C2) across
+closely related taxa suggest a homologous origin of these
+axes in the Atractocarpus species studied here (see Nozeran,
+1955; Rossignol and Rossignol, 1985; Haicour et al., 1989). A
+homologous origin between vegetative and inflorescence axes
+has been suspected in several groups such as Ranunculaceae
+and Papaveraceae (Stebbins, 1973), as well as several families
+of Alismatales (Posluszny and Charlton, 1993, 1999) and
+Pandanales (Rudall and Bateman, 2006), though none of
+these studies combined architectural analysis with molecular
+phylogenetic results.
+Only a few studies to date have explored evolutionary links
+between architectural models (see Chomicki et al., 2017). In
+New Caledonia Atractocarpus, we found recurrent transitions
+from Stone’s model for branched species (with C2 functioning
+as branches) to Corner’s model for monocaulous species (with
+C2 functioning as inflorescences), although the limit between
+them remains fuzzy, as illustrated by species whose architecture
+is intermediate. The variation observed in branching degree
+across species illustrates an “architectural continuum” (Oldeman,
+1974; Barthélémy et al., 1989) rather than saltational evolution
+involving rapid and profound change in architecture (Bateman
+and DiMichele, 1994; Bateman, 1999). Nothing suggests that
+the intermediate architectural class confers lower fitness (i.e.,
+represents a fitness valley) compared to monocaulous or
+branched architecture, particularly in situations where the
+environment (rainforest understory) varies gradually. Saltation
+from one model to another might take place when gradual
+changes are impossible, for example in the colonization of
+contrasted habitats (Bateman and DiMichele, 1994). Gradual
+variation between and within models has already been noted
+(Hallé et al., 1978), suggesting that preferential transition between
+models might occur.
+The two independent origins of monocauly inferred in
+Atractocarpus illustrate two different evolutionary pathways
+
+Frontiers in Plant Science | www.frontiersin.org
+
+TABLE 4 | Phylogenetic signals of measured traits across the phylogeny of 25
+Atractocarpus species (24 for fruit volume).
+Trait
+
+Lambda
+
+p-value
+
+Kappa
+
+p-value
+
+Branching index
+
+1.013
+
+<0.001
+
+1.132
+
+0.002
+
+Slenderness ratio
+
+0.748
+
+1
+
+0.251
+
+0.539
+
+Specific wood density
+
+0.447
+
+1
+
+0.429
+
+0.242
+
+Specific stem density
+
+0.813
+
+0.265
+
+0.607
+
+0.029
+
+Internode diameter
+
+0.076
+
+0.442
+
+0.047
+
+0.533
+
+Internode length
+
+0
+
+1
+
+0.127
+
+0.946
+
+Proportion of pith
+
+0.277
+
+0.427
+
+0.603
+
+0.021
+
+Proportion of wood
+
+0.595
+
+1
+
+0.399
+
+0.39
+
+Proportion of cortex
+
+0.488
+
+1
+
+0.418
+
+0.27
+
+Huber Value
+
+0.589
+
+0.998
+
+<0.001
+
+0.035
+
+Total leaf area
+
+0.765
+
+1
+
+0.006
+
+0.165
+
+Leaf number
+
+1.105
+
+1
+
+0.001
+
+0.157
+
+Mean leaf area
+
+0.003
+
+1.105
+
+0.064
+
+0.031
+
+Specific Leaf Area
+
+0
+
+1
+
+0.042
+
+0.405
+
+Fruit volume
+
+0
+
+1
+
+0.002
+
+0.356
+
+Signal were tested with Pagel’s Lambda (left) and Blomberg’s Kappa (right). Bold lines
+represent significant phylogenetic signal following a 0.05 risk of error.
+
+TABLE 5 | Results of phylogenetical generalized least square.
+Trait
+
+log(L)
+
+Beta
+
+p-value
+
+Slenderness ratio
+
+−150.3
+
+−3.1
+
+0.004
+
+Specific wood density
+
+−0.635
+
+−0.003
+
+0.157
+
+4.982
+
+Internode diameter
+
+Specific stem density
+
+−0.0002
+
+−35.90
+
+−0.09
+
+0.018
+
+Internode length
+
+−85.30
+
+0.3
+
+0.169
+
+Proportion of pith
+Proportion of wood
+Proportion of cortex
+Huber value
+Total leaf area
+Leaf number
+
+0.290
+
+0.397
+
+0.03
+
+0.112
+
+1.477
+
+−0.0009
+
+0.002
+
+−2.600
+
+−0.01
+
+−295.9
+
+3587
+
+−282.5
+
+0.094
+<0.001
+
+288.8
+
+0.351
+
+−165.2
+
+37.2
+
+<0.001
+
+Mean leaf area
+
+−203.3
+
+−85.6
+
+0.008
+
+Specific Leaf Area
+
+−162.9
+
+15.9
+
+<0.001
+
+Fruit volume
+
+−180.5
+
+−3.8
+
+0.021
+
+Bold lines represent significant relation between corresponding trait and branching index
+following a 0.05 risk of error.
+
+involved in the transition from branches into inflorescences.
+In “monocaulous clade A,” reduction in the branching index
+occurred through a reduction in the number of modules, while in
+“monocaulous clade B,” module length is involved. Architectural
+analysis actually showed that the two species with intermediate
+architecture and the two monocaulous species belonging to the
+clade B are those with the higher number of modules (up to 46
+for the intermediate A. sessilifolius and 26 the for monocaulous
+A. longistipitatus, i.e., as much as certain branched species)
+and with shorter module length (excluding the monocaulous A.
+confertus). This type of morphological reduction observed at the
+module level in Atractocarpus could affect any elementary level
+
+10
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+FIGURE 5 | Projection of (A) species and (B) traits on the two first axis of Principal Component Analysis (see Table 1 for trait abbreviations). Ellipses represent the
+95% confidence interval for each architectural classes. Functional differences between architectural classes were tested with Permanova.
+
+2001; Westoby et al., 2002; Preston and Ackerly, 2003; Westoby
+and Wright, 2003; Pickup et al., 2005; Sun et al., 2006; Normand
+et al., 2008). Large leaves and fruit carried by a large single
+stem, as seen in monocaulous species, illustrate one extremity of
+this spectrum. The second rule (diminution of ramification), has
+received much less consideration (but see White, 1983a; Ackerly
+and Donoghue, 1998). Our results agree with this statement,
+as we have shown that internode diameter, as well as fruit
+and leaf size, are negatively correlated with branching index,
+even with phylogenetic corrections. Beyond Corner’s rules, we
+found a strong correlation between branching index and several
+functional traits related to various ecological strategies in areas
+with a similar habitat (i.e., rainforest).
+We found that branching index tends to be correlated with
+ecologically important dimensions (Mooney, 1972; Grime, 1974;
+Grime et al., 1988; Westoby et al., 2002). The large leaves
+of monocaulous species increase light interception in shady
+understory (Poorter, 1999; Rozendaal et al., 2006), their low SLA
+and Huber value are likely associated with low photosynthetic
+capacity (Field and Mooney, 1986; Shipley et al., 2005; Poorter
+and Bongers, 2006; Rozendaal et al., 2006; Pérez-Harguindeguy
+et al., 2013) and their small internode length can result from
+a slow growth rate (Mooney, 1972; Chuah, 1977; Grime et al.,
+1988; Westoby et al., 2002). Monocaulous species are likely
+skewed toward a high resource conservation strategy (Grime
+et al., 1997; Díaz et al., 2004, 2016) suited to the shady understory
+of rainforest.
+In sparsely branched to unbranched species, a distal part of
+the stem with thicker diameter and higher wood proportion
+was found to be suited to supporting large and numerous
+energetically costly leaves (higher leaf area and SLA). However,
+higher wood area does not fully compensate for high total leaf
+area of the main stem since the Huber value (the ratio of
+
+of organization in other plant groups (e.g., annual shoots, growth
+units, metamers, etc.).
+The iterative gradual transition of axillary structure (C2) from
+branches to inflorescences occurs as a functional reduction of
+vegetative growth and a change in the timing of flowering. Such
+evolutionary changes, often result from growth heterochrony
+(Smith, 2001). In the case of New Caledonian Atractocarpus,
+the axillary structure (C2) of descendants is either a truncated
+part (in “monocaulous clade A”) or a miniaturized copy (in
+“monocaulous clade B”) of that of their ancestors. This suggests
+heterochronic evolution through “neoteny” in the first case and
+through “proportional dwarfism” in the second (Gould, 1977;
+Alberch et al., 1979; Smith, 2001), but more details of the
+ontogenetic sequences are required to test these hypotheses in
+Atractocarpus.
+In this context, our original approach showed that a careful
+study of low organization levels is needed to depict the evolution
+of plant architecture. This involves a deep characterization of
+architectural units (Edelin, 1977, 1984), combining qualitative
+and quantitative traits.
+
+Branching Index, Corner’s Rules, and
+Ecological Strategies
+In the original Durian theory, Corner (1949, 1953-1954)
+proposed two fundamental rules governing plant morphology: (i)
+Axial conformity, stipulating that “the stouter, or more massive,
+the axis in a given species, the larger and more complicated its
+appendages”; and (ii) Diminution on ramification, stipulating that
+“the greater the ramification, the smaller become the branches
+and their appendages”. Axial conformity is by far the most studied
+since the leaf size—twig size and fruit size—leaf size spectra are
+among the best-documented (White, 1983b; Bond and Midgley,
+1988; Brouat et al., 1998; Cornelissen, 1999; Brouat and McKey,
+
+Frontiers in Plant Science | www.frontiersin.org
+
+11
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+FIGURE 6 | Estimation of ancestral architectural class in the genus Atractocarpus. Numbers correspond to the Bayesian probability for each reconstituted node. Gray
+box highlights New Caledonian clade. Letters (A, B) highlight major clades were shifts from branched to monocaulous or intermediate architecture operate.
+
+successful establishment (Silvertown, 2004). The large, fleshy
+fruits of Atractocarpus suggest a rather limited ability for longdistance dispersal. Such niche preemption, claimed to act as a
+major driver of monophyly and diversification in island floras
+(Silvertown, 2004), could have prevailed in the diversification
+of the New Caledonian clade of Atractocarpus. Its young age
+(estimated at 2.4 My) coincides with colonization during late
+Pleistocene, a period of intense climatic Fluctuation (Bowler
+et al., 1976; Hope and Pask, 1998; Stevenson and Hope,
+2005). Increasing evidence supports the persistence of taxa in
+rainforest refugia during the Pleistocene in New Caledonia
+(Pintaud et al., 2001; Pillon, 2012; Nattier et al., 2013; Poncet
+
+wood area to leaf area) was positively correlated with branching
+index. Detailed anatomical studies, particularly on vessel size and
+density, are needed to understand the hydraulic and mechanical
+trade-off involved in the pervasive link between leaf area, stem
+thickness and branching degree (Lehnebach et al., 2018).
+
+Divergence and Ecological Opportunities
+in New Caledonian Rainforests
+New Caledonian Atractocarpus appear to be the result of a
+single colonization event (Mouly et al., under review) and the
+archipelago is the center of diversity for the genus. Island
+colonization is a two steps process involving dispersal and
+
+Frontiers in Plant Science | www.frontiersin.org
+
+12
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+et al., 2013; Pouteau et al., 2015; Tournebize et al., 2017).
+Climatic fluctuations causing expansion and contraction of
+rainforests could also have offered ecological opportunities
+for new colonizers. Other diversified rainforest clades in New
+Caledonia have been shown to result from recent colonization
+(e.g., palms, Pintaud et al., 2001; Pillon, 2012). Similarities in
+form and physiology among close relatives, as suggested by
+our character state reconstruction and architectural analysis, are
+suggested to involve intense competition that favors divergence
+among locally coexisting species (Givnish, 2016). In support of
+this, we found notable variation in module length and number
+between sisters species, even when they belong to the same
+architectural class. In Atractocarpus, variation in growth habit is
+correlated with a gradual switch in assimilation function from
+branches to trunk, and is associated with a vertical differentiation
+of major functions. Leaf arrangement in monocaulous species
+results in important overlap that impacts photosynthesis, while
+stem slenderness suggests a rather small structural investment
+in vertical support. Branched species tend to increase light
+harvesting and reduce leaf overlap (via increase branch length),
+a strategy that require more investment in stem tissue (Givnish,
+1995), as allocation to non-leaf structures might increase with
+ramification. Atractocarpus species thus exhibit a gradient of
+foraging for light in which leaf size and disposition vary with the
+degree of ramification.
+New Caledonian rainforests are characterized by a low
+canopy (ca. 20 m) and trees with small crowns (Blanchard
+et al., 2016), two structural features that increase the number
+and intensity of sunflecks (Chazdon and Pearcy, 1991). A low
+canopy and its corollary, reduced forest stratification, could
+result in stronger competition within a given stratum. These
+forest features (high sunfleck variability, reduced stratification)
+favor niche partitioning through a gradient in architecture
+and related functional traits. Moreover, limited dispersal of
+the large fruits of Atractocarpus might interact with niche
+partitioning to promote divergent evolution. Finally, divergent
+selection may be especially favored in permissive environments
+where competition prevails over the external environment or
+in the colonization of islands where resources are underutilized
+(Givnish, 2016). New Caledonia exhibits both components of
+divergent selection: (i) climatically permissive rainforests and (ii)
+ecological opportunities offered by recent climatic fluctuations.
+Divergent selection, caused by competition among closely related
+taxa, leads to adaptive radiation, i.e., the rise of a diversity
+of ecological roles and related adaptations in different species
+among a lineage (Givnish, 2016). The theory of niche preemption holds that adaptive radiation creates a barrier that
+inhibits the establishment of closely related taxa, thus reducing
+the likelihood of repeated colonization.
+
+clearly highlights evolutionary processes behind architectural
+transitions and their link to plant ecological strategy and
+perhaps also to diversification. We have shown that gradual
+transition from one architecture to a very different one is
+possible through morpho-functional reduction of morphological
+units. Quantifying plant architecture through functional indexes
+appears to offer a promising avenue toward further understand
+the implications of architectural variation on plant fitness under
+different environmental conditions. Based on such an index,
+our study provides a functional definition of monocauly that is
+ecologically and evolutionary more explicit than one based solely
+on physiognomy (cf. Hallé et al., 1978; Chomicki et al., 2017):
+we define monocaulous species as woody plants whose cardinal
+functions (e.g., assimilation and exploration) rely on a single
+apparent stem.
+Although our work focused on a small clade, it opens new
+perspectives and proposes a general framework for further
+understanding evolution of plant architecture and its functional
+implications in other plant groups and other geographical
+areas, and at larger scales. We believe that Pleistocene climatic
+fluctuations have played a major role in the evolution of
+monocauly and more widely in shaping the current diversity
+of the New Caledonian flora. This hypothesis now needs to be
+tested at a larger phylogenetic scale in New Caledonia, as the
+monocaulous habit, which occurs repetitively in many different
+groups (Veillon, 1976; Schmid, 1979, 1990), has much to offer to
+understand the evolution, biogeography and ecology of this “very
+old Darwinian island” (Grandcolas et al., 2008).
+
+DATA AVAILABILITY STATEMENT
+All datasets generated for this study are included in the
+manuscript and the supplementary files. Data concerning
+the phylogenetic tree was obtained from Mouly et al. (under
+review) and genetic sequences are available in the European
+Nucleotide Archive (accession numbers on Appendix 2 in
+Supplementary Material). Information about study sites
+(habitat characteristics. . . ) is available through the voucher
+specimens of which duplicates have been deposited in various
+herbaria.
+
+AUTHOR CONTRIBUTIONS
+SI and DBr contributed to conception and design of the study.
+DBr, TH and LB collected field samples. TH and DBr measured
+functional traits. TH, DBr, and DBa performed architectural
+study. LB and AM produced phylogenetical tree. DBr, TH, and LB
+performed the statistical analysis. DBr and SI wrote the paper. All
+authors contributed to manuscript revision, read and approved
+the submitted version.
+
+CONCLUSION
+Despite the fundamental importance of plant architecture,
+little work has been done to integrate this aspect into key
+domains of plant science such as evolution and functional
+ecology. However, increasing availability of information on
+ecologically important traits and molecular phylogenies provides
+a basis for testing and developing new concepts. Our study
+Frontiers in Plant Science | www.frontiersin.org
+
+ACKNOWLEDGMENTS
+We are grateful to all those who helped with field data collection,
+particularly D. Fleurot and the staff of the Parc Naturel des
+Grandes Fougères. We also thank S. Lavergne for advice about
+data analysis and Y. Caraglio for sharing thoughts about our
+13
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+work. Thanks to P. Lowry for the thorough revision of the
+manuscript. Thanks also to H. Caze, C. Létocart, G. Gateblé, and
+H. Vandrot for allowing us to use their excellent photographs, and
+to the NOU and P herbaria for permitting fruit measurements on
+specimens.
+
+SUPPLEMENTARY MATERIAL
+
+REFERENCES
+
+life form in the genus Androsace S.L. (Primulaceae). Evolution 66, 1255–1268.
+doi: 10.1111/j.1558-5646.2011.01483.x
+Bowler, J. M., Hope, G. S., Jennings, J. N., Singh, G., and Walker, D. (1976).
+Late quaternary climates of Australia and New Guinea. Quat. Res. 6, 359–394.
+doi: 10.1016/0033-5894(67)90003-8
+Bramwell, D. (1975). Some morphological aspects of the adaptive radiation of
+Canary Islands Echium species. Anal. Inst. Bot. Cavanilles 32, 241–254.
+Brouat, C., Gibernau, M., Amsellem, L., and McKey, D. (1998). Corner’s rules
+revisited: ontogenetic and interspecific patterns in leaf-stem allometry. New
+Phytol. 139, 459–470. doi: 10.1046/j.1469-8137.1998.00209.x
+Brouat, C., and McKey, D. (2001). Leaf-stem allometry, hollow stems, and the
+evolution of caulinary domatia in myrmecophytes. New Phytol. 151, 391–406.
+doi: 10.1046/j.0028-646x.2001.00197.x
+Carlquist, S. (1974). Island Biology. New York, NY: Columbia University Press.
+doi: 10.5962/bhl.title.63768
+Carlquist, S. (1984). Wood and stem anatomy of Lardizabalaceae with comments
+on the vining habit, ecology and systematics. Bot. J. Linn. Soc. 88, 257–277.
+doi: 10.1111/j.1095-8339.1984.tb01575.x
+Charles-Dominique, T., Barczi, J.-F., Le Roux, E., and Chamaillé-Jammes, S.
+(2017). The architectural design of trees protects them against large herbivores.
+Funct. Ecol. 31, 1710–1717. doi: 10.1111/1365-2435.12876
+Charles-Dominique, T., Edelin, C., and Bouchard, A. (2010). Architectural
+strategies of Cornus sericea, a native but invasive shrub of Southern Quebec,
+Canada, under an open or a closed canopy. Ann. Bot. 105, 205–220.
+doi: 10.1093/aob/mcp273
+Charles-Dominique, T., Edelin, C., Brisson, J., and bouchard, A. (2012).
+Architectural strategies of Rhamnus cathartica, in relation to canopy openness.
+Botany 90, 976–989. doi: 10.1139/b2012-069
+Chazdon, R. L., and Pearcy, R. W. (1991). The importance of sunflecks
+for forest understory plants: photosynthetic machinery appears adapted
+to brief, unpredictable periods of radiation. Bioscience 41, 760–766.
+doi: 10.2307/1311725
+Chomicki, G., Coiro, M., and Renner, S. S. (2017). Evolution and ecology
+of plant architecture: integrating insights from the fossil record, extant
+morphology, developmental genetics and phylogenies. Ann. Bot. 120, 855–891.
+doi: 10.1093/aob/mcx113
+Chuah, M. S. (1977). Exemples de Corrélations Quantitatives entre Quelques
+Paramètres Déterminant la forme végétale. Ph.D. thesis, Université de
+Montpellier, Montpellier.
+Cornelissen, J. H. (1999). A triangular relationship between leaf size
+and seed size among woody species: allometry, ontogeny, ecology
+and taxonomy. Oecologia 118, 248–255. doi: 10.1007/s0044200
+50725
+Cornelissen, J. H., Lavorel, S., Garnier, E., Díaz, S., Buchmann, N., Gurvich,
+D. E., et al. (2003). A handbook of protocols for standardised and easy
+measurement of plant functional traits worldwide. Aust. J. Bot. 51, 335–380.
+doi: 10.1071/BT02124
+Corner, E. J. H. (1949). The Durian theory or the origin of the modern tree. Ann.
+Bot. 13, 367–414. doi: 10.1093/oxfordjournals.aob.a083225
+Corner, E. J. H. (1953-1954). The Durian theory extended. Parts I-III.
+Phytomorphology 3, 152–476.
+Corner, E. J. H. (1958). Transference of function. J. Linn. Soc. 44, 33–40.
+Couvreur, T. L., Kissling, W. D., Condamine, F. L., Svenning, J. C., Rowe, N. P.,
+and Baker, W. J. (2015). Global diversification of a tropical plant growth form:
+environmental correlates and historical contingencies in climbing palms. Front.
+Genet. 5:452. doi: 10.3389/fgene.2014.00452
+Díaz, S., Hodgson, J. G., Thompson, K., Cabido, M., Cornelissen, J. H. C., Jalili,
+A., et al. (2004). The plant traits that drive ecosystems: evidence from three
+continents. J. Veg. Sci. 15, 295–304. doi: 10.1111/j.1654-1103.2004.tb02266.x
+
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fpls.2018.
+01775/full#supplementary-material
+
+Ackerly, D. D. (1996). “Canopy structure and dynamics: integration of growth
+processes in tropical pioneer trees,” in Tropical Forest Plant Ecophysiology, eds
+S. S. Mulkey, R. L. Chazdon and A. P. Smith (New York, NY: Chapman & Hall),
+619–658.
+Ackerly, D. D. (2004). Adaptation, niche conservatism, and convergence:
+comparative studies of leaf evolution in the california chaparral. Am. Nat. 163,
+654–671. doi: 10.1086/383062
+Ackerly, D. D., and Donoghue, M. J. (1998). Leaf size, sapling allometry, and
+corner’s rules: phylogeny and correlated evolution in maples (Acer). Am. Nat.
+152, 767–791.
+Alberch, P., Gould, S. J., Oster, G. F., and Wake, D. B. (1979). Size
+and shape in ontogeny and phylogeny. Paleobiology 5, 296–317.
+doi: 10.1017/S0094837300006588
+Almeras, T., Costes, E., and Salles, J.-C. (2004). Identification of biomechanical
+factors involved in stem shape variability between apricot tree varieties. Ann.
+Bot. 93, 455–468. doi: 10.1093/aob/mch054
+Arakaki, M., Christin, P. A., Nyffeler, R., Lendel, A., Eggli, U., Ogburn, R.
+M., et al. (2011). Contemporaneous and recent radiations of the world’s
+major succulent plant lineages. Proc. Natl. Acad. Sci. U.S.A. 108, 8379–8384.
+doi: 10.1073/pnas.1100628108
+Aubert, S., Boucher, F., Lavergne, S., Renaud, J., and Choler, P. (2014). 1914–2014:
+A revised worldwide catalogue of cushion plants 100 years after Hauri and
+Schröter. Alpine Bot. 124, 59–70. doi: 10.1007/s00035-014-0127-x
+Barrabé, L., Lavergne, S., Karnadi-Abdelkader, G., Drew, B. T., Birnbaum, P.,
+and Gâteblé, G. (2018). Changing ecological opportunities facilitated the
+explosive diversification of New Caledonian Oxera (Lamiaceae). Syst. Biol.
+doi: 10.1093/sysbio/syy070. [Epub ahead of print].
+Barthélémy, D., and Caraglio, Y. (2007). Plant architecture: a dynamic, multilevel
+and comprehensive approach to plant form, structure and ontogeny. Ann. Bot.
+99, 375–407. doi: 10.1093/aob/mcl260
+Barthélémy, D., Edelin, C., and Hall,é, F. (1989). “Architectural concepts for
+tropical trees,” in Tropical Forests: Botanical Dynamics, Speciation and Diversity,
+eds L. B. Holm-Nielsen and H. Balslev (London: Academic Press), 89–100.
+Bateman, R. M. (1994). Evolutionary-developmental change in the growth
+architecture of fossil rhizomorphic lycopsids: scenarios constructed on cladistic
+foundations. Biol. Rev. 69, 527–597. doi: 10.1111/j.1469-185X.1994.tb01249.x
+Bateman, R. M. (1999). “Architectural radiations cannot be optimally interpreted
+without morphological and molecular phylogenies,” in The Evolution of Plant
+Architecture, eds M. H. Kurmann and A. R. Hemsley (Kew: Royal Botanic
+Gardens), 221–250.
+Bateman, R. M., and DiMichele, W. A. (1994). “Saltational evolution of form in
+vascular plants: a neoGoldschmidtian synthesis,” in Shape and Form in Plants
+and Fungi, eds D. S. Ingram and A. Hudson (London: Academic Press), 63–102.
+Blanchard, E., Birnbaum, P., Ibanez, T., Boutreux, T., Antin, C., Ploton, P.,
+et al. (2016). Contrasted allometries between stem diameter, crown area,
+and tree height in five tropical biogeographic areas. Trees 30, 1953–1968.
+doi: 10.1007/s00468-016-1424-3
+Blomberg, S. P., Garland, T., and Ives, A. R. (2003). Testing for phylogenetic signal
+in comparative data: behavioral traits are more labile. Evolution 57, 717–745.
+doi: 10.1111/j.0014-3820.2003.tb00285.x
+Bond, W. J., and Midgley, J. J. (1988). Allometry and sexual differences in leaf size.
+Am. Nat. 131, 901–910. doi: 10.1086/284830
+Boucher, F. C., Lavergne, S., Basile, M., Choler, P., and Aubert, S. (2016). Evolution
+and biogeography of the cushion life form in angiosperms. Perspect. Plant Ecol.
+Evol. Syst. 20, 22–31. doi: 10.1016/j.ppees.2016.03.002
+Boucher, F. C., Thuiller, W., Roquet, C., Douzet, R., Aubert, S., Alvarez, N.,
+et al. (2012). Reconstructing the origins of high-alpine niches and cushion
+
+Frontiers in Plant Science | www.frontiersin.org
+
+14
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+Grandcolas, P., Murienne, J., Robillard, T., Desutter-Grandcolas, L., Jourdan, H.,
+Guilbert, E., et al. (2008). New Caledonia: a very old Darwinian island? Philos.
+Trans. R. Soc. Lond. B Biol. Sci. 363, 3309–3317. doi: 10.1098/rstb.2008.0122
+Grime, J. P. (1974). Vegetation classification by reference to strategies. Nature 250,
+26–31. doi: 10.1038/250026a0
+Grime, J. P., Hodgson, J. G., and Hunt, R. (1988). Comparative Plant Ecology: a
+Functional Approach to Common British Species. London: Springer.
+Grime, J. P., Thompson, K., Hunt, R., Hodgson, J. G., Cornelissen, J. H. C., Rorison,
+I. H., et al. (1997). Integrated screening validates primary axes of specialisation
+in plants. Oikos 79, 259–281. doi: 10.2307/3546011
+Haicour, R., Nozeran, R., Rossignol, L., and Rossignol, M. (1989). Les
+Phyllanthus: un excellent matériel pour l’étude du polymorphisme. Bulletin
+de la Société Botanique de France. Actualités Botaniques 136, 139–150.
+doi: 10.1080/01811789.1989.10826968
+Hallé, F., Oldeman, R. A. A., and Tomlinson, P. B. (1978). Tropical Trees and
+Forests an Architectural Analysis. New York, NY: Springer-Verlag.
+Homeier, J., Breckle, S.-W., Günter, S., Rollenbeck, R. T., and Leuschner, C.
+(2010). Tree diversity, forest structure and productivity along altitudinal and
+topographical gradients in a species-rich Ecuadorian montane rain forest.
+Biotropica 42, 140–148. doi: 10.1111/j.1744-7429.2009.00547.x
+Hope, G., and Pask, J. (1998). Tropical vegetational change in the late
+Pleistocene of New Caledonia. Palaeogeogr. Palaeoclimatol. Palaeoecol. 142,
+1–21. doi: 10.1016/S0031-0182(97)00140-5
+Hummel, I., Vile, D., Violle, C., Devaux, J., Ricci, B., Blanchard, A., et al.
+(2007). Relating root structure and anatomy to whole-plant functioning
+in 14 herbaceous Mediterranean species. New Phytol. 173, 313–321.
+doi: 10.1111/j.1469-8137.2006.01912.x
+Isnard, S., Prosperi, J., Wanke, S., Wagner, S. T., Samain, M. S., Trueba, S., et al.
+(2012). Growth form evolution in Piperales and its relevance for understanding
+the angiosperm diversification – An integrative approach combining plant
+architecture, anatomy and biomechanics. Int. J. Plant Sci. 173, 610–639.
+doi: 10.1086/665821
+Ives, A. R., Midford, P. E., and Garland, T. (2007). Within-species measurement
+error in phylogenetic comparative methods. Syst. Biol. 56, 252–270.
+doi: 10.1080/10635150701313830
+Kamilar, J. M., and Cooper, N. (2013). Phylogenetic signal in primate
+behaviour, ecology and life history. Phil. Trans. R. Soc. Biol. Sci. 368, 1–10.
+doi: 10.1098/rstb.2012.0341
+Kembel, S. W. (2009). Disentangling niche and neutral influences on community
+assembly: assessing the performance of community phylogenetic structure
+tests. Ecol. Lett. 12, 949–960. doi: 10.1111/j.1461-0248.2009.01354.x
+Küppers, M. (1989). Ecological significance of above-ground architectural patterns
+in woody plants: a question of cost-benefit relationships. Trends Ecol. Evol. 4,
+375–379. doi: 10.1016/0169-5347(89)90103-1
+Kurmann, M. H., and Hemsley, A. R. (eds.). (1999). The Evolution of Plant
+Architecture. London: Kew Royal Botanic Garden.
+Lauri, P.-E. (1988). Le Mouvement Morphogenetique, Approche Morphometrique et
+Restitution Graphique: L’exemple de Quelques Plantes Tropicales. Ph.D. thesis,
+Université de Montpellier, Montpellier.
+Lauri, P.-E., and Kelner, J.-J. (2001). Shoot type demography and dry matter
+partitioning: a morphometric approach in apple (Malus × domestica). Can. J.
+Bot. 79, 1270–1273. doi: 10.1139/b01-113
+Lehnebach, R., Beyer, R., Letort, V., and Heuret, P. (2018). The pipe model theory
+half a century on: a review. Ann. Bot. 121, 773–795. doi: 10.1093/aob/mcx194
+Lens, F., Davin, N., Smets, E., and del Arco, M. (2013). Insular woodiness on the
+Canary Islands: a remarkable case of convergent evolution. Int. J. Plant Sci. 174,
+992–1013. doi: 10.1086/670259
+León Enriquez, B., L., Vester, H., Franciscus, M., and Hallé, F. (2008). The
+architecture of Phyllanthus acuminatus Vahl: a prelude to understanding the
+architectural evolution in the Phyllanthaceae. Adansonia 30, 137–149.
+Levionnois, S., Coste, S., Nicolini, E., Stahl, C., Morel, H., and Heuret,
+P. (2018). Sent to the Corner: xylem vessel anatomy not surface area
+determines megaphyll hydraulics in Cecropia obtusa Trécul (Urticaceae).
+bioRxiv. doi: 10.1101/259036
+Meyer-Berthaud, B., Soria, A., and Decombeix, A.-L. (2010). The land plant cover
+in the Devonian: a reassessment of the evolution of the tree habit. Geol. Soc.
+Lond. Spec. Public. 339, 59–70. doi: 10.1144/SP339.6
+
+Díaz, S., Kattge, J., Cornelissen, J. H., Wright, I. J., Lavorel, S., Dray, S., et al.
+(2016). The global spectrum of plant form and function. Nature 529, 167–171.
+doi: 10.1038/nature16489
+Dong, B.-C., Yu, G.-L., Guo, W., Zhang, M.-X., Dong, M., and Yu, F.-H. (2010).
+How internode length, position and presence of leaves affect survival and
+growth of Alternanthera philoxeroides after fragmentation? Evol. Ecol. 24,
+1447–1461. doi: 10.1007/s10682-010-9390-5
+Dray, S., and Dufour, A.-B. (2007). The ade4 package: implementing the duality
+diagram for ecologists. J. Stat. Softw. 22, 1–20. doi: 10.18637/jss.v022.i04
+Drummond, C. S., Eastwood, R. J., Miotto, S. T., and Hughes, C. E. (2012). Multiple
+continental radiations and correlates of diversification in lupinus (leguminosae):
+testing for key innovation with incomplete taxon sampling. Syst. Biol. 61,
+443–460. doi: 10.1093/sysbio/syr126
+Duncan, W. G., and Hesketh, J. D. (1968). Net photosynthetic
+rates, relative leaf growth rates, and leaf numbers of 22 races
+of maize grown at eight temperatures. Crop Sci. 8, 670–674.
+doi: 10.2135/cropsci1968.0011183X000800060009x
+Edelin, C. (1977). Image sur l’architecture des Conifères. Ph.D. thesis. Université de
+Montpellier, Montpellier.
+Edelin, C. (1984). L’architecture Monopodiale: l’exemple de quelques Arbres d’Asie
+tropicale. Ph.D. thesis, Université de Montpellier, Montpellier.
+Felsenstein, J. (1985). Phylogenies and the comparative method. Am. Nat. 125,
+1–15. doi: 10.1086/284325
+Field, C. B., and Mooney, H. A. (1986). “The photosynthesis–nitrogen relationship
+in wild plants,” in On the Economy of Plant Form and Function, ed T. J. Givnish
+(Cambridge: Cambridge University Press), 25–55.
+Fitzjohn, R. G. (2012). Diversitree: comparative phylogenetic analyses
+of diversification in R. Methods Ecol. Evol. 3, 1084–1092.
+doi: 10.1111/j.2041-210X.2012.00234.x
+Fitzjohn, R. G., Maddison, W. P., and Otto, S. P. (2009). Estimating
+trait-dependent speciation and extinction rates from incompletely
+resolved phylogenies. Syst. Biol. 58, 595–611. doi: 10.1093/sysbio/
+syp067
+Fosberg, F. R. (1987). The genus Trukia Kanehira (Rubiaceae). Phytologia 62,
+171–176.
+Fosberg, F. R., Sachet, M.-H., and Olivier, R. L. (1993). “Bignoniaceae-Rubiaceae,”
+in Flora of Micronesia. (Washington, DC: Smithsonian Contributions to
+Botany), 1–135. doi: 10.5479/si.0081024X.81
+Freckleton, R. P., Harvey, P. H., and Pagel, M. (2002). Phylogenetic analysis
+and comparative data: a test and review of evidence. Am. Nat. 160, 712–726.
+doi: 10.1086/343873
+Gianoli, E. (2004). Evolution of a climbing habit promotes diversification
+in flowering plants. Proc. R. Soc. Biol. Sci. 271, 2011–2015.
+doi: 10.1098/rspb.2004.2827
+Givnish, T. J. (1995). “Plant stems: biomechanical adaptation for energy capture
+and influence on species distributions,” in Plant Stems, ed B. L. Gartner. (San
+Diego, CA: Academic Press), 3–49.
+Givnish, T. J. (2010). Giant lobelias exemplify convergent evolution. BMC Biol. 8:3.
+doi: 10.1186/1741-7007-8-3
+Givnish, T. J. (2016). “convergent evolution, adaptive radiation, and species
+diversification in plants,” in Encyclopedia of Evolutionary Biology, ed R. M.
+Kliman (Oxford: Academic Press), 362–373.
+Givnish, T. J., Barfuss, M. H., Van Ee, B., Riina, R., Schulte, K., Horres, R.,
+et al. (2014). Adaptive radiation, correlated and contingent evolution, and
+net species diversification in Bromeliaceae. Mol. Phylogenet. Evol. 71, 55–78.
+doi: 10.1016/j.ympev.2013.10.010
+Givnish, T. J., Millam, K. C., Mast, A. R., Paterson, T. B., Theim, T. J., Hipp, A.
+L., et al. (2009). Origin, adaptive radiation and diversification of the Hawaiian
+lobeliads (Asterales: Campanulaceae). Proc. R. Soc. Biol. Sci. 276, 407–416.
+doi: 10.1098/rspb.2008.1204
+Givnish, T. J., and Sytsma, K. J. (1997). Molecular Evolution and Adaptive
+Radiation. Cambridge: Cambridge University Press.
+Gleason, S. M., Butler, D. W., Zieminska, K., Waryszak, P., and Westoby,
+M. (2012). Stem xylem conductivity is key to plant water balance
+across Australian angiosperm species. Funct. Ecol. 26, 343–352.
+doi: 10.1111/j.1365-2435.2012.01962.x
+Gould, S. J. (1977). Ontogeny and Phylogeny. Cambridge: Harvard University Press.
+
+Frontiers in Plant Science | www.frontiersin.org
+
+15
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+Poorter, L. (1999). Growth responses of 15 rain-forest tree species to a light
+gradient, the relative importance of morphological and physiological traits.
+Funct. Ecol. 13, 396–410. doi: 10.1046/j.1365-2435.1999.00332.x
+Poorter, L., and Bongers, F. (2006). Leaf traits are good predictors of plant
+performance across 53 rain forest species. Ecology 87, 1733–1743. doi: 10.1890/
+0012-9658(2006)87[1733:LTAGPO]2.0.CO;2
+Posluszny, U., and Charlton, W. A. (1993). Evolution of the helobial flower. Aquat.
+Bot. 44, 303–324. doi: 10.1016/0304-3770(93)90074-7
+Posluszny, U., and Charlton, W. A. (1999). “Multiple redundancy in
+hydrocharis morsus-ranae,” in The Evolution of Plant Architecture, eds
+M. H. Kurmann and A. R. Hemsley (London: Royal Botanical Garden, Kew),
+135–146.
+Pouteau, R., Trueba, S., Feild, T. S., and Isnard, S. (2015). New Caledonia: a
+Pleistocene refugium for rain forest lineages of relict angiosperms. J. Biogeogr.
+42, 2062–2077. doi: 10.1111/jbi.12581
+Preston, K. A., and Ackerly, D. D. (2003). Hydraulic architecture and the
+evolution of shoot allometry in contrasting climates. Am. J. Bot. 90, 1502–1512.
+doi: 10.3732/ajb.90.10.1502
+Puttock, C. F. (1999). Revision of Atractocarpus (Rubiaceae: Gardenieae) in
+Australia and new combinations for some Extra-Australian Taxa. Aust. Syst.
+Bot. 12, 271–309. doi: 10.1071/SB97030
+Revell, L. (2012). Phytools: an R package for phylogenetic comparative
+biology (and other things). Methods Ecol. Evol. 3, 217–223.
+doi: 10.1111/j.2041-210X.2011.00169.x
+Robbrecht, E., and Puff, C. (1986). A survey of the Gardenieae and related tribes
+(Rubiaceae). Botanische Jahrbücher fur Systematik 108, 63–137.
+Rossignol, L., and Rossignol, M. (1985). Architecture et tendances évolutives dans
+le genre Phyllanthus (Euphorbiaceae). Adansonia 3, 67–80.
+Rowe, N., and Speck, T. (2005). Plant growth forms: an ecological and evolutionary
+perspective. New Phytologist 166, 61–72. doi: 10.1111/j.1469-8137.2004.01309.x
+Rozendaal, D. M. A., Hurtado, V. H., and Poorter, L. (2006). Plasticity in
+leaf traits of 38 tropical tree species in response to light; relationships
+with light demand and adult stature. Funct. Ecol. 20, 207–216.
+doi: 10.1111/j.1365-2435.2006.01105.x
+Rudall, P., and Bateman, R. M. (2006). Morphological phylogenetic analysis of
+pandanales: testing contrasting hypotheses of floral evolution. Syst. Bot. 31,
+223–238. doi: 10.1600/036364406777585766
+Schmid, M. (1979). “Les écosystèmes forestiers mélanésiens (Nouvelle Calédonie,
+Nouvelles-Hébrides, Fidji et îles Salomon),” in Ecosystèmes forestiers
+tropicaux, ed UNESCO (Paris: UNESCO - Natural Resources Research),
+709–740.
+Schmid, M. (1990). Conditions d’évolution et caractèristiques du peuplement
+végétal insulaire en Mélanésie Occidentale: Nouvelle-Calédonie et Vanuatu.
+Bulletin de la Société Zoologique de France 112, 233–254.
+Schuerger, A. C., Brown, C. S., and Stryjewsky, E. (1997). Anatomical features
+of pepper plants (Capsicum annuum L.) grown under red light-emitting
+diodes supplemented with blue or far-red light. Ann. Bot. 79, 273–282.
+doi: 10.1006/anbo.1996.0341
+Shipley, B., Vile, D., Garnier, E., Wright, I. J., and Poorter, H. (2005).
+Functional linkages between leaf traits and net photosynthetic rate:
+reconciling empirical and mechanistic models. Funct. Ecol. 19, 602–615.
+doi: 10.1111/j.1365-2435.2005.01008.x
+Silvertown, J. (2004). The ghost of competition past in the phylogeny of island
+endemic plants. J. Ecol. 92, 168–173. doi: 10.1111/j.1365-2745.2004.00853.x
+Silvertown, J., Francisco-Ortega, J., and Carine, M. A. (2005). The
+monophyly of island radiations: an evaluation of niche pre-emption
+and some alternative explanations. Journal of Ecology 93, 653–657.
+doi: 10.1111/j.1365-2745.2005.01038.x
+Smith, A. C., and Darwin, S. P. (1988). “Rubiaceae,” in Flora Vitiensis Nova: a new
+flora of Fiji, ed A. C. Smith (Lawai: Pacific Tropical Botanical Garden), 143–376.
+Smith, D. D., Sperry, J. S., Enquist, B. J., Savage, V. M., McCulloh, K. A., and
+Bentley, L. P. (2014). Deviation from symmetrically self-similar branching in
+trees predicts altered hydraulics, mechanics, light interception and metabolic
+scaling. New Phytol. 201, 217–229. doi: 10.1111/nph.12487
+Smith, K. K. (2001). Heterochrony revisited: the evolution of
+developmental
+sequences. Biol.
+J.
+Linn.
+Soc. 73, 169–186.
+doi: 10.1111/j.1095-8312.2001.tb01355.x
+
+Millan, M. (2016). Analyse de la variabilité des traits architecturaux des formes
+de croissance dans les communautés végétales. Ph.D. thesis, Université de
+Montpellier, Montpellier.
+Millet, J., Bouchard, A., and Edelin, C. (1999). Relationship between architecture
+and successional status of trees in the temperate deciduous forest. Ecoscience 6,
+187–203. doi: 10.1080/11956860.1999.11682520
+Mooney, H. A. (1972). The carbon balance of plants. Annu. Rev. Ecol. Syst. 3,
+315–346. doi: 10.1146/annurev.es.03.110172.001531
+Mouly, A., Kainulainen, K., Persson, C., Davis, A., Meng Wong, K.,
+Razafimandimbison, S., et al. (2014). Phylogenetic structure and clade
+circumscriptions in the Gardenieae complex (Rubiaceae). Taxon 63, 801–818.
+doi: 10.12705/634.4
+Münkemüller, T., Lavergne, S., Bzeznik, B., Dray, S., Jombart, T., Schiffers, K., et al.
+(2012). How to measure and test phylogenetic signal. Methods Ecol. Evol. 3,
+743–756. doi: 10.1111/j.2041-210X.2012.00196.x
+Nattier, R., Grandcolas, P., Pellens, R., Jourdan, H., Couloux, A., Poulain,
+S., et al. (2013). Climate and soil type together explain the distribution
+of microendemic species in a biodiversity hotspot. PLoS ONE 8:e80811.
+doi: 10.1371/journal.pone.0080811
+Niklas, K. J. (1992). Plant Biomechanics: An Engineering Approach to Plant Form
+and Function. Chicago, IL: University of Chicago Press.
+Niklas, K. J., Cobb, E. D., and Marler, T. (2006). A comparison between the record
+height-to-stem diameter allometries of pachycaulis and leptocaulis species.
+Ann. Bot. 97, 79–83. doi: 10.1093/aob/mcj002
+Normand, F., Bissery, C., Damour, G., and Lauri, P. E. (2008). Hydraulic
+and mechanical stem properties affect leaf-stem allometry in mango
+cultivars. New Phytol. 178, 590–602. doi: 10.1111/j.1469-8137.2008.
+02380.x
+Nozeran, R. (1955). À propos des phénomènes de transfert des fonctions
+reproductrices. Rec. Trav. Inst. Bot. Montpellier 7, 75–82.
+Ogburn, R. M. and Edwards, E. J. (2010). “The ecological water-use strategies of
+succulent plants,” in Advances in Botanical Research, eds J.-C. Kader and M.
+Delseny (Burlington, NJ: Academic Press), 179–225.
+Oksanen, J., Blanchet, F. G., Friendly, M., Kindt, R., Legendre, P., McGlinn, D.,
+et al. (2018). vegan: Community Ecology Package. R package version 2.4-6.
+Available online at: http://CRAN.R-project.org/package=vegan
+Oldeman, R. A. A. (1974). L’Architecture de la Forêt Guyanaise. Paris: ORSTOM.
+Olson, M. E., Aguirre-Hernàndez, R., and Rosell, J. A. (2009). Universal
+foliage-stem scaling across environments and species in dicot trees:
+plasticity, biomechanics and Corner’s Rules. Ecol. Lett. 12, 210–219.
+doi: 10.1111/j.1461-0248.2008.01275.x
+Pagel, M. (1999). Inferring the historical patterns of biological evolution. Nature
+401, 877–884. doi: 10.1038/44766
+Paradis, E., Claude, J., and Strimmer, K. (2004). APE: analyses of
+phylogenetics and evolution in R language. Bioinformatics 20, 289–290.
+doi: 10.1093/bioinformatics/btg412
+Penfound, W. T. (1931). Plant anatomy as conditioned by light intensity and soil
+moisture. Am. J. Bot. 18, 558–572. doi: 10.1002/j.1537-2197.1931.tb09609.x
+Pérez-Harguindeguy, N., Díaz, S., Garnier, E., Lavorel, S., Poorter, H.,
+Jaureguiberry, P., et al. (2013). New handbook for standardised
+measurement of plant functional traits worldwide. Aust. J. Bot. 61, 167–234.
+doi: 10.1071/BT12225
+Pickup, M., Westoby, M., and Basden, A. (2005). Dry mass costs of
+deploying leaf area in relation to leaf size. Funct. Ecol. 19, 88–97.
+doi: 10.1111/j.0269-8463.2005.00927.x
+Pillon, Y. (2012). Time and tempo of diversification in the flora of New Caledonia.
+Bot. J. Linn. Soc. 170, 288–298. doi: 10.1111/j.1095-8339.2012.01274.x
+Pintaud, J. C., Jaffré, T., and Puig, H. (2001). Chorology of New Caledonian palms
+and possible evidence of Pleistocene rain forest refugia. C. R. Acad. Sci. III. 324,
+453–463. doi: 10.1016/S0764-4469(01)01312-9
+Poncet, V., Munoz, F., Munzinger, J., Pillon, Y., Gomez, C., Couderc, M.,
+et al. (2013). Phylogeography and niche modelling of the relict plant
+Amborella trichopoda (Amborellaceae) reveal multiple Pleistocene refugia in
+New Caledonia. Mol. Ecol. 22, 6163–6178. doi: 10.1111/mec.12554
+Poorter, H., Niinemets, U., Poorter, L., Wright, I. J., and Villar, R. (2009). Causes
+and consequences of variation in leaf mass per area (LMA): a meta-analysis.
+New Phytol. 182, 565–588. doi: 10.1111/j.1469-8137.2009.02830.x
+
+Frontiers in Plant Science | www.frontiersin.org
+
+16
+
+December 2018 | Volume 9 | Article 1775
+
+Bruy et al.
+
+Evolution of Plant Architecture in Atractocarpus
+
+Piperales, with special focus on Aristolochia. Ann. Bot. 113, 1139–1154.
+doi: 10.1093/aob/mcu044
+Warming, E. (1909). Oecology of Plants: An Introduction to the Study of PlantCommunities. Oxford: Clarendon Press.
+Weijschedé, J., Berentsen, R., de Kroon, H., and Huber, H. (2007). Variation
+in petiole and internode length affects plant performance in Trifolium
+repens under opposing selection regimes. Evol. Ecol. 22, 383–397.
+doi: 10.1007/s10682-007-9224-2
+Westoby, M., Falster, D. S., Moles, A. T., Vesk, P. A., and Wright,
+I. J. (2002). Plant Ecological strategies: some leading dimensions
+of variation between species. Annu. Rev. Ecol. Syst. 33, 125–159.
+doi: 10.1146/annurev.ecolsys.33.010802.150452
+Westoby, M., and Wright, I. J. (2003). The leaf size-twig size spectrum and its
+relationship to other important spectra of variation among species. Oecologia
+135, 621–628. doi: 10.1007/s00442-003-1231-6
+White, P. S. (1983a). Corner’s rules in eastern deciduous trees: allometry and its
+implications for the adaptive architecture of trees. Bull. Torrey Botan. Club 110,
+203–212. doi: 10.2307/2996342
+White, P. S. (1983b). Evidence that temperate east noth american
+evergreen woody plants follow Corner’s rules. New Phytol. 95, 139–145.
+doi: 10.1111/j.1469-8137.1983.tb03477.x
+Wong, K. M. (2004). Bungarimba (Rubiaceae), a new genus distinguished from
+Porterandia and other allies. Sandakania 15, 25–54.
+Wright, I. J., Ackerly, D. D., Bongers, F., Harms, K. E., Ibarra-Manriquez, G.,
+Martinez-Ramos, M., et al. (2007). Relationships among ecologically important
+dimensions of plant trait variation in seven neotropical forests. Ann. Bot. 99,
+1003–1015. doi: 10.1093/aob/mcl066
+Zahid, M. S., and Wong, K. M. (2004). Tree architecture in Porterandia
+(Rubiaceae). Sandakania 15, 79–91.
+Zahid, M. S., and Wong, K. M. (2010). The circumscription, taxonomy and
+biogeography of Porterandia (Rubiaceae - Gardenieae). Edinb. J. Bot. 67,
+265–342. doi: 10.1017/S096042861000003X
+
+Sousa-Baena, M. S., Sinha, N. R., Hernandes-Lopes, J., and Lohmann, L. G.
+(2018). Convergent evolution and the diverse ontogenetic origins of tendrils
+in angiosperms. Front. Plant Sci. 9:403. doi: 10.3389/fpls.2018.00403
+Sousa-Baena, M. S., Sinha, N. R., and Lohmann, L. G. (2014). Evolution
+and Development of Tendrils in Bignonieae (Lamiales, Bignoniaceae). Ann.
+Missouri Bot. Gard. 99, 323–347. doi: 10.3417/2011018
+Stebbins, G. L. (1973). Evolutionary trends in the inflorescence of angiosperms.
+Flora 162, 501–528. doi: 10.1016/S0367-2530(17)31733-4
+Stevenson, J., and Hope, G. (2005). A comparison of late Quaternary forest
+changes in New Caledonia and northeastern Australia. Quat. Res. 64, 372–383.
+doi: 10.1016/j.yqres.2005.08.011
+Sun, S., Jin, D., and Shi, P. (2006). The leaf size-twig size spectrum of temperate
+woody species along an altitudinal gradient: an invariant allometric scaling
+relationship. Ann. Bot. 97, 97–107. doi: 10.1093/aob/mcj004
+Sussex, I. M., and Kerk, N. M. (2001). The evolution of plant architecture. Curr.
+Opin. Plant Biol. 4, 33–37. doi: 10.1016/S1369-5266(00)00132-1
+Thiers, B., (continuously updated). Index Herbariorum: A Global Directory of
+Public Herbaria and Associated Staff [Online]. New York Botanical Garden’s
+Virtual Herbarium. Available: http://sweetgum.nybg.org/science/ih/ (Accessed
+Mar 20, 2018).
+Tirvengadum, D. D., and Sastre, C. (1979). La signification taxonomique des
+modes de ramification de Randia et genres affines. Maur. Instit. Bull. 8, 77–98.
+Tong, Y. H., Xu, W. B., Deng, Y. F., Wong, K. M., and Xia, N. H. (2013).
+Rubovietnamia sericantha (Rubiaceae: Gardenieae), a new combination and
+notes on the genus in China. Gard. Bull. Singapore 65, 107–114.
+Tournebize, R., Manel, S., Vigouroux, Y., Munoz, F., de Kochko, A., and Poncet,
+V. (2017). Two disjunct Pleistocene populations and anisotropic postglacial
+expansion shaped the current genetic structure of the relict plant Amborella
+trichopoda. PLoS ONE 12:e0183412. doi: 10.1371/journal.pone.0183412
+Trueba, S., Isnard, S., Barthélémy, D., and Olson, M. E. (2016). Trait
+coordination, mechanical behaviour and growth form plasticity of Amborella
+trichopoda under variation in canopy openness. AoB Plants 8, 1–18.
+doi: 10.1093/aobpla/plw068
+Van Steenis, C. G. G. J. (1963). Definition of the concept “inflorescence” with
+special reference to ligneous plants. Flora Malesiana Bull. 18, 1005–1007.
+Veillon, J. M. (1976). Architecture Végétative de Quelques Arbres de l’archipel Néocaledonien. Ph.D. thesis, Université des sciences et techniques du Languedoc,
+Montpellier.
+Vertessy, R. A., Benyon, R. G., O’Sullivan, S. K., and Gribben, P. R.
+(1995). Relationships between stem diameter, sapwood area, leaf area and
+transpiration in a young mountain ash forest. Tree Physiol. 15, 559–567.
+doi: 10.1093/treephys/15.9.559
+Wagner, S. T., Hesse, L., Isnard, S., Samain, M. S., Bolin, J., Maass, E., et al. (2014).
+Major trends in stem anatomy and growth forms in the perianth-bearing
+
+Frontiers in Plant Science | www.frontiersin.org
+
+Conflict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest.
+Copyright © 2018 Bruy, Hattermann, Barrabé, Mouly, Barthélémy and Isnard.
+This is an open-access article distributed under the terms of the Creative Commons
+Attribution License (CC BY). The use, distribution or reproduction in other forums
+is permitted, provided the original author(s) and the copyright owner(s) are credited
+and that the original publication in this journal is cited, in accordance with accepted
+academic practice. No use, distribution or reproduction is permitted which does not
+comply with these terms.
+
+17
+
+December 2018 | Volume 9 | Article 1775
+
+

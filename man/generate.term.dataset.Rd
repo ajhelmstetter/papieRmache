@@ -20,7 +20,9 @@ A list of frequencies of keywords for each paper
 Generate frequencies of terms for each paper
 }
 \examples{
-ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = c("bisse","musse"))
+download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+unzip("./test_pdfs.zip")
+ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
+generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = c("bisse","musse"))
 
 }

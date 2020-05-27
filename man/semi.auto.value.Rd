@@ -24,9 +24,14 @@ A data frame containing matches above threshold and verified matches
 Interactively retrieve quantitative data from a paper
 }
 \examples{
+download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+unzip("./test_pdfs.zip")
+
+ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
+
 keywords<-c('species')
-ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
-td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
-semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords ="species", out_file ="species_number", cleaned_text = ct, sorted_words = td)
+
+td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
+semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, out_file ="species_number", cleaned_text = ct, sorted_words = td)
 
 }

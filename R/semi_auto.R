@@ -11,11 +11,16 @@
 #' @export
 #'
 #' @examples
+#' download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+#' unzip("./test_pdfs.zip")
+#'
+#' ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 #'
 #' keywords<-c('bisse','musse')
-#' ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
-#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
-#' semi.auto(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
+#'
+#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
+#'
+#' semi.auto(in_dir = "./test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
 #'
 semi.auto <- function(in_dir ,keywords, n, out_file, cleaned_text, sorted_words) {
 
@@ -158,7 +163,11 @@ semi.auto <- function(in_dir ,keywords, n, out_file, cleaned_text, sorted_words)
 
     names(traits_vect) <- data_files
 
-    saveRDS(traits_vect, file = paste(out_file, "tax.rds", sep = "_"))
+    ####
+    # ask to save?
+    ####
+
+    #saveRDS(traits_vect, file = paste(out_file, "tax.rds", sep = "_"))
 
     return(traits_vect)
 
@@ -177,10 +186,15 @@ semi.auto <- function(in_dir ,keywords, n, out_file, cleaned_text, sorted_words)
 #' @export
 #'
 #' @examples
+#' download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+#' unzip("./test_pdfs.zip")
+#'
+#' ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
+#'
 #' keywords<-c('species')
-#' ct<-clean.text(in_dir = "./inst/extdata/test_pdfs/")
-#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./inst/extdata/testpdfs/",keywords = keywords)
-#' semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords ="species", out_file ="species_number", cleaned_text = ct, sorted_words = td)
+#'
+#' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
+#' semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, out_file ="species_number", cleaned_text = ct, sorted_words = td)
 #'
 semi.auto.value <- function(in_dir,keywords, out_file, cleaned_text, sorted_words) {
 
@@ -303,9 +317,13 @@ semi.auto.value <- function(in_dir,keywords, out_file, cleaned_text, sorted_word
     traits_mat[traits_mat == ""] <- NA
     traits_mat[traits_mat == "n"] <- NA
 
-    saveRDS(traits_mat, file = paste(out_file, "mat.rds", sep = "_"))
+    ####
+    # ask to save?
+    ####
 
-    write.csv(traits_mat,file = paste(out_file, "mat.csv", sep = "_"))
+    #saveRDS(traits_mat, file = paste(out_file, "mat.rds", sep = "_"))
+
+    #write.csv(traits_mat,file = paste(out_file, "mat.csv", sep = "_"))
 
     return(traits_mat)
 

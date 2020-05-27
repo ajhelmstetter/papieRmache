@@ -18,6 +18,8 @@ list of cleaned texts
 Clean text files
 }
 \examples{
-data(papieRmache)
-clean.text(in_dir = "./extdata/test_pdfs/",all_keywords=kw)
+
+download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")
+unzip("./test_pdfs.zip")
+clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 }
