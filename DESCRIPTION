@@ -24,3 +24,5 @@ Imports:
 License: MIT
 LazyData: true
 RoxygenNote: 7.1.0
+URL: https://github.com/ajhelmstetter/papieRmache
+BugReports: https://github.com/ajhelmstetter/papieRmache/issues
