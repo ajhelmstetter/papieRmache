@@ -21,7 +21,8 @@ Depends:
     rmarkdown (>= 2.1),
     stringi (>= 1.4.6),
     tm (>= 0.7-7),
-    R (>= 2.10)
+    R (>= 3.5),
+    rJava
 License: MIT
 LazyData: true
 RoxygenNote: 7.1.0
