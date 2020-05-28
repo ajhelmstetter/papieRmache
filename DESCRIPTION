@@ -11,7 +11,10 @@ Depends:
     stringi (>= 1.4.6),
     tm (>= 0.7-7),
     R (>= 3.5),
-    textclean
+    textclean,
+    tibble,
+    dplyr,
+    tidyr
 License: MIT
 LazyData: true
 RoxygenNote: 7.1.0
