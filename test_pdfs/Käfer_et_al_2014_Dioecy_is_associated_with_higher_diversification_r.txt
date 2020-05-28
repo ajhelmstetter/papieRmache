@@ -1,0 +1,1278 @@
+doi: 10.1111/jeb.12385
+
+Dioecy is associated with higher diversification rates in flowering
+plants
+€ ER*, H. J.
+J . K AF
+
+DE
+
+BOER†‡§, S. MOUSSET*, A. KOOL§, M. DUFAY¶ & G. A. B. MARAIS*
+
+*Universite Lyon 1, Centre National de la Recherche Scientifique, UMR5558, Laboratoire de Biometrie et Biologie Evolutive, Villeurbanne, France
+†Department of Systematic Biology, Evolutionary Biology Centre, Uppsala University, Uppsala, Sweden
+‡Naturalis Biodiversity Center, Leiden, The Netherlands
+§Natural History Museum, University of Oslo, Oslo, Norway
+¶Universite de Lille 1, Laboratoire Genetique et Evolution des Populations Vegetales, Villeneuve d’Ascq, France
+
+Keywords:
+
+Abstract
+
+angiosperms;
+dioecy;
+diversification;
+phylogenetic methods;
+sister clades.
+
+In angiosperms, dioecious clades tend to have fewer species than their nondioecious sister clades. This departure from the expected equal species richness in the standard sister clade test has been interpreted as implying that
+dioecious clades diversify less and has initiated a series of studies suggesting
+that dioecy might be an ’evolutionary dead end‘. However, two of us recently
+showed that the ‘equal species richness‘ null hypothesis is not valid in the
+case of derived char acters, such as dioecy, and proposed a new test for sister
+clade comparisons; preliminary results, using a data set available in the litterature, indicated that dioecious clades migth diversify more than expected.
+However, it is crucial for this new test to distinguish between ancestral and
+derived cases of dioecy, a criterion that was not taken into account in the
+available data set. Here, we present a new data set that was obtained by
+searching the phylogenetic literature on more than 600 completely dioecious
+angiosperm genera and identifying 115 sister clade pairs for which dioecy is
+likely to be derived (including > 50% of the dioecious species). Applying the
+new sister clade test to this new dataset, we confirm the preliminary result
+that dioecy is associated with an increased diversification rate, a result that
+does not support the idea that dioecy is an evolutionary dead end in angiosperms. The traits usually associated with dioecy, that is, an arborescent
+growth form, abiotic pollination, fleshy fruits or a tropical distribution, do not
+influence the diversification rate. Rather than a low diversification rate, the
+observed species richness patterns of dioecious clades seem to be better
+explained by a low transition rate to dioecy and frequent losses.
+
+Introduction
+Dioecy, that is, having separate sexes, is the norm in
+many animal clades, but rather rare in flowering plants,
+occurring in only about 6% of all species (Renner &
+Ricklefs, 1995). Indeed, dioecy comes with some costs
+(Whitfield, 2004; Otto, 2009; Lehtonen et al., 2012).
+First, unisexual individuals lack the reproductive assurance that benefits self-compatible hermaphroditic speCorrespondence: Jos K€
+afer, Universite Lyon 1, Centre National de la
+Recherche Scientifique, UMR5558, Laboratoire de Biometrie et Biologie
+Evolutive, Villeurbanne, F-69622 Cedex, France.
+Tel.: (+33) (0)4 72432909; fax: (+33) (0)4 72431388;
+e-mail: jos.kaefer@gmail.com
+
+1478
+
+cies. Second, the fact that only a portion of individuals
+produce seeds may result in a disadvantage at the population level, either because fewer offspring are produced or because a large production of seeds is carried
+by a limited number of individuals, thus increasing offspring competition (Janzen, 1971; Maynard-Smith,
+1978; Bawa, 1980; Heilbuth et al., 2001; Charlesworth,
+2009). However, some of these costs are expected to be
+similar for animal species with separate sexes, which
+are nonetheless numerous, and the rareness of dioecious plants requires further explanation.
+Apart from the debate over whether or not the
+ancestor of the angiosperms had bisexual flowers (e.g.
+Endress & Doyle, 2009), no reasonable doubt seems to
+exist about the fact that bisexual flowers occurred early
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+in angiosperm evolution, and thus, the ancestor of all
+or nearly all dioecious angiosperms probably was a
+hermaphrodite with bisexual flowers (Lebel-Hardenack
+& Grant, 1997; Barrett, 2002; Specht & Bartlett, 2009).
+It is generally considered that the evolution of dioecy
+has taken intermediate steps, such as monoecy (male
+and female flowers on the same individual: Lloyd,
+1972), gynodioecy (populations with female and hermaphrodite individuals: Charlesworth & Charlesworth,
+1978; Maurice et al., 1994), distyly (where two flower
+morphs exist, one with short styles and long stamens,
+the other with long styles and short stamens: Lloyd,
+1979; Pannell & Verdu, 2006) or heterodichogamy
+(temporal separation of male and female functions, e.g.
+Pendleton et al., 2000; Pannell & Verdu, 2006).
+The transition towards dioecy might be advantageous
+under certain conditions. For example, dioecy could be
+a more efficient mode of reproduction, because individuals can specialize on one sexual function, or it could
+evolve as a means to avoid self-pollination and the
+associated inbreeding depression (Charlesworth &
+Charlesworth, 1978, 1981, 1987; Bawa, 1980). Consistently, the correlation between dioecy and several other
+traits, such as fleshy fruits that are dispersed by animals, a tropical distribution, abiotic pollination, small or
+inconspicuous flowers or inflorescences, and an arborescent growth form (e.g. Bawa, 1980; Renner & Ricklefs, 1995), could be explained by the fact that selection
+for separate sexes should be particularly strong when
+associated with these traits. For example, abiotically
+pollinated species are thought to face a high risk of selfing (Lloyd & Yates, 1982; Cox & Grubb, 1991), which
+should increase selection for dioecy.
+Nevertheless, the relative rareness of dioecy in plants
+helped establish the idea that it is deleterious for plants
+in the long run. An angiosperm-wide study of the diversification of dioecious lineages, using sister clade comparisons, was conducted by Heilbuth (2000), who found
+that dioecious clades often possess fewer species than
+their nondioecious sister clades and concluded that dioecious clades diversify less. Further work, reinterpreting
+the associations of dioecy with the traits mentioned earlier, proposed that dioecious species suffer from higher
+extinction rates and that these traits could alleviate the
+‘handicaps’ associated with dioecy (Heilbuth et al., 2001;
+Vamosi & Otto, 2002; Vamosi et al., 2003).
+Recently, K€afer & Mousset (2014) revisited the relatively simple sister clade comparison framework for its
+applicability to derived traits, such as dioecy. Heilbuth’s
+(2000) conclusion that dioecious clades diversify less
+was based on the expectation that, under equal diversification rates, the two sister clades in each pair should
+be equally species rich. This expectation is indeed the
+one commonly used in sister clade comparisons (e.g.
+Slowinski & Guyer, 1993; Wiegmann et al., 1993; Mooers & Moller, 1996; Heilbuth, 2000; Davies et al., 2004;
+Davis et al., 2010): if two groups originate from the
+
+1479
+
+same ancestor and diversify at equal rates, the expectation of equal species richness seems justified.
+However, if the criterion to select sister clade pairs is a
+trait that arose after the two clades split, unequal species
+richness can arise even if both clades diversify at the
+same rate (K€
+afer & Mousset, 2014). This typically is the
+case for derived characters, such as dioecy: one of the sisters harbours the ancestral state and inherited this state
+from the common ancestor of the sisters, as represented
+in Fig. 1. If one assumes that dioecy arises in a phylogeny
+with a constant transition rate, then the probability that
+a transition towards dioecy has occurred on a branch
+increases with the length of this branch. Selecting sister
+clade pairs will thus lead to biased comparisons: the stem
+branches of the dioecious clades will be longer than average, whereas no effect is expected for the nondioecious
+sister clade. This implies that the dioecious crown group,
+
+Fig. 1 A pair of sister clades. A transition (star) from the ancestral
+(black parts of the tree) to the dioecious state (grey parts of the
+tree) took place on one of the stem branches (dashed branches).
+The length of the stem branches determines the age of the crown
+groups (dashed boxes).
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1480
+
+€ ER ET AL.
+J . K AF
+
+on average, will have started to diversify later than its
+nondioecious sister (see Fig. 1). To put it differently, during the waiting time for the transition to arise on the
+stem branch leading to the derived clade, the derived
+clade did not diversify, whereas the sister clade could
+diversify from the ancestral node on. One should thus
+expect that the dioecious clades will on average be smaller than their nondioecious sisters, even when their
+diversification rates are the same.
+K€afer & Mousset (2014) developed a statistical test to
+take this selection bias into account and showed, using
+simulated trees, that the classical statistical tests (which
+expect equal species richness in the sister clades) have a
+very high type I error rate and thus easily lead to the
+conclusion that there are differences in the diversification rate, whereas in reality there are not. They applied
+the new method to the data set compiled by Heilbuth
+(2000) and reached the opposite conclusion: even
+though dioecious clades tend to be smaller than their
+sister clades, the results of the test show that the diversification rate is actually increased in dioecious clades.
+Because bisexual flowers occurred early in angiosperm evolution, most of the sister clade pairs in Heilbuth’s data set are likely to represent situations where
+dioecy is derived. However, reversions from dioecy to
+bisexuality are possible; in such cases, dioecy would be
+the ancestral state of the clade pair, and the assumptions
+of the sister clade test would be violated. K€afer & Mousset (2014) thus argued that one cannot use sister clade
+comparisons for derived characters without a prior
+identification of the ancestral state of the sisters. As
+Heilbuth’s (2000) data did not distinguish between transitions to and reversions from dioecy, this could explain
+why K€afer & Mousset detected increased diversification
+associated with dioecy. Furthermore, Heilbuth constructed her data set to be conservative in accordance
+with her hypothesis that dioecious clades diversify less,
+by excluding genera containing dioecious species that
+occur in the sister clades and by including hermaphrodites that occur in the dioecious clades. Thus, when testing the inverse hypothesis that dioecious clades
+diversify more, Heilbuth’s data set is not conservative
+anymore as it tends to overestimate the species richness
+of the dioecious clades compared to their sisters. Finally,
+more recent phylogenetic studies have changed some of
+the sister group relationships since the year 2000.
+The goal of this study was to construct a new data set
+of dioecious clades and their nearest nondioecious sisters
+to apply the test proposed by K€afer & Mousset. This data
+set only includes clade pairs for which the ancestral node
+was hermaphroditic, and was constructed using the most
+recent insights into angiosperm phylogenetics. Using the
+new sister clade test on this new data set, we find that
+the diversification rate seems to increase with dioecy,
+confirming the preliminary result of K€afer & Mousset.
+This data set furthermore offers some insights into the
+evolutionary history of dioecy in angiosperms.
+
+Data and methods
+Sister clade data set
+As starting point for a new data set of dioecious clades
+and their sisters, we used the list of genera containing
+dioecious species compiled by Susanne Renner (September 2004). Only completely or predominantly dioecious genera were included, as resolving infra-generic
+sister clades appeared to be practically impossible at the
+scale of all angiosperms. For these genera (more than
+600), we searched for the latest phylogenetic studies
+including the genus (a total of ~170 papers) to identify
+its sisters, and we checked for the occurrence of dioecious species in the sister genera. When a sister genus
+was not present in the list of dioecious genera, the presence or absence of dioecy was assessed using the phylogenetic literature and online floras.
+Dioecious sister genera were merged, until a nondioecious sister group was found, to obtain two monophyletic sister clades, one dioecious and the other
+nondioecious. In several cases, nondioecious genera
+occurred within larger dioecious groups. In some cases,
+these are known reversals, but in the absence of literature, these genera were considered as reversals and
+included as such in the dioecious group based on the
+number of nondioecious species and their phylogenetic
+position. If the phylogenetic studies did not enable the
+unambiguous determination of a single sister clade
+because of ill-resolved nodes (e.g. Nepenthaceae and
+Sarcobatus), the dioecious clades were nevertheless
+included in the data set if none of the possible sister
+clades was dioecious, and information about the smallest and largest possible sister clades was retained in the
+data set.
+In addition to the literature study, we performed an
+ancestral reconstruction using parsimony for the Malpighiales, a large order with approximately 3400 dioecious species, based on a recent phylogeny (Xi et al.,
+2012). Data and methods are presented in Data S1.
+Species counts for dioecious groups were taken from
+Renner’s database, unless the phylogenetic studies indicated that the species count was different (e.g. Dioscorea). Species counts for sister groups were found in the
+literature or looked up in Tropicos (www.tropicos.org)
+and The Plant List (www.theplantlist.org).
+For each pair of sister clades, we thus have an estimate of the total number of species in the dioecious
+clade (d), the number of dioecious species in the dioecious clade (d*), the number of species in the sister
+clade (s), and the number of nondioecious species in
+the sister clade (s*). In the remainder of the text, we
+will refer to the total number of species in both clades
+m = d + s, and the total number of species in both
+clades when species that arose after secondary transitions to dioecy or reversions to the ancestral state were
+excluded, m* = d* + s*.
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+If the sister clade could not be identified unambiguously, or the number of species was not well known,
+the minimum and maximum clade sizes were used for
+the sister clade, smin and smax, respectively. The corresponding total sizes of the clade pair are thus
+mmax = smax + d and mmin = smin + d. The relative species richness of the dioecious clade within a clade pair
+is the fraction md . Unless explicitly stated, the mean
+ relative species richness of the dioecious clades, md , is calculated using d and mmax throughout the text.
+Analysis of diversification
+These data were analysed with the method for sister
+clade comparisons described by K€afer & Mousset (2014).
+In short, the method estimates the length of the stem
+branches of each of the clades based on the number of
+species in the clades. As the probability of the occurrence of a transition is assumed to be proportional to
+the branch length, the ratio of the stem branch lengths
+can be used to calculate the relative probability that
+either one of the clades is dioecious, assuming equal
+diversification rates under the null hypothesis.
+The test statistic in this method is the mean relative
+ 
+species richness of the dioecious clade md . For each
+clade pair i, di is the number of species in the dioecious
+clade, and mi the number of species in both clades. The
+relative species richness for one pair, mdii , is thus a value
+ 
+P
+between 0 and 1, as is the average md ¼ 1c ci¼1 mdii for
+all c clade pairs in the data set. Following K€
+afer &
+Mousset (2014), a resampling approach is used to
+ 
+obtain the distribution of md under the null assumption of equal diversification rates among pairs in a set
+of c bipartitions with the same clade sizes. We specifically test whether the preliminary findings of K€
+afer &
+Mousset that dioecy increases diversification can be
+confirmed, using a one-sided test with the alternative
+hypothesis that dioecious clades are larger than
+expected.
+Apart from applying this sister clade comparison test
+to the whole data set, we also extend the method here
+to each individual clade pair. The probability for a clade
+pair being a sister clade pair (i.e. in which one clade is
+in the derived state and one in the ancestral state)
+depends on the total stem branch length of the two
+clades, which is estimated using the method of K€
+afer &
+Mousset (2014). Thus, based on the assumption that
+there are no differences in diversification and that transitions occur at a constant rate, we can compute the
+probability that a clade pair with total size m harbours
+a transition on one of its stem branches. This allows us
+to calculate, for each clade pair, an expected relative
+species richness of the dioecious clade and a P-value for
+the difference between the observed and expected relative species richness (Data S2, eqns 4 and 5). When
+testing for differences in diversification within individ-
+
+1481
+
+ual clade pairs, we used two-sided P-values, as we do
+not expect a priori that all dioecious clades will be larger than expected. Some could be smaller as well due
+to other factors influencing the diversification rate.
+The sister clade test of K€
+afer & Mousset (2014) resamples the given species richness of both clades within
+a pair, only swapping the character state within a clade
+pair in a randomized manner, and is thus conditioned
+on the observed values of both m and d. The test per
+clade pair calculates the expected value of d given m and
+is thus only conditioned on the observed m. This comes
+with the additional assumption that the pair belongs to
+a larger tree with a constant diversification rate, an
+assumption that the sister clade test does not need (the
+null hypothesis of the sister clade test is that the diversification rate is equal within a clade pair). Consequently, in the test per clade pair, differences between
+the expected and the observed relative species richness
+could be due to any deviation from this assumption.
+Life-history and ecological traits
+To test whether certain life-history or ecological traits
+could influence the diversification rate of the dioecious
+groups, data on seed dispersal (biotic vs. abiotic), mode
+of pollination (biotic vs. abiotic) and geographical distribution (tropical vs. nontropical) were extracted from
+Renner’s aforementioned list. We added information
+about growth form, using four categories: herbs, vines
+or lianas, shrubs and trees, based on botanical literature
+and online floras. Given that the literature is not always
+quantitative, we chose to gather in the category ‘trees’
+clades that were mentioned to contain large shrubs and
+trees, and in the category ‘shrubs’ clades consisting of
+small and intermediate shrubs. Dwarf shrubs (< 10 cm)
+were included in the category ‘herbs’. When multiple
+characters were represented in a clade, it was discarded
+from this analysis. The character states of the nondioecious sister clades were not taken into account.
+For each of the four traits, we calculated the average
+observed
+relative species richness of the dioecious clade
+ 
+( md ) per character state (e.g. abiotic vs. biotic pollination). The character states were compared using a Wilcoxon signed-rank test to test for differences between
+character states in this relative species richness. Also,
+an ANOVA was performed on the observed relative species richness, combining the four traits as fixed effects,
+to test for interactions between these traits.
+
+Results
+Identification of dioecious clades and their sisters
+Our update of Susanne Renner’s list of 994 dioecious
+genera with 14 600 species yielded a list of 1018 genera
+containing 16 161 species. This increase is mainly due
+to taxonomic revisions modifying the number of species
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1482
+
+€ ER ET AL.
+J . K AF
+
+in certain genera, but we also identified some dioecious
+species in closely related genera that were not included
+in the original list. We identified 115 sister clade pairs
+that most likely have a nondioecious ancestor, based on
+a literature survey and an additional ancestral state
+reconstruction using maximum parsimony for the Malpighiales. The data set was split into two according to
+the degree of certainty about the ancestral state: Table
+S1 lists the 100 clade pairs without reasonable doubt
+concerning the ancestral state (based either on the
+absence of closely related dioecious clades or on published ancestral state reconstructions; the ‘strict data
+set’), and Table S2 lists the 15 remaining clade pairs for
+which the ancestral state could not be determined with
+the same degree of certainty, but nevertheless is very
+likely to be hermaphrodite (these 15 pairs, together
+with the 100 pairs from the strict data set, form the
+‘extended data set’). The tables include a list of 77 references to phylogenetic and taxonomic studies that
+were consulted for the retained sister clade pairs.
+Of the 89 sister clade pairs from Heilbuth (2000) that
+were also used by K€afer & Mousset (2014), 48 pairs are
+present in the current data set. Four of those are completely identical, and the remaining 44 have seen their
+species counts updated, either through small adjustments of the counts themselves, due to revisions of the
+phylogenetic relations leading to the inclusion or exclusion of some taxa in the sister groups (13 pairs), or to
+largely or completely different sister groups (12 pairs).
+Forty-one of the clade pairs used by Heilbuth and K€
+afer
+& Mousset are omitted entirely from the current data
+set, mostly because dioecy was shown to be ancestral
+(e.g. all Apiales: Schlessmann, 2010) or we suspected it
+might be ancestral, as, for example, in the Arecales,
+where many transitions have occurred. Indeed, when
+in such cases a reliable ancestral state reconstruction
+has not yet been performed and would be difficult to
+perform, the groups were discarded to minimize the
+possibility of violating the test’s assumption that dioecy
+always should be the derived state. In some cases, we
+could not find sufficiently detailed phylogenies confirming the sister clades Heilbuth used, also leading us
+to discard these dioecious clades. The net effect is that
+of the 115 dioecious clades included in our extended
+data set, 67 have not been included in sister clade comparisons before.
+Table S3 shows the taxonomic distribution of the
+dioecious species taken into account in this study (see
+also Fig. 2). The data set of sister clade pairs includes
+8301 dioecious species (strict data set; 9021 in the
+extended data set), of the 16 161 known to us, that is,
+51–56%. In comparison, Heilbuth’s data set that was
+analysed by K€afer & Mousset contained 7558 dioecious
+species, but according to Heilbuth, this count systematically included hermaphroditic (reverted) species in the
+dioecious groups and is thus an overestimation. Of the
+51 orders containing dioecious species, 39 are repre-
+
+sented in our strict data set, 40 in the extended data
+set. Only one of the nonrepresented orders had more
+than 50 dioecious species: the Apiales, for which ancestral dioecy has been found (Schlessmann, 2010).
+Sister clade comparison
+Given the ambiguities in the data, we performed the
+statistical test for sister clade comparisons (K€
+afer &
+Mousset, 2014) eight times: on the strict or extended
+data sets, using the maximum (mmax) or minimum
+(mmin) sister clade size, and including (m and d) or
+excluding (m* and d*) secondary transitions and reversions, as shown in Table 1. The test assumes only one
+transition in each clade pair and was thus designed to
+take m and d as input; strictly speaking, using m* and
+d* is a violation of the assumptions of the test. Tests
+using m* and d* were nevertheless performed for completeness.
+For the strict data set, the null hypothesis of equal
+diversification is rejected in all cases, in favour of the
+alternative hypothesis that dioecious clades are more
+species rich than expected. Using the extended data set,
+the comparisons of the dioecious clade with the largest
+possible sister clades yielded a P-value above 5%. It is,
+however, very unlikely that in all ambiguous cases the
+largest sister clade is the correct one, and the comparisons using the smallest possible sister clades yielded Pvalues well below 5%.
+The P-values for the comparisons that excluded species that originated after secondary transitions or reversions were slightly higher than the comparisons that
+included them. This is counterintuitive at a first glance,
+because if dioecy increases diversification, leaving out
+dioecious groups in the sister clade and reverted groups
+in the dioecious clade should accentuate the differences. However, reducing the number of species in the
+clades might simply affect the power of the statistical
+test.
+Analysis of individual clade pairs
+For each clade pair, we compared the observed relative
+species richness of the dioecious clade with the
+expected species richness, as calculated using eqn [5] in
+Data S2. Moreover, this equation allows us to calculate
+a P-value for this difference; observed and expected
+species richness per clade pair, as well as the associated
+P-value, are given in Table S4 and represented graphically in Fig. 2.
+On average, the observed relative species richness is
+below the expected value (the average observed–
+expected value is 0.025 for the extended and 0.0098
+for the strict data set). Note that these expected values
+were obtained assuming that clade pairs were drawn
+from a tree with a constant diversification rate (see
+Data and methods, Analysis of diversification; and Data
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+1483
+
+Fig. 2 Representation of the analysis of
+individual clade pairs per angiosperm
+order. Each point corresponds to a clade
+pair: a point left of the straight line
+indicates a lower-than-expected species
+richness of the dioecious clade; right of
+the straight line, the species richness of
+the dioecious clade is higher than
+expected. The expected relative species
+richness for each clade pair is calculated
+using eqn [5] in Data S2. The distance
+of each point from the straight line is
+the inverse of the log-transformed Pvalue; dotted vertical lines correspond
+to P = 0.05. The angiosperm phylogeny
+was obtained from the Angiosperm
+Phylogeny Website (Stevens, 2001
+onwards; consulted September 2013).
+
+Table 1 Results of the sister clade comparison test on dioecious
+clades and their sisters. Values in parentheses were calculated
+using m* and d*.
+Data
+
+Data set
+
+c
+
+d
+
+mmax, d
+mmin, d
+mmax, d
+mmin, d
+
+Strict
+Strict
+Extended
+Extended
+
+100
+100
+115
+115
+
+0.361
+0.386
+0.346
+0.377
+
+P-value
+
+m
+
+(0.356)
+(0.381)
+(0.339)
+(0.370)
+
+0.0204 (0.0400)
+0.00246 (0.00641)
+0.0532 (0.0983)
+0.00587 (0.0139)
+
+c = number of sister clade pairs, P-values are calculated from
+10 000 iterations using a one-sided test (alternative hypothesis:
+dioecious clades are larger than expected).
+
+S2). The fact that the dioecious clades are mostly smaller than expected in this analysis, whereas the combined sister clade test found they were larger than
+expected, indicates that dioecy has a tendency to evolve
+in species-poor clades, a phenomenon due to the selection bias. As the probability for a branch to harbour a
+transition to dioecy depends on its length, dioecious
+clades will have on average longer stem branches (and
+less species) than randomly drawn clades. In a tree in
+which the diversification rates vary, clades with low
+diversification rates will have longer branches and thus
+more often present transitions to dioecy, without dioecy
+being the cause of the low diversification rate. This
+result does thus not contradict, but rather support the
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1484
+
+€ ER ET AL.
+J . K AF
+
+results from the sister clade comparison test (Table 1),
+which were obtained without the assumption of a constant diversification rate throughout the angiosperms.
+The corresponding P-values make it possible to accept
+or reject the null hypothesis of equal diversification in
+each clade pair. As we tested for both increased and
+decreased diversification in each clade pair (two-sided
+test), and this for 115 largely independent clade pairs,
+the critical value to reject the null hypothesis after
+application of the Bonferroni correction for multiple
+testing is 0.025/115 = 0.000217. Only the P-value for
+the pair including Amborella is below this critical value.
+Low P-values (< 0.01, and thus not significant given
+the Bonferroni correction) for decreased diversification
+were obtained for Simmondsia (Simmondsiaceae, Caryophyllales), Gynerium (Poaceae), Symmeria (Polygonaceae)
+and the Lepidobotryaceae (Celastrales). These dioecious
+clades consist of 1 or 2 (Lepidobotryaceae) species being
+sister to a clade with more than 1000 species. Four clade
+pairs in which the dioecious clade is larger than
+expected had P-values < 0.01 (but not significant): the
+clade formed by the four Cucurbitales families, the Putranjivaceae, Hydrocharitaceae and the clade consisting
+of the Aquifoliaceae and Helwingiaceae.
+Dioecy and other traits
+To test whether the growth form, the distribution and
+the modes of dispersal and pollination affected the relative species richness of the dioecious clades, we used
+the extended data set containing 115 clade pairs, as no
+hypothesis regarding the ancestral state is needed for
+Table 2 Life-history and ecological traits and the proportion of
+dioecious species in the extended data set, using the maximum
+estimated values of m (mmax) and the minimal estimates of m
+(mmin, in parentheses). P-values are calculated with Wilcoxon’s
+signed-rank test.
+
+Dispersal
+Biotic
+Abiotic
+Pollination
+Biotic
+Abiotic
+Distribution
+Tropical
+Nontropical
+Growth form
+Herb
+Vine or liana
+Shrub
+Tree
+
+Number of clades
+
+d
+
+P-value
+
+59
+46
+
+0.281 (0.313)
+0.391 (0.424)
+
+0.0784
+(0.0789)
+
+60
+34
+
+0.344 (0.379)
+0.322 (0.353)
+
+0.326
+(0.373)
+
+55
+39
+
+0.304 (0.342)
+0.313 (0.349)
+
+0.504
+(0.433)
+
+23
+6
+23
+55
+
+0.442
+0.413
+0.169
+0.343
+
+0.114 (0.243)*
+0.0700 (0.138)†
+0.583 (0.647)‡
+
+m
+
+(0.456)
+(0.482)
+(0.212)
+(0.374)
+
+*Herbs compared to vines, shrubs and trees.
+†Herbs and vines compared to shrubs and trees.
+‡Herbs, vines and shrubs compared to trees.
+
+such a comparison. The characters and the observed
+relative species richness of each of the dioecious clades
+are given in Table S4.
+As shown in Table 2, none of these characters significantly influenced the relative species richness of the
+dioecious clade. However, several trends can be
+detected: clades that consist of herbaceous or viney
+dioecious plants seem to harbour higher diversification
+rates than shrubby or arborescent dioecious clades. Furthermore, clades with abiotic modes of dispersal have a
+higher d/m ratio than clades with biotic dispersal, a
+result that is close to significance. A factorial ANOVA
+(Table S5) yielded no evidence for an effect of the
+interaction between the traits on species richness in
+dioecious clades.
+
+Discussion
+Dioecy increases diversification
+K€
+afer & Mousset (2014) showed that it is important to
+distinguish between derived and ancestral states of a
+trait in sister clade comparisons; ignoring this distinction leads to high type I error rates in statistical tests
+and could lead one to wrongly attribute differences in
+species richness to differences in diversification rates.
+They proposed a new test for sister clade comparisons
+to study the effect of derived character states. In the
+current study, we present a data set of dioecious clades
+and their nondioecious sister clades, tailored for the
+requirements of this test, that is, including only clade
+pairs for which the ancestral state could be assigned as
+nondioecious with sufficient confidence.
+Using the resampling test K€
+afer & Mousset proposed,
+we confirm their conclusion that dioecy seems to
+increase diversification moderately. Thus, the hypothesis that dioecy is an evolutionary dead end, because
+dioecious species would suffer from higher extinction
+and/or lower speciation rates (Heilbuth, 2000; Barrett,
+2002; Vamosi et al., 2003), is not supported by our
+study. Nevertheless, our results suggest that dioecy
+increases diversification rates only moderately, and it
+cannot be considered a ‘key innovation’ (Hunter, 1998).
+Questions have been raised as to whether or not
+bisexual flowers were effectively the ancestral state of
+angiosperms (Endress & Doyle, 2009). However, this
+ambiguity seems mainly to be caused by the placement
+of the dioecious Amborella as sister to the other angiosperms, and the use of maximum parsimony to infer
+the ancestral state, which ignores the branch lengths.
+Whether or not the earliest angiosperm flower was
+bisexual, most dioecious angiosperms are considered to
+be derived from a bisexual ancestor (Lebel-Hardenack
+& Grant, 1997; Tanurdzic & Banks, 2004; Specht &
+Bartlett, 2009). We followed the widely accepted
+view that Amborella evolved from a bisexual ancestor
+based on the presence of stamen residues in the female
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+flowers (Endress & Doyle, 2009) and included it in the sister clade data set. This clade is extremely species poor (one
+species) compared with its sister clade (the other angiosperms) and thus has a very low relative species richness
+(cf. Fig. 2). Removing it would have strengthened our
+conclusion that dioecy increases species richness.
+Our sister clade data set includes more than 50% of
+the known dioecious species across the angiosperm
+orders. We did not include transitions to dioecy that
+occurred within a genus, excluding many recent transitions to dioecy. The focus of our data set is thus on
+dioecious clades that have survived for some time, and
+it could be biased if these recent clades are short-lived
+dioecious clades with low diversification rates. However, it is difficult to imagine that dioecy as a trait that
+managed to establish itself in a species population has
+such severe negative effects on diversification that it
+would drive the clade to extinction immediately upon
+its establishment, although this remains to be tested.
+This sister clade comparison test relies on the assumption that the transition to dioecy did not coincide with
+the split into two sister clades. Thus, transitions to dioecy
+are assumed to be anagenetic, that is, not associated
+with a speciation event (Stuessy et al., 2006). This
+assumption is also (implicitly) made in theoretical studies on the evolution of dioecy, where speciation is not
+taken into account (e.g. Charnov et al., 1976; Charlesworth & Charlesworth, 1978; Maurice et al., 1994), or
+when viewing dioecy as an adaptation to specific conditions (e.g. Bawa, 1980). However, it is possible that
+dioecy, as it concerns the reproductive organs of plants,
+could be cladogenetic, that is, coincides with a speciation
+that gives rise to one dioecious and one nondioecious
+species due to reproductive isolation. In such a case, the
+mathematics used by K€afer & Mousset (2014) would not
+correctly describe the null hypothesis. However, it
+should be noted that extinctions are probably common
+(cf. Ricklefs, 2007; Rabosky, 2009), and it is thus very
+likely that the nondioecious species that originated in
+such a cladogenetic transition has no extant representatives. These extinctions tend to place the transitions on
+the branches (see Fig. 1) rather than on the nodes of a
+tree, and the anagenetic model might still be a better
+approximation than a purely cladogenetic one that does
+not take extinction into account.
+Furthermore, the transition rate should be low compared with the diversification rate for this sister clade
+test to be valid (K€afer & Mousset, 2014). Given the relative rarity of dioecy and the fact that its evolution
+from bisexual flowers requires multiple steps, this
+assumption seems justified. Secondary transitions to
+dioecy after the breakdown of ancestral dioecy seem to
+have a higher transition rate (e.g. Cucurbitaceae and
+Euphorbiaceae, see below), but those secondary transitions were not included as clade pairs in the data set.
+When we calculated deviations from the expected
+relative species richness for each clade pair individu-
+
+1485
+
+ally (Fig. 2 and Table S4), we found that the observed
+species richness of a majority of the dioecious clades
+was lower than expected. At first sight, this seems to
+contradict the results from the combined sister clade
+comparison, where we found that dioecy increases
+diversification. However, as K€
+afer & Mousset (2014)
+have argued, a selection of sister clades from a phylogeny is not a random selection (see also the Introduction). Assuming that transitions to dioecy occurred
+with a constant rate, the longer the branch of the
+tree, the higher the probability that a transition
+occurred on it. Relatively long branches arise easily by
+chance in a tree that resulted from a branching process with a constant diversification rate and are even
+more frequent if the diversification rate was variable.
+Thus, our results, which show that the majority of
+dioecious clades are smaller than expected in the
+analysis of individual pairs, indicates that there are
+intrinsic variations of the diversification rate within
+the angiosperms, a result that, in itself, is not surprising (cf. Magallon & Sanderson, 2001). This is in agreement with the hypothesis of K€
+afer & Mousset (2014)
+that transitions to dioecy are ‘attracted’ to long
+branches merely by chance, and illustrates the utility
+of resampling statistics that make no prior assumption
+on clade size distributions.
+For each clade pair, we calculated a P-value permitting assessment of whether or not the observed relative
+species richness could have been obtained with equal
+diversification rates. First, the underlying distribution
+for species richness asymmetries is uniform, and
+extreme asymmetries can be obtained quite easily (Farris, 1976). Basing a test of species richness on one single clade pair is therefore not a very powerful method
+to detect differences in diversification rates. In our data
+set, after correcting for multiple testing, only one clade
+pair could be considered as having a significant difference in species richness, which is the pair consisting of
+Amborella and the rest of the angiosperms. If dioecy
+indeed positively influences the evolutionary success of
+a group, as our overall results suggest, it might also
+have contributed to the survival of ‘living fossils’ such
+as Amborella by diminishing their risk of extinction. This
+might also apply to nonangiosperm ‘living fossils’, such
+as Welwitschia, Ginkgo and cycads.
+Confirming the conclusion by K€
+afer & Mousset with
+an appropriate data set, we present here for the first
+time quantitative evidence that dioecy has a positive
+effect on the diversification rates in angiosperms,
+despite the fact that the dioecious clades are mostly
+smaller than their nondioecious sister clades. The idea
+that dioecy would be a ‘handicap’ for plants is not supported by our analysis; one can thus not rely on this
+idea to explain why dioecy is rare in the angiosperms.
+This analysis and the data set necessary to conduct the
+test raise several questions that will need to be
+addressed, as we discuss in the next sections.
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1486
+
+€ ER ET AL.
+J . K AF
+
+Dioecy can be ancient and is lost frequently
+The new data set that we constructed for this study
+revealed that in several cases dioecy appeared early in
+an order. In particular, dioecy seems to have occurred
+in the common ancestor of all Apiales (Schlessmann,
+2010) and in the ancestor of the four Cucurbitales families, Begoniaceae, Cucurbitaceae, Datiscaceae and Tetramelaceae (Zhang et al., 2006). Similarly, the ancestor
+of the Moraceae and Urticaceae in the Rosales was
+most likely dioecious (Datwyler & Weiblen, 2004), and
+our analysis of the Malpighiales based on the phylogeny by Xi et al. (2012) showed that this was also the
+case for the ancestor of the Euphorbiaceae, Peraceae
+and Rafflesiaceae. Furthermore, we identified 38 families for which dioecy most probably was ancestral (see
+Tables S1 and S2). Some of these families have only
+one to a few species, so dioecy could be recent as well,
+but moderately sized families with ancestral dioecy are
+not rare (e.g. Pandanaceae, Restionaceae and Menispermaceae have over 500 species).
+The fact that dioecy is observed ‘mostly at the tips of
+phylogenetic trees’ (Heilbuth, 2000) was considered as
+an indication that dioecious clades are short-lived, but
+it might just be a characteristic of a trait evolving with
+a low transition rate (for a similar observation, see
+Scotland & Sanderson, 2004). If low diversification due
+to high extinction rates is not the cause of the rareness
+of dioecy in angiosperms, other hypotheses need to be
+explored. It has been noted that dioecy is more frequent in ancient plant groups: 75% of the liverworts
+are dioecious, 50% of the leafy mosses, 36% of the
+gymnosperms and only 6% of the angiosperms (Ming
+et al., 2011), which could be explained by a low transition rate, although other explanations are possible.
+Interestingly, dioecy is not necessarily the major
+breeding system in the groups in which it is ancestral.
+The Apiales contain only 139 dioecious species (2.5%),
+which is below the angiosperm average. Although the
+clades formed by the Cucurbitaceae, Begoniaceae, Datiscaceae and Tetramelaceae; the Euphorbiaceae, Peraceae and Rafflesiaceae; and the Moraceae and
+Urticaceae have higher-than-average proportions of
+dioecious species, they are not the majority (11%, 27%
+and 43%, respectively). In the Cucurbitales (Zhang
+et al., 2006; Schaefer & Renner, 2010; De Boer et al.,
+2012) and the Moraceae (Datwyler & Weiblen, 2004),
+dioecy seems to have been lost and regained quite frequently, and genera having both dioecious and monoecious species are common. The Euphorbiaceae are less
+well studied, but the occurrence of both dioecious and
+monoecious species in a large number of genera seems
+to indicate the same trend.
+The frequent reversions from dioecy might also contribute to explain why dioecy is rare, despite the
+increase in diversification that we identified. The idea
+that dioecy is a stable terminal state and maybe an evo-
+
+lutionary ‘dead end’ in plants should be reconsidered as
+well (cf. Barrett, 2013). If, as our data suggest, monoecy often results from the breakdown of dioecy, the fact
+that dioecy and monoecy are correlated on an angiosperm-wide scale (Renner & Ricklefs, 1995) does not
+imply that in most cases dioecy evolved through monoecy (cf. Weiblen et al., 2000; Datwyler & Weiblen,
+2004). Indeed, if monoecy results from the loss of
+dioecy, secondary transitions to dioecy will occur from
+monoecious ancestors (e.g. Weiblen, 2000; Volz & Renner, 2008), but the question remains unanswered
+regarding the pathway through which dioecy originally
+evolved from a hermaphroditic ancestor (cf. Barrett,
+2002). Another question that will merit attention is
+whether dioecy can be lost in species with sex chromosomes (cf. Ming et al., 2011).
+The traits associated with dioecy have no effect on
+diversification
+We used this sister clade data set to investigate whether
+there was a link between the increase or decrease in
+diversification in dioecious clades and certain traits that
+are reported to be associated with dioecy. However, we
+did not find any significant correlation with the growth
+form, the modes of pollination and seed dispersal (biotic
+or abiotic), or the distribution (tropical or nontropical).
+Thus, the conclusion by Vamosi & Vamosi (2004) that
+diversification is the cause of the ‘correlates of dioecy’
+could not be confirmed. Indeed, the conclusion by Vamosi & Vamosi (2004) relies heavily on classical sister
+clade comparison tests, which, as shown by K€afer &
+Mousset (2014), can easily lead to erroneous conclusions.
+The idea that dioecy reduced diversification was often
+used to explain these correlations. If dioecy is seen as a
+handicap, the ecological and life-history traits to which
+it is correlated are considered as ways to overcome or
+avoid this handicap. This is the case for the ‘seed shadow handicap’, that is, only half of the individuals contribute to the dispersal of seeds in dioecious species
+(Heilbuth et al., 2001). As dispersal through animals
+leads to different, more efficient dispersal dynamics, this
+would reduce the effect of the handicap (Vamosi et al.,
+2007) and thus decrease the extinction risk (Vamosi &
+Vamosi, 2004). However, and although the result is
+only marginally significant, we found that dioecious
+clades with abiotic seed dispersion tended to be relatively larger (with respect to their sister clades) than
+those that use animal vectors for dispersal. It is thus
+probably not diversification that causes the association
+between dioecy and animal dispersal; an alternative
+explanation for this association that was observed in
+other studies would be that dioecy more often arises in
+clades with fleshy fruits, as the larger effort in reproduction can be divided over the two sexes (Charnov
+et al., 1976; Givnish, 1980).
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+A second trait showing a marginally significant effect
+on the relative species richness of the dioecious clades
+is the growth form: dioecious clades consisting of herbs,
+vines or lianas tended to have higher diversification
+rates than those consisting of shrubs and trees. Dioecy
+is thought to evolve more easily in trees than in species
+with smaller plant sizes, as a way to avoid geitonogamy
+in self-compatible species (Maynard-Smith, 1978), or to
+allow more efficient pollen dispersal in outcrossing species (Bawa, 1980). Again, these hypotheses make no
+direct prediction on diversification. Our results do not
+show an unambiguous effect of plant size on the species richness of dioecious clades, as the dioecious clades
+with the lowest relative species richness are shrubs,
+that is, those of intermediate size.
+We did not find any effects of the mode of pollination, a
+trait that was found to be correlated with dioecy (Renner
+& Ricklefs, 1995; Vamosi et al., 2003), on the relative species richness of dioecious clades. Mostly, dioecy is considered more favourable for wind-pollinated species than for
+insect-pollinated species, for several reasons. Either dioecy
+more often evolves in wind-pollinated species because selfing is more likely in those species (Lloyd & Yates, 1982;
+Cox & Grubb, 1991), or wind pollination more often
+evolves in dioecious groups due to pollinator scarcity and
+because selfing is not possible (Friedman & Barrett, 2009).
+Another hypothesis supposed a negative effect of dioecy
+on diversification in insect-pollinated species and
+explained this as a side effect of competition for pollinators between the sexes (Vamosi & Otto, 2002), which
+would also explain why dioecious species often have
+inconspicuous flowers (but see Bawa, 1980; Renner &
+Ricklefs, 1995). Again, our results support the hypotheses
+that are not based on differences in diversification. Similarly, in the light of our results, it seems difficult to explain
+the association between dioecy and a tropical distribution
+by the reduction in the risks of extinction in general in
+tropical habitats, as suggested by Vamosi et al. (2003).
+It is interesting to note that, regardless of the sexual
+system, pollination by insects is thought to cause higher
+diversification rates (Kay & Sargent, 2009; Vamosi &
+Vamosi, 2011). But, as wind pollination mostly is a
+derived trait within the angiosperms (Linder, 1998;
+Dodd et al., 1999), we would expect wind-pollinated
+groups to be smaller than their sister clades even under
+equal or slightly higher diversification rates, as we have
+shown here for dioecy. Indeed, the conclusion that
+wind-pollinated groups have lower diversification rates
+than insect-pollinated groups seems most often based
+on sister clade comparisons (cf. Dodd et al., 1999; Kay
+& Sargent, 2009) and could thus be affected by the bias
+K€afer & Mousset (2014) have reported for dioecy. Also,
+because the per-branch probability of a transition in a
+phylogenetic tree depends on the length of the branch
+(K€afer & Mousset, 2014), derived traits might end up
+on the same branch merely by chance, and an angiosperm-wide analysis could detect such an effect.
+
+1487
+
+Sister clade comparisons are (still) a useful tool
+These past years have seen the development of several
+methods for studying the evolution of traits and their
+effect on species diversification on the phylogeny. These
+were first limited to anagenetic binary traits (BiSSE –
+binary state speciation and extinction model, Maddison
+et al., 2007; FitzJohn et al., 2009) and were rapidly
+extended to multistate traits (MuSSE), quantitative traits
+(QuaSSE, FitzJohn, 2010), incorporating cladogenetic
+transitions (ClaSSE, Goldberg & Igic, 2012; and BiSSEness, Magnuson-Ford & Otto, 2012) and other effects
+(see diversitree website, http://www.zoology.ubc.ca/
+prog/diversitree/). Other methods designed to detect
+shifts in speciation and extinction rates (Alfaro et al.,
+2009; Stadler, 2011; Drummond et al., 2012a) can be
+used together with trait-based analyses. Most of these
+methods account for incomplete sampling (e.g. FitzJohn
+et al., 2009; Stadler, 2011; Cusimano et al., 2012).
+These methods have been successfully applied to study
+the effects of breeding systems and other traits on plant
+diversification (Goldberg et al., 2010; Johnson et al.,
+2011; Mayrose et al., 2011; Drummond et al., 2012b;
+Goldberg & Igic, 2012; Igic & Busch, 2013). Thus, they
+could in principle provide important data on the evolution of dioecy and the long-term survival of dioecious
+species, being a more powerful alternative than the sister
+clade comparisons we used here. However, a recent
+investigation by Davis et al. (2013) sheds light on the
+limits of these methods, by showing that the accuracy
+and precision of parameter estimation of BiSSE is greatly
+reduced when one character represents < 10% of the
+taxa at the tips. The main problem thus seems to be
+intrinsically related to the rareness of dioecy in angiosperms (~6%). We made similar observations in our
+attempts to use BiSSE to study the effect of dioecy in the
+genus Silene (Caryophyllaceae), a genus with 700 species
+of which fewer than 20 are dioecious (Fig. S2).
+Sister clade comparisons, while they undeniably lack
+some of the advantages of these methods that are
+explicitly phylogeny based, are a more robust alternative. The selection of only those groups that present the
+character of interest, if correctly handled (K€
+afer &
+Mousset, 2014), enables an increase in statistical power
+with only a moderate increase in computation time.
+Furthermore, only relative differences in species richness are considered, so that inherent variations in
+diversification rates of widely divergent clades are automatically corrected for. The statistical inference is
+parameter- and, to a large extent, distribution free.
+This, of course, diminishes the statistical power if the
+correct underlying model can be identified, but provides a better safeguard against violations of the
+assumptions.
+The number of sequenced genes and organisms
+increases steadily, as does the availability of more reliable phylogenies, improving the performances of more
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1488
+
+€ ER ET AL.
+J . K AF
+
+sophisticated tools. Also, as argued by Ricklefs & Renner (1994), it might not be the evolution of certain
+breeding systems or other traits in particular that would
+lead to evolutionary success, but rather the diversity
+and flexibility of the traits in a group. The challenge for
+future tools and studies will be to avoid the pitfalls of
+overly simplistic models.
+
+Acknowledgments
+A list of dioecious genera made publicly available by
+Susanne Renner was a crucial starting point for this
+study. We thank Zhenxiang ‘Tallen’ Xi and Chuck
+Davis (Harvard University) for sharing their Malpighiales phylogeny, and Mark Schlessman (Vassar College)
+for sharing the ancestral state reconstruction of the Apiales. We further thank three anonymous referees for
+constructive comments, and Dave Schmalz MA for editing and improving the text. JK, SM, MD and GABM
+acknowledge funding by the Agence Nationale de la
+Recherche (ANR-11-BSV7-013-03), and HdB from the
+Netherlands Organisation for Scientific Research (W
+02.29.102).
+
+References
+Alfaro, M.E., Santini, F., Brock, C., Alamillo, H., Dornburg, A.,
+Rabosky, D.L. et al. 2009. Nine exceptional radiations plus
+high turnover explain species diversity in jawed vertebrates.
+Proc. Natl. Acad. Sci. USA 106: 13410–13414.
+Barrett, S.C. 2002. The evolution of plant sexual diversity. Nat.
+Rev. Genet. 3: 274–284.
+Barrett, S.C. 2013. The evolution of plant reproductive systems: how often are transitions irreversible? Proc. R. Soc. B
+Biol. Sci. 280: 20130913.
+Bawa, K.S. 1980. Evolution of dioecy in flowering plants.
+Annu. Rev. Ecol. Syst. 11: 15–39.
+Charlesworth, B. 2009. Fundamental concepts in genetics:
+effective population size and patterns of molecular evolution
+and variation. Nat. Rev. Genet. 10: 195–205.
+Charlesworth, B. & Charlesworth, D. 1978. Model for evolution of dioecy and gynodioecy. Am. Nat. 112: 975–997.
+Charlesworth, D. & Charlesworth, B. 1981. Allocation of
+resources to male and female functions in hermaphrodites.
+Biol. J. Linn. Soc. 15: 57–74.
+Charlesworth, D. & Charlesworth, B. 1987. Inbreeding depression and its evolutionary consequences. Annu. Rev. Ecol. Syst.
+18: 237–268.
+Charnov, E.L., Maynard Smith, J. & Bull, J.J. 1976. Why be
+an hermaphrodite? Nature 263: 125–126.
+Cox, P.A. & Grubb, P.J. 1991. Abiotic pollination: an evolutionary escape for animal-pollinated angiosperms. Philos.
+Trans. R. Soc. Lond. B Biol. Sci. 333: 217–224.
+Cusimano, N., Stadler, T. & Renner, S.S. 2012. A new method
+for handling missing species in diversification analysis applicable to randomly or nonrandomly sampled phylogenies.
+Syst. Biol. 61: 785–792.
+Datwyler, S.L. & Weiblen, G.D. 2004. On the origin of the fig:
+phylogenetic relationships of Moraceae from ndhF
+sequences. Am. J. Bot. 91: 767–777.
+
+Davies, T.J., Barraclough, T.G., Chase, M.W., Soltis, P.S., Soltis,
+D.E. & Savolainen, V. 2004. Darwin’s abominable mystery:
+insights from a supertree of the angiosperms. Proc. Natl. Acad.
+Sci. USA 101: 1904–1909.
+Davis, R.B., Baldauf, S.L. & Mayhew, P.J. 2010. The origins of
+species richness in the Hymenoptera: insights from a family-level supertree. BMC Evol. Biol. 10: 109.
+Davis, M.P., Midford, P.E. & Maddison, W. 2013. Exploring
+power and parameter estimation of the BiSSE method for
+analyzing species diversification. BMC Evol. Biol. 13: 38.
+De Boer, H.J., Schaefer, H., Thulin, M. & Renner, S.S. 2012.
+Evolution and loss of long-fringed petals: a case study using
+a dated phylogeny of the snake gourds, Trichosanthes (Cucurbitaceae). BMC Evol. Biol. 12: 108.
+Dodd, M.E., Silvertown, J. & Chase, M.W. 1999. Phylogenetic
+analysis of trait evolution and species diversity variation
+among angiosperm families. Evolution 53: 732–744.
+Drummond, A.J., Suchard, M.A., Xie, D. & Rambaut, A.
+2012a. Bayesian phylogenetics with BEAUti and the BEAST
+1.7. Mol. Biol. Evol. 29: 1969–1973.
+Drummond, C.S., Eastwood, R.J., Miotto, S.T. & Hughes, C.E.
+2012b. Multiple continental radiations and correlates of
+diversification in Lupinus (Leguminosae): testing for key
+innovation with incomplete taxon sampling. Syst. Biol. 61:
+443–460.
+Endress, P.K. & Doyle, J.A. 2009. Reconstructing the ancestral
+angiosperm flower and its initial specializations. Am. J. Bot.
+96: 22–66.
+Farris, J.S. 1976. Expected asymmetry of phylogenetic trees.
+Syst. Zool. 25: 196–198.
+FitzJohn, R.G. 2010. Quantitative traits and diversification.
+Syst. Biol. 59: 619–633.
+FitzJohn, R.G., Maddison, W.P. & Otto, S.P. 2009. Estimating
+trait-dependent speciation and extinction rates from incompletely resolved phylogenies. Syst. Biol. 58: 595–611.
+Friedman, J. & Barrett, S.C. 2009. Wind of change: new
+insights on the ecology and evolution of pollination and
+mating in wind-pollinated plants. Ann. Bot. 103: 1515–
+1527.
+Givnish, T.J. 1980. Ecological constraints on the evolution of
+breeding systems in seed plants – dioecy and dispersal in
+gymnosperms. Evolution 34: 959–972.
+Goldberg, E.E. & Igic, B. 2012. Tempo and mode in plant
+breeding system evolution. Evolution 66: 3701–3709.
+Goldberg, E.E., Kohn, J.R., Lande, R., Robertson, K.A., Smith,
+S.A. & Igic, B. 2010. Species selection maintains self-incompatibility. Science 330: 493–495.
+Heilbuth, J.C. 2000. Lower species richness in dioecious clades.
+Am. Nat. 156: 221–241.
+Heilbuth, J.C., Ilves, K.L. & Otto, S.P. 2001. The consequences
+of dioecy for seed dispersal: modeling the seed-shadow
+handicap. Evolution 55: 880–888.
+Hunter, J.P. 1998. Key innovations and the ecology of macroevolution. Trends Ecol. Evol. 13: 31–36.
+Igic, B. & Busch, J.W. 2013. Is self-fertilization an evolutionary
+dead end? New Phytol. 198: 386–397.
+Janzen, D.H. 1971. Seed predation by animals. Annu. Rev. Ecol.
+Syst. 2: 465–492.
+Johnson, M.T., FitzJohn, R.G., Smith, S.D., Rausher, M.D. &
+Otto, S.P. 2011. Loss of sexual recombination and segregation is associated with increased diversification in evening
+primroses. Evolution 65: 3230–3240.
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Dioecy and diversification in angiosperms
+
+K€
+afer, J. & Mousset, S. 2014. Standard sister-clade comparison
+fails when testing derived character states. Syst. Biol. doi: 10.
+1093/sysbio/syu024.
+Kay, K.M. & Sargent, R.D. 2009. The role of animal pollination
+in plant speciation: integrating ecology, geography, and
+genetics. Annu. Rev. Ecol. Evol. Syst. 40: 637–656.
+Lebel-Hardenack, S. & Grant, S.R. 1997. Genetics of sex determination in flowering plants. Trends Plant Sci. 2: 130–136.
+Lehtonen, J., Jennions, M.D. & Kokko, H. 2012. The many
+costs of sex. Trends Ecol. Evol. 27: 172–178.
+Linder, H.P. 1998. Morphology and the evolution of wind pollination. In: Reproductive Biology (S.J. Owens & P.J. Rudall,
+eds), pp. 123–135. Royal Botanic Gardens, Kew, London.
+Lloyd, D.G. 1972. Breeding systems in Cotula L. (Compositae,
+Anthemideae). New Phytol. 71: 1181–1194.
+Lloyd, D.G. 1979. Parental strategies of angiosperms. N.Z. J.
+Bot. 17: 595–606.
+Lloyd, D.G. & Yates, J.M. 1982. Intrasexual selection and the
+segregation of pollen and stigmas in hermaphrodite plants,
+exemplified by Wahlenbergia albomarginata (Campanulaceae).
+Evolution 36: 903–913.
+Maddison, W.P., Midford, P.E. & Otto, S.P. 2007. Estimating a
+binary character’s effect on speciation and extinction. Syst.
+Biol. 56: 701–710.
+Magallon, S. & Sanderson, M.J. 2001. Absolute diversification
+rates in angiosperm clades. Evolution 55: 1762–1780.
+Magnuson-Ford, K. & Otto, S.P. 2012. Linking the investigations of character evolution and species diversification. Am.
+Nat. 180: 225–245.
+Maurice, S., Belhassen, E., Couvet, D. & Gouyon, P.H. 1994.
+Evolution of dioecy: can nuclear-cytoplasmic interactions
+select for maleness? Heredity 73: 346–354.
+Maynard-Smith, J.M. 1978. The Evolution of Sex. Cambridge
+University Press, Cambridge, UK.
+Mayrose, I., Zhan, S.H., Rothfels, C.J., Magnuson-Ford, K., Barker, M.S., Rieseberg, L.H. et al. 2011. Recently formed polyploid plants diversify at lower rates. Science 333: 1257–1257.
+Ming, R., Bendahmane, A. & Renner, S.S. 2011. Sex chromosomes in land plants. Annu. Rev. Plant Biol. 62: 485–514.
+Mooers, A.O. & Moller, A.P. 1996. Colonial breeding and speciation in birds. Evol. Ecol. 10: 375–385.
+Otto, S.P. 2009. The evolutionary enigma of sex. Am. Nat. 174:
+S1–S14.
+Pannell, J.R. & Verdu, M. 2006. The evolution of gender specialization from dimorphic hermaphroditism: paths from heterodichogamy to gynodioecy and androdioecy. Evolution 60:
+660–673.
+Pendleton, R.L., Freeman, D.C., McArthur, E.D. & Sanderson,
+S.C. 2000. Gender specialization in heterodichogamous Grayia brandegei (Chenopodiaceae): evidence for an alternative
+pathway to dioecy. Am. J. Bot. 87: 508–516.
+Rabosky, D.L. 2009. Heritability of extinction rates links diversification patterns in molecular phylogenies and fossils. Syst.
+Biol. 58: 629–640.
+Renner, S.S. & Ricklefs, R.E. 1995. Dioecy and its correlates in
+the flowering plants. Am. J. Bot. 82: 596–606.
+Ricklefs, R.E. 2007. Estimating diversification rates from phylogenetic information. Trends Ecol. Evol. 22: 601–610.
+Ricklefs, R.E. & Renner, S.S. 1994. Species richness within
+families of flowering plants. Evolution 48: 1619–1636.
+Schaefer, H. & Renner, S.S. 2010. A three-genome phylogeny
+of Momordica (Cucurbitaceae) suggests seven returns from
+
+1489
+
+dioecy to monoecy and recent long-distance dispersal to
+Asia. Mol. Phylogenet. Evol. 54: 553–560.
+Schlessmann, M.A. 2010. Major events in the evolution of
+sexual systems in Apiales: ancestral andromonoecy abandoned. Plant Divers. Evol. 128: 233–245.
+Scotland, R.W. & Sanderson, M.J. 2004. The significance of
+few versus many in the tree of life. Science 303: 643.
+Slowinski, J.B. & Guyer, C. 1993. Testing whether certain
+traits have caused amplified diversification: an improved
+method based on a model of random speciation and extinction. Am. Nat. 142: 1019–1024.
+Specht, C.D. & Bartlett, M.E. 2009. Flower evolution: the origin and subsequent diversification of the angiosperm flower.
+Annu. Rev. Ecol. Evol. Syst. 40: 217–243.
+Stadler, T. 2011. Mammalian phylogeny reveals recent diversification rate shifts. Proc. Natl. Acad. Sci. USA 108: 6187–6192.
+Stevens, P.F. 2001 onwards. Angiosperm Phylogeny Website.
+Version 12, July 2012. See http://www.mobot.org/MOBOT/
+research/APweb/. Accessed 30 September 2013.
+Stuessy, T.F., Jakubowsky, G., G
+omez, R.S., Pfosser, M.,
+Schl€
+uter, P.M., Fer, T. et al. 2006. Anagenetic evolution in
+island plants. J. Biogeogr. 33: 1259–1265.
+Tanurdzic, M. & Banks, J.A. 2004. Sex-determining mechanisms in land plants. Plant Cell 16: S61–S71.
+Vamosi, J.C. & Otto, S.P. 2002. When looks can kill: the evolution of sexually dimorphic floral display and the extinction
+of dioecious plants. Proc. R. Soc. B Biol. Sci. 269: 1187–1194.
+Vamosi, J.C. & Vamosi, S.M. 2004. The role of diversification
+in causing the correlates of dioecy. Evolution 58: 723–731.
+Vamosi, J.C. & Vamosi, S.M. 2011. Factors influencing diversification in angiosperms: at the crossroads of intrinsic and
+extrinsic traits. Am. J. Bot. 98: 460–471.
+Vamosi, J.C., Otto, S.P. & Barrett, S.C. 2003. Phylogenetic
+analysis of the ecological correlates of dioecy in angiosperms.
+J. Evol. Biol. 16: 1006–1018.
+Vamosi, J.C., Zhang, Y. & Wilson, W.G. 2007. Animal dispersal
+dynamics promoting dioecy over hermaphroditism. Am. Nat.
+170: 485–491.
+Volz, S.M. & Renner, S.S. 2008. Hybridization, polyploidy, and
+evolutionary transitions between monoecy and dioecy in
+Bryonia (Cucurbitaceae). Am. J. Bot. 95: 1297–1306.
+Weiblen, G.D. 2000. Phylogenetic relationships of functionally
+dioecious Ficus (Moraceae) based on ribosomal DNA
+sequences and morphology. Am. J. Bot. 87: 1342–1357.
+Weiblen, G.D., Oyama, R.K. & Donoghue, M.J. 2000. Phylogenetic analysis of dioecy in monocotyledons. Am. Nat. 155:
+46–58.
+Whitfield, J. 2004. Everything you always wanted to know
+about sexes. PLoS Biol. 2: e183.
+Wiegmann, B.M., Mitter, C. & Farrell, B. 1993. Diversification
+of carnivorous parasitic insects – extraordinary radiation or
+specialized dead-end. Am. Nat. 142: 737–754.
+Xi, Z., Ruhfel, B.R., Schaefer, H., Amorim, A.M., Sugumaran,
+M., Wurdack, K.J. et al. 2012. Phylogenomics and a posteriori
+data partitioning resolve the Cretaceous angiosperm radiation Malpighiales. Proc. Natl. Acad. Sci. USA 109: 17519–
+17524.
+Zhang, L.B., Simmons, M.P., Kocyan, A. & Renner, S.S. 2006.
+Phylogeny of the Cucurbitales based on DNA sequences of
+nine loci from three genomes: implications for morphological and sexual system evolution. Mol. Phylogenet. Evol. 39:
+305–322.
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1490
+
+€ ER ET AL.
+J . K AF
+
+Supporting information
+Additional Supporting Information may be found in the
+online version of this article:
+Figure S1 Reconstruction of ancestral reproductive systems of the Malpighiales using maximum parsimony in
+Mesquite.
+Figure S2 Power of BiSSE to detect differences in
+diversification on simulated trees of 700 species.
+Table S1 Dioecious clades and their sister clades. Part 1:
+strict dataset.
+Table S2 Dioecious clades and their sister clades. Part 2:
+clade pairs added to form the extended dataset.
+
+Table S3 Taxonomical distribution of the dioecious
+species included in the study.
+Table S4 Ecological and life-history traits of the analysed dioecious clades, their observed and expected relative species richnesses, and the P-value for this
+difference.
+Table S5 Test for interaction of the ecological and lifehistory traits using an ANOVA.
+Data S1 Malpighiales.
+Data S2 Supplementary methods.
+Received 16 October 2013; revised 23 March 2014; accepted 28 March
+2014
+
+ª 2014 THE AUTHORS. J. EVOL. BIOL. 27 (2014) 1478–1490
+JOURNAL OF EVOLUTIONARY BIOLOGY ª 2014 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+

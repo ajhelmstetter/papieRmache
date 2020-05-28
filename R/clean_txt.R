@@ -75,7 +75,7 @@ clean.text <- function(in_dir,all_keywords) {
         # change text into corpus
         sotu_corpus <- corpus(textdata[1, ])
         sotu_corpus <- tolower(sotu_corpus)
-        sotu_corpus <- clean(sotu_corpus)
+        sotu_corpus <- replace_white(sotu_corpus)
         sotu_corpus <- stripWhitespace(sotu_corpus)
 
         # removes last section (but if split words are in references section some may remain)
