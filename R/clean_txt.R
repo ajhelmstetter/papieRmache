@@ -100,7 +100,7 @@ clean.text <- function(in_dir,all_keywords) {
         length(corpus_split)
 
         for (o in 1:length(corpus_split)) {
-            corpus_split[o] <- gsub("\\s{2,}", "", corpus_split[o])
+            corpus_split[o] <- gsub("\\s+", " ", corpus_split[o])
             corpus_split[o] <- gsub("\n", " ", corpus_split[o])
             corpus_split[o] <- gsub("\\\\", " ", corpus_split[o])
         }
