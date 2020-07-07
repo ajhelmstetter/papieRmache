@@ -34,11 +34,12 @@ clean.text <- function(in_dir,all_keywords) {
 
     stopwords_extended <- stopwords_extended
 
+    print("input directory:")
     print(in_dir)
     # list all text files in folder
     data_files <- list.files(path = in_dir, pattern = "*.txt$", full.names = T)
-    print(data_files)
-    # create vector of 4digit year in each filename
+
+        # create vector of 4digit year in each filename
     list_txt <- list()
     # loop through and read all text files to a list
     for (j in c(1:length(data_files))) {
@@ -58,6 +59,11 @@ clean.text <- function(in_dir,all_keywords) {
     # will need to start loop here try those paras that have methods/results and name of model unique if multiple
 
     for (h in 1:length(list_txt)) {
+
+        #print filename
+
+        print(paste("file",h,data_files[h]))
+
         # read in text files
         extracted_texts <- readtext(data_files[h], docvarsfrom = "filepaths", dvsep = "/")
 
