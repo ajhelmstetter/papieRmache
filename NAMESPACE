@@ -3,4 +3,5 @@
 export(clean.text)
 export(generate.term.dataset)
 export(semi.auto)
+export(semi.auto.paired)
 export(semi.auto.value)

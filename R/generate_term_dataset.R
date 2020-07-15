@@ -46,7 +46,7 @@ generate.term.dataset <- function(cleaned_text,in_dir, keywords) {
             ft <- findFreqTerms(corp.tdm, lowfreq = 1, highfreq = Inf)
             as.matrix(corp.tdm[ft, ])
 
-            ft <- ft[ft %in% keywords]
+            ft <- ft[grepl(paste(keywords,collapse = "|"),ft)]
 
             # change into matrix and sort by frequency
             ft.tdm <- as.matrix(corp.tdm[ft, ])

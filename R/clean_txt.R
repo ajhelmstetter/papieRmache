@@ -127,7 +127,11 @@ clean.text <- function(in_dir,all_keywords) {
         }
         cleaned_text[[h]] <- corpus_split[unique(lines_with_mods)]
         cl_sp <- strsplit(cleaned_text[[h]], "reference")
-        cl_sp <- cl_sp[1:(length(cl_sp) - 1)]
+        if(length(cl_sp)>0){
+            cl_sp <- cl_sp[1:(length(cl_sp) - 1)]
+        } else {
+            cl_sp<-"none"
+        }
         cleaned_text[[h]] <- paste(cl_sp, collapse = " ")
 
     }

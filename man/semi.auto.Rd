@@ -4,16 +4,18 @@
 \alias{semi.auto}
 \title{Interactively retrieve qualitative data from a paper}
 \usage{
-semi.auto(in_dir, keywords, n, out_file, cleaned_text, sorted_words)
+semi.auto(in_dir, keywords, highlight, n, exact, cleaned_text, sorted_words)
 }
 \arguments{
 \item{in_dir}{directory with input text files}
 
 \item{keywords}{A set of keywords as characters (i.e. traits of interest) in a vector}
 
+\item{highlight}{A set of keywords as characters (i.e. words related to trait of interest) in a vector}
+
 \item{n}{A number specifying the threshold to consider keyword present}
 
-\item{out_file}{A name for the output file (RDS format)}
+\item{exact}{binary 0/1 - match exactly the words?}
 
 \item{cleaned_text}{output of 'clean.text' - a list of cleaned text files}
 
@@ -35,6 +37,6 @@ keywords<-c('bisse','musse')
 
 td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
 
-semi.auto(in_dir = "./test_pdfs/", keywords = keywords, n = 5, out_file = "growth_form", cleaned_text = ct, sorted_words = td)
+semi.auto(in_dir = "./test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), exact = 0, n = 5, cleaned_text = ct, sorted_words = td)
 
 }

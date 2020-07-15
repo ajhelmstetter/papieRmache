@@ -4,14 +4,14 @@
 \alias{semi.auto.value}
 \title{Interactively retrieve quantitative data from a paper}
 \usage{
-semi.auto.value(in_dir, keywords, out_file, cleaned_text, sorted_words)
+semi.auto.value(in_dir, keywords, highlight, cleaned_text, sorted_words)
 }
 \arguments{
 \item{in_dir}{directory with input text files}
 
 \item{keywords}{A set of keywords as characters (i.e. traits of interest) in a vector}
 
-\item{out_file}{A name for the output file (RDS format)}
+\item{highlight}{A set of keywords as characters (i.e. words related to trait of interest) in a vector}
 
 \item{cleaned_text}{output of 'clean.text' - a list of cleaned text files}
 
@@ -32,6 +32,6 @@ ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 keywords<-c('species')
 
 td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
-semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, out_file ="species_number", cleaned_text = ct, sorted_words = td)
+semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), cleaned_text = ct, sorted_words = td)
 
 }
