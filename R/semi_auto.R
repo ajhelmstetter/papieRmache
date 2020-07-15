@@ -73,7 +73,7 @@ semi.auto <-
                     traits_mat[, keywords[h]][j] <- "n"
                 } else if (grepl(keywords[h],names(sorted_words[[j]]))[1] == FALSE) {
                     traits_mat[, keywords[h]][j] <- "n"
-                } else if (sorted_words[[j]][grep(keywords[h],names(sorted_words[[j]]))] > n) {
+                } else if (sum(sorted_words[[j]][grep(keywords[h],names(sorted_words[[j]]))]) > n) {
                     traits_mat[, keywords[h]][j] <- "y"
                 } else {
                     traits_mat[, keywords[h]][j] <- "m"
