@@ -305,14 +305,10 @@ semi.auto.paired <-
         head(traits_mat)
 
         # check where traits are present, may be present and are not present
-        # based on threshold 'n'
-
         for (h in 1:length(keywords1)) {
             for (j in 1:length(cleaned_text)) {
                 if (keywords1[h] %in% names(sorted_words[[j]]) == FALSE) {
                     traits_mat[, keywords1[h]][j] <- "n"
-                } else if (sorted_words[[j]][keywords1[h]] > n) {
-                    traits_mat[, keywords1[h]][j] <- "y"
                 } else {
                     traits_mat[, keywords1[h]][j] <- "m"
                 }
@@ -430,33 +426,14 @@ semi.auto.paired <-
             }
         }
 
-        rownames(traits_mat) <- data_files
+        rownames(traits_mat) <- data_files_names
 
-        ### Transform data into values per paper (e.g. names of models used)
+        traits_mat <- data.frame(traits_mat)
 
-        traits_vect <- vector()
+        traits_mat[traits_mat == ""] <- NA
+        traits_mat[traits_mat == "n"] <- NA
 
-        if (length(keywords1) == 1) {
-            for (i in 1:length(rownames(traits_mat))) {
-                if (traits_mat[i, 1] == "y") {
-                    traits_vect[i] <- colnames(traits_mat)
-                } else {
-                    traits_vect[i] <- NA
-                }
-
-            }
-        } else {
-            for (i in 1:length(rownames(traits_mat))) {
-                traits_vect[i] <-
-                    paste(names(traits_mat[i,][traits_mat[i,] == "y"]), collapse = ",")
-            }
-        }
-
-
-
-        names(traits_vect) <- data_files
-
-        return(traits_vect)
+        return(traits_mat)
 
     }
 
