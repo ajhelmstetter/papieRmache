@@ -191,7 +191,7 @@ semi.auto <-
 
                         # creating a dataframe with crayonized text
                         df <-
-                            tibble::enframe(unique_words) %>% tidyr::unnest() %>%
+                            tibble::enframe(unique_words) %>% tidyr::unnest(cols=c(value)) %>%
                             # here you can specify the color/word combinations you need
                             dplyr::mutate(
                                 .data = .,
@@ -400,7 +400,7 @@ semi.auto.paired <-
 
                         # creating a dataframe with crayonized text
                         df <-
-                            tibble::enframe(unique_words) %>% tidyr::unnest() %>%
+                            tibble::enframe(unique_words) %>% tidyr::unnest(cols = c(value)) %>%
                             # here you can specify the color/word combinations you need
                             dplyr::mutate(
                                 .data = .,
@@ -608,7 +608,7 @@ semi.auto.value <-
 
                         # creating a dataframe with crayonized text
                         df <-
-                            tibble::enframe(unique_words) %>% tidyr::unnest() %>%
+                            tibble::enframe(unique_words) %>% tidyr::unnest(cols=c(value)) %>%
                             # here you can specify the color/word combinations you need
                             dplyr::mutate(
                                 .data = .,
