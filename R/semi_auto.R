@@ -293,6 +293,10 @@ semi.auto.paired <-
                        pattern = "*.txt$",
                        full.names = T)
 
+        data_files_names <-
+            list.files(path = in_dir,
+                       pattern = "*.txt$")
+
         traits_mat <-
             matrix(nrow = length(cleaned_text),
                    ncol = length(keywords1))
@@ -376,17 +380,19 @@ semi.auto.paired <-
                     if(length(comb_occs)>1){
 
                     #QUESTION ASKED
+                    cat("-----------------------------------------------------------------------------", sep = "")
+                    cat("", sep = "\n")
                     cat(paste(
                         paste(
-                            "Is",
                             red$bold$underline(keywords1[g]),
-                            "used in",
-                            data_files[mp[d]],
-                            "?",
+                            "in",
+                            data_files_names[mp[d]],
                             sep = " "
                         ),
                         sep = "\n"
                     ))
+                    cat("", sep = "\n")
+                    cat("-----------------------------------------------------------------------------", sep = "")
                     cat("", sep = "\n")
                     cat("", sep = "\n")
 
@@ -416,7 +422,7 @@ semi.auto.paired <-
                         cat("", sep = "\n")
                         cat("", sep = "\n")
                     }
-                    answ <- readline(prompt = "y or n?: ")
+                    answ <- readline(prompt = "entry: ")
                     traits_mat[mp[d], keywords1[g]] <- answ
 
                     }

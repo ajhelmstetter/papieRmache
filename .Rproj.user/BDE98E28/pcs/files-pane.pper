@@ -1,9 +1,9 @@
 {
-    "path" : "~/papieRmache",
-    "sortOrder" : [
+    "path": "~/papieRmache/R",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
