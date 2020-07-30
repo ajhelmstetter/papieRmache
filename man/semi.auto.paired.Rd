@@ -17,11 +17,11 @@ semi.auto.paired(
 \arguments{
 \item{in_dir}{directory with input text files}
 
-\item{keywords1}{A set of keywords1 as characters (i.e. traits of interest) in a vector}
+\item{keywords1}{A vector of keywords as characters (i.e. traits of interest) in a vector}
 
-\item{keywords2}{A set of keywords1 as characters (i.e. traits of interest) in a vector}
+\item{keywords2}{A second vector of keywords that must also be in the extracted text (exact matches only)}
 
-\item{highlight}{A set of keywords1 as characters (i.e. words related to trait of interest) in a vector}
+\item{highlight}{A vector of keywords that are highlighted in the printed text}
 
 \item{n}{A number specifying the threshold to consider keyword present}
 
