@@ -422,22 +422,42 @@ semi.auto.paired <-
                         cat("", sep = "\n")
                     }
                     answ <- readline(prompt = "entry: ")
-                    traits_mat[mp[d], keywords1[g]] <- answ
+
+                    if(answ == "quit"){
+                        #rownames(traits_mat) <- data_files_names
+                        traits_mat <- data.frame(traits_mat)
+                        traits_mat[traits_mat == ""] <- NA
+                        traits_mat[traits_mat == "n"] <- NA
+                        break
+                    } else {
+                        traits_mat[mp[d], keywords1[g]] <- answ
+                    }
+
+
 
                     }
+                if(answ == "quit"){
+                    break
                 }
+                }
+            if(answ == "quit"){
+                break
             }
+            }
+        if(answ == "quit"){
+            return(traits_mat)
+            break
         }
+            rownames(traits_mat) <- data_files_names
 
-        rownames(traits_mat) <- data_files_names
+            traits_mat <- data.frame(traits_mat)
 
-        traits_mat <- data.frame(traits_mat)
+            traits_mat[traits_mat == ""] <- NA
+            traits_mat[traits_mat == "n"] <- NA
 
-        traits_mat[traits_mat == ""] <- NA
-        traits_mat[traits_mat == "n"] <- NA
-
+            return(traits_mat)
+        }
         return(traits_mat)
-
     }
 
 
