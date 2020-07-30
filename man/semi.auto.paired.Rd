@@ -2,7 +2,7 @@
 % Please edit documentation in R/semi_auto.R
 \name{semi.auto.paired}
 \alias{semi.auto.paired}
-\title{Interactively retrieve paired qualitative data from a paper}
+\title{Interactively retrieve paired qualitative data from a paper. If you want to exit the interactive mache earlier type 'quit' as your response}
 \usage{
 semi.auto.paired(
   in_dir,
@@ -33,7 +33,7 @@ semi.auto.paired(
 A data frame containing matches above threshold and verified matches
 }
 \description{
-Interactively retrieve paired qualitative data from a paper
+Interactively retrieve paired qualitative data from a paper. If you want to exit the interactive mache earlier type 'quit' as your response
 }
 \examples{
 download.file("https://github.com/ajhelmstetter/papieRmache/raw/master/inst/extdata/test_pdfs.zip", destfile = "./test_pdfs.zip")

@@ -251,7 +251,7 @@ semi.auto <-
 ####################################################################################################################
 
 
-#' Interactively retrieve paired qualitative data from a paper
+#' Interactively retrieve paired qualitative data from a paper. If you want to exit the interactive mache earlier type 'quit' as your response
 #'
 #' @param keywords1 A vector of keywords as characters (i.e. traits of interest) in a vector
 #' @param keywords2 A second vector of keywords that must also be in the extracted text (exact matches only)
