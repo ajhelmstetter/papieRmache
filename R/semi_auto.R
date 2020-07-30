@@ -253,9 +253,9 @@ semi.auto <-
 
 #' Interactively retrieve paired qualitative data from a paper
 #'
-#' @param keywords1 A set of keywords1 as characters (i.e. traits of interest) in a vector
-#' @param keywords2 A set of keywords1 as characters (i.e. traits of interest) in a vector
-#' @param highlight A set of keywords1 as characters (i.e. words related to trait of interest) in a vector
+#' @param keywords1 A vector of keywords as characters (i.e. traits of interest) in a vector
+#' @param keywords2 A second vector of keywords that must also be in the extracted text (exact matches only)
+#' @param highlight A vector of keywords that are highlighted in the printed text
 #' @param n A number specifying the threshold to consider keyword present
 #' @param in_dir directory with input text files
 #' @param cleaned_text output of 'clean.text' - a list of cleaned text files
@@ -365,7 +365,9 @@ semi.auto.paired <-
                     cnt<-1
 
                     for(p in 1:length(comb_occs)){
-                        if(length(grep(paste(keywords2,collapse="|"), comb_occs[[p]])) > 0 ){
+
+                        #if(length(keywords2 %in% comb_occs[[p]])){
+                        if(length(grep(paste(keywords2,collapse=" | "), comb_occs[[p]])) > 0 ){
                             comb_occs_paired[[cnt]]<-comb_occs[[p]]
                             cnt<-cnt+1
                         }
@@ -376,6 +378,7 @@ semi.auto.paired <-
                     if(length(comb_occs)>1){
 
                     #QUESTION ASKED
+                    cat("", sep = "\n")
                     cat("-----------------------------------------------------------------------------", sep = "")
                     cat("", sep = "\n")
                     cat(paste(
