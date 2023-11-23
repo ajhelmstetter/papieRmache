@@ -38,3 +38,4 @@ while read sample; do
 done
 ```
 
+![Example papieRmache output](https://ajhelmstetter.github.io/images/papieRmache.png)
