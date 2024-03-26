@@ -1,0 +1,1558 @@
+Syst. Biol. 60(3):343–357, 2011
+c The Author(s) 2011. Published by Oxford University Press, on behalf of the Society of Systematic Biologists. All rights reserved.
+For Permissions, please email: journals.permissions@oup.com
+DOI:10.1093/sysbio/syr006
+Advance Access publication on February 28, 2011
+
+Causes of Plant Diversification in the Cape Biodiversity Hotspot of South Africa
+J AN S CHNITZLER ,1,2,7,∗ T IMOTHY G. B ARRACLOUGH ,2,3 J AMES S. B OATWRIGHT ,4,5 P ETER G OLDBLATT ,6
+J OHN C. M ANNING ,4 M ARTYN P. P OWELL ,1 T ONY R EBELO ,4 AND V INCENT S AVOLAINEN 1,2
+1 Division
+
+of Biology, Imperial College London, Silwood Park Campus, Ascot, Berkshire SL5 7PY, UK;
+Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, UK;
+3 Division of Biology and NERC Centre for Population Biology, Imperial College London, Silwood Park Campus, Ascot,
+Berkshire SL5 7PY, UK; 4 South African National Biodiversity Institute, Kirstenbosch, Private Bag X7, Claremont 7735,
+Cape Town, South Africa; 5 Department of Botany and Plant Biotechnology, University of Johannesburg, P.O. Box 524,
+Auckland Park, Johannesburg, South Africa; 6 Missouri Botanical Garden, PO Box 299, St Louis, MO 63166-0299, USA; and
+7 Present address: Biodiversity and Climate Research Centre (BiK-F), Senckenberganlage 25, 60325 Frankfurt am Main, Germany;
+∗ Correspondence to be sent to: Biodiversity and Climate Research Centre (BiK-F), Senckenberganlage 25,
+60325 Frankfurt am Main, Germany; E-mail: jan.schnitzler@senckenberg.de.
+2 Jodrell
+
+Abstract.—The Cape region of South Africa is one of the most remarkable hotspots of biodiversity with a flora comprising
+more than 9000 plant species, almost 70% of which are endemic, within an area of only ± 90,000 km2 . Much of the diversity
+is due to an exceptionally large contribution of just a few clades that radiated substantially within this region, but little is
+known about the causes of these radiations. Here, we present a comprehensive analysis of plant diversification, using near
+complete species-level phylogenies of four major Cape clades (more than 470 species): the genus Protea, a tribe of legumes
+(Podalyrieae) and two speciose genera within the iris family (Babiana and Moraea), representing three of the seven largest
+plant families in this biodiversity hotspot. Combining these molecular phylogenetic data with ecological and biogeographical information, we tested key hypotheses that have been proposed to explain the radiation of the Cape flora. Our results
+show that the radiations started throughout the Oligocene and Miocene and that net diversification rates have remained
+constant through time at globally moderate rates. Furthermore, using sister-species comparisons to assess the impact of different factors on speciation, we identified soil type shifts as the most important cause of speciation in Babiana, Moraea, and
+Protea, whereas shifts in fire-survival strategy is the most important factor for Podalyrieae. Contrary to previous findings in
+other groups, such as orchids, pollination syndromes show a high degree of phylogenetic conservatism, including groups
+with a large number of specialized pollination syndromes like Moraea. We conclude that the combination of complex environmental conditions together with relative climatic stability promoted high speciation and/or low extinction rates as the
+most likely scenario leading to present-day patterns of hyperdiversity in the Cape. [Biodiversity hotspots; Cape Floristic
+Region; diversification; flowering plants; phylogenetics; speciation.]
+
+The flora of the southwestern tip of Africa is characterized by unique levels of species richness and endemism, reflected in the region’s inclusion of 2 of the
+34 hotspots of biodiversity (Mittermeier et al. 2004): the
+Cape Floristic Region (CFR) and the Succulent Karoo.
+Containing more than 9000 plant species, almost 70% of
+which are endemic within an area of only ± 90,000 km2
+(Goldblatt and Manning 2000; Goldblatt et al. 2005),
+the CFR represents one of the most diverse temperate
+floras of the world and is substantially richer than other
+Mediterranean-type climate regions (Cowling et al.
+1996). Extending along the South African west coast into
+southern Namibia, the Succulent Karoo also harbors exceptional numbers of plant species (Driver et al. 2003;
+Mittermeier et al. 2004), including 30% of the world’s
+10,000 succulents. Close floristic affinities between both
+regions led to proposals to unify them as the Greater
+Cape Floristic Region (GCFR; Jürgens 1997; Born et al.
+2007). Given its remarkable diversity and circumscribed
+area, this region provides an excellent model system for
+studying the causes of plant diversification.
+Much of the diversity in the region is due to the exceptionally large representation of a few diverse clades
+that originated and radiated within the Cape (Linder
+2003), with some estimates of speciation rates in the
+
+Cape being higher than for tropical rainforests (Latimer
+et al. 2005; but see Etienne et al. 2006). Indeed, recent
+and rapid radiations have been demonstrated for some
+plant groups in southern Africa (Phylica, Richardson
+et al. 2001; Ruschioideae, Klak et al. 2003) and it has
+been suggested that the whole flora might reflect such
+a recent burst of speciation (Levyns 1964; Linder et al.
+1992; Sauquet et al. 2009). This “orgy of speciation”
+(Linder 2003) has been supposed to have been triggered
+by the climatic changes near the Miocene/Pliocene
+boundary, with the establishment of the Benguela current leading to a substantially cooler and more arid
+climate (Goldblatt and Manning 2000). However, recent
+analyses—particularly with the sharp increase in the
+availability of dated molecular phylogenies—indicate
+that this might not be a general feature of the Cape
+flora, but that the radiation of several plant lineages had
+started well before these climatic changes took place
+(Linder and Hardy 2004; Linder 2005; Verboom et al.
+2009). Furthermore, global analyses of vascular plant
+species richness (Kreft and Jetz 2007) and of the plant
+family Iridaceae (Davies et al. 2005) have shown that
+plant diversity in the Cape is significantly higher than
+expected given its contemporary environmental conditions. This suggests that, despite the strong influence of
+
+343
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Received 24 June 2009; reviews returned 23 November 2009; accepted 13 January 2011
+Associate Editor: Mark Fishbein
+
+344
+
+VOL. 60
+
+SYSTEMATIC BIOLOGY
+
+analyses, however, include phylogenies with a high proportion of missing taxa, which introduces uncertainty
+regarding the correct assignment of sister species. Furthermore, the study did not control for the number of
+realized states in each trait, which eventually precludes
+a direct comparison of shift frequencies. The present
+study on the other hand is not only based on a more
+thorough taxonomic sampling but also accounts for
+phylogenetic uncertainty and includes statistical approaches to incorporate the expected null distributions
+of the hypotheses. The potential drivers of diversification tested here are of course not restricted to the
+Cape. Other Mediterranean-type climate regions share
+features such as high topographic complexity or comparable fire regimes (Cowling et al. 1996; Barraclough
+2006), and some factors have been suggested to play
+an important role in plant diversification in temperate to tropical regions, such as pollinator specialization
+(Whittall and Hodges 2007; Tripp and Manos 2008) or
+the adaptation to different soil types (Fine et al. 2005).
+We are however unaware of any rigorous test of different drivers of diversification for other regions.
+Here, we present results of one of the most comprehensive analyses of plant diversification in the Cape,
+using data for more than 470 species from four major
+Cape clades for which we were able to generate near
+complete, multigene species-level phylogenetic trees:
+the genus Protea (Proteaceae), the tribe Podalyrieae
+(Fabaceae), and the genera Babiana and Moraea (Iridaceae), representing three of the seven largest plant
+families in the CFR (Goldblatt et al. 2005). Combining
+phylogenetic, ecological, and biogeographical information, we evaluate the competing hypotheses of plant
+diversification. Specifically, we use two approaches to
+test biotic and abiotic correlates of plant diversification
+in the Cape. First, using a whole-tree approach, character states are optimized on the phylogenetic trees,
+and links between diversification rate shifts and shifts
+in biological and ecological traits are evaluated. Shifts
+in diversification rates are expected to coincide with
+shifts in traits related to proposed drivers of diversification (e.g., fire-survival strategy). Second, differences
+in traits between sister species are compared, based on
+the assumption that sister species can be expected to
+differ in traits that diverge during speciation (Kurzweil
+et al. 1991; Linder 2003; Barraclough 2006). In this case,
+avoiding the potential bias of underestimating the number of shifts in labile characters on interior nodes of the
+phylogenetic tree, we test whether sister species differ
+more often than expected under a null model according
+to which traits are distributed randomly.
+M ATERIAL AND M ETHODS
+Taxon Sampling
+The genus Babiana (Iridaceae: Crocoideae) consists of
+92 species (Lewis 1959; Goldblatt and Manning 2007b,
+2010; Goldblatt et al. 2008), which have radiated extensively in southern Africa, with the vast majority (97%)
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+climatic conditions on plant diversification, it is unlikely
+that climate alone is responsible for the high levels of
+plant diversity in the GCFR (Goldblatt and Manning
+2000). Indeed, the major forces that drive plant diversification in southern Africa have remained unclear.
+Several hypotheses have been proposed to explain the
+Cape’s exceptional diversity based on various biotic and
+abiotic factors that potentially create reproductive barriers and/or divergent selection pressures and thus promote speciation (Linder 2003; Barraclough 2006). Here,
+we consider five commonly discussed factors: First, the
+Cape is topographically complex and, therefore, geographical isolation by physical barriers, or divergent
+selection caused by sharp altitudinal gradients might
+cause speciation (Cowling et al. 2009). This hypothesis
+predicts that sister species should tend to be isolated
+geographically. In addition, lineages inhabiting more
+topographically complex regions should tend to diversify into more species than those in less complex regions
+given the availability of larger areas and more complex
+habitats. Furthermore, it has been suggested that mountain regions have experienced relatively stable climatic
+conditions and promoted the long-term persistence of
+lineages (Cowling and Lombard 2002; Linder 2008).
+This hypothesis predicts that mountain regions should
+harbor a mixture of old and recently derived lineages,
+whereas lowland regions should contain more derived
+lineages Linder (2008). The second factor, edaphic heterogeneity, might be important by providing a mosaic
+of divergent selection pressures promoting divergence
+and speciation (Rourke 1972; Linder 2003). This hypothesis predicts that recently diverged sister species should
+tend to occur in different edaphic environments. Third
+and fourth, pollinator specialization and phenological
+shifts might promote speciation by causing reproductive isolation among populations (Johnson 1996; Linder
+2003). If these are frequent causes of speciation, we predict that recently diverged sister species should tend to
+have different pollinators or flowering times. Finally,
+in fire-prone environments, such as the Cape, two different fire-survival strategies have evolved—species
+either sprout from underground roots and stems (resprouters) or regenerate only from seeds (reseeders;
+Schutte et al. 1995). These strategies are coupled with
+different life histories, which could result in a reduction
+of gene flow between populations and the avoidance
+of competition for resources (Linder 2003). According
+to this hypothesis, sister species should frequently have
+contrasting fire survival strategies. A second hypothesis
+concerning fire survival is the suggestion that reseeding lineages have diversified more than species that
+resprout. The mechanism is unclear, but could involve
+shorter generation times resulting in higher rates of
+molecular evolution in reseeders compared with resprouters (Cowling 1987; but see Verdú et al. 2007). This
+hypothesis predicts that clades of reseeders should tend
+to have more species than clades of resprouters. In a
+recent analysis, van der Niet and Johnson (2009) found
+that sister species in the Cape frequently differ in general habitat, pollinators, and fire-survival strategy. Their
+
+2011
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+and Manning 2000; Goldblatt and Manning 2002, 2004,
+2007a, 2007b, 2009, 2010; Rebelo 2001; additional data on
+soil types and pollinators were contributed by P. Goldblatt, J.S. Boatwright and T. Rebelo). Lithology and soil
+type data were combined in an index for the edaphic
+conditions. All ecological and biogeographical data
+are available in the Online Supplementary Material at
+http://www.sysbio.oxfordjournals.org/.
+Polymerase Chain Reaction Amplification, Sequencing,
+and Alignment
+New sequence data are reported here for Babiana and
+Moraea. Total genomic DNA was extracted from 0.2 to
+1.0 g of silica-dried leaf material using the 2X CTAB
+method (Doyle and Doyle 1987) and purified by caesium chloride/ethidium bromide density gradient (1.55
+g/mL; Csiba and Powell 2006). Purified total DNA was
+dialyzed in 1 × Tris-EDTA buffer and stored at −80◦ C.
+For Moraea, three plastid regions were amplified (the
+trnL-trnF region, i.e. the trnL intron and trnL-trnF intergenic spacer; hereafter trnL-F, the rps16 intron and
+the rbcL gene), whereas for Babiana, DNA sequences
+were produced for nine plastid markers (five coding
+regions: matK, trnL, rbcL, rpoC1, and ndhF; three introns:
+rps16, rpl16, and trnL as well as three intergenic spacers:
+trnL-trnF (combined with the trnL intron and the trnL
+30 exon), rpl32-trnL and 3’trnV-ndhC) and one low-copy
+nuclear gene (RPB2).
+Polymerase chain reaction (PCR) amplifications in
+Moraea were carried out in 50 μL PCR reactions, composed of the ReddyMix PCR Master Mix with 2.5 mM
+MgCl2 for trnL-F, rps16, and rbcL (ABgene, Epsom, Surrey, UK), with the addition of 1 μL of bovine serum
+albumin (BSA; 0.4%), 50 ng of each primer and 20–50
+ng DNA template; the total volume was made up to
+50 μl with the addition of sterile distilled water. All
+markers for Babiana were amplified in 20 μL reactions,
+containing 4 μL of reaction buffer (160 mM (NH4 )2 SO4 ;
+670 mM Tris–HCl (pH 8.3); 0.1% Tween-20), 2 μl of 25
+mM MgCl2 , 0.005% BSA, 0.2 M D-(+)-trehalose (Sigma
+T-5251; Sigma-Aldrich, St Louis, MO), 0.4 μl of 10 mM
+dNTPs (Bioline Ltd, London, UK), 0.4 μl of 5 u/μl GoTaq DNA polymerase (Promega, Madison, WI), 0.5–1.0
+μl of each 100 mM primer and 1–2 μl of genomic DNA.
+Amplifications were performed using a Perkin-Elmer
+GeneAmp 9700 Thermal Cycler (Applied Biosystems,
+Foster City, CA) with 2 min initial denaturation at 94 ◦ C
+followed by 30–38 cycles with 1-min denaturation at
+94◦ C, 1-min annealing at 48–52◦ C (depending on the
+primers used), 1.5-min elongation at 72◦ C and a final 3to 5-min elongation at 72◦ C.
+Primer pairs used were X-f (TAATTTACGATCAATT
+CATTC) and 5-r (GTTCTAGCACAAGAAAGTCG) for
+matK, 1-f and 4-r for rpoC1 (www.kew.org/barcoding),
+972-f and 2110-r for ndhF (Olmstead and Sweere 1994),
+1-f and 2-r for rps16 (Oxelman et al. 1997), 71-f and
+1661-r for rpl16 (Jordan et al. 1996), “c” and “f” for
+trnL-F (Taberlet et al. 1991; Shaw et al. 2007), rpL32-f
+and trnL(UAG) -r for rpl32-trnL (Shaw et al. 2007) and
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+being endemic to the GCFR. All species are small to
+medium-sized geophytes and display a considerable
+amount of floral variation. Pollination studies have
+recently led to the description of six largely nonoverlapping pollination systems (Goldblatt and Manning
+2007a). Here, we present a near complete species-level
+phylogeny representing 87 species based on one nuclear and several plastid markers. Comprising some 200
+species of herbaceous geophytes, the genus Moraea (Iridaceae: Iridoideae) is widely distributed in Sub-Saharan
+Africa, the Mediterranean Basin, and the Middle East
+(Goldblatt et al. 2008) but has the majority of its species
+(>75%) in the Cape of South Africa. Similar to Babiana,
+floral diversity in Moraea is remarkable with five distinct
+pollination systems (Goldblatt et al. 2005). The data set
+from a previous phylogenetic analysis of 73 species by
+Goldblatt et al. (2002) was substantially extended to 162
+species of the genus, including 90% of species that occur in the CFR. The tribe Podalyrieae consists of eight
+genera of papilionoid legumes (Schutte and van Wyk
+1998) which—except for six species—are endemic to the
+CFR, with growth forms ranging from shrublets to tall
+upright trees. Species display two different life histories
+in response to fire, with slightly less than half of the
+species regenerating only from seeds. With very few
+exceptions, species in this tribe are adapted to pollination by carpenter bees (Schutte and van Wyk 1998).
+Here, we use data from a phylogenetic study for 107
+of a total of about 128 species in the tribe (Boatwright
+et al. 2008). Finally, the genus Protea is the largest and
+most widely distributed genus of Proteaceae in Africa,
+comprising about 115 species (Goldblatt and Manning
+2000), with about 60% of these being endemic to the
+CFR. All species are woody shrubs or trees and, like in
+Podalyrieae, two different adaptations to fire regimes
+(resprouters and reseeders) can be found. Again, this
+genus shows a variety of pollination syndromes, including bird, arthropod, and rodent pollination (Collins
+and Rebelo 1987). We use a species-level molecular phylogeny of 90 taxa (Reeves 2001; Valente et al. 2010a)
+including all 70 Cape species.
+All species distributions were recorded as presence/
+absence data in grid cells with an edge length of a
+quarter degree (quarter degree square [QDS]). Data for
+Babiana were based on collection localities of herbarium
+accessions from various herbaria (PRE, NBG, SAM,
+BOL, WIND, K). For Podalyrieae, data were taken
+from Schutte (1995) and Beaumont et al. (1999) and
+cross-referenced with the PRECIS (National Herbarium
+Pretoria Computerised Information System) database.
+Distribution data for Moraea follow Goldblatt (1986,
+1992, 1998) and Goldblatt and Manning (2000, 2002,
+2004). For Protea, fine-scale distribution data (1 km 2 )
+from the Protea-Atlas Project were rescaled to QDS to
+match the resolution of the other groups, and where
+unavailable were taken from PRECIS. Information on
+fire-survival strategy, lithology, soil type, pollinators,
+flowering time and altitudinal ranges for each group
+were taken from the literature (Goldblatt 1986, 1992,
+1998; Schutte 1995; Beaumont et al. 1999; Goldblatt
+
+345
+
+346
+
+SYSTEMATIC BIOLOGY
+
+Phylogenetic Inference and Divergence Time Estimation
+Phylogenetic trees and divergence times for all four
+groups were reconstructed using a Bayesian Markov
+Chain Monte Carlo (MCMC) approach as implemented
+in BEAST (v.1.4.7; Drummond and Rambaut 2007),
+which allows topology, substitution rates, and node
+ages to be estimated simultaneously (Drummond and
+Rambaut 2007). The data sets were divided into partitions according to the gene regions used, and the bestfit models of sequence evolution were implemented
+according to the Akaike Information Criterion (AIC)
+scores for substitution models evaluated using MrModeltest (v.2.3; Nylander 2004). A speciation model following a Yule process was selected as the tree prior, with
+an uncorrelated lognormal (UCLN) model for the rate
+variation among branches. The following secondary
+calibration points were used for the analysis, constraining nodes to a normal distribution: For Podalyrieae,
+the split between Podalyrieae s.s. and Cadia was set
+to a mean 33.58 Ma (central 95% range 29.6–37.5 Ma;
+Boatwright et al. 2008); for Protea, the split between Protea and Faurea was constrained with a mean of 28.4 Ma
+(central 95% range 24.4–32.3 Ma; Sauquet et al. 2009).
+As no fossils have been found to date for Moraea and
+Babiana, the calibration points for the phylogenetic trees
+were inferred from a recalibration of the Iridaceae family tree (Goldblatt et al. 2008) using the mean root node
+age together with the bootstrap estimate of the standard
+
+error (mean: 76 Ma, central 95% confidence interval:
+66.2–85.8 Ma) from the study of Wikström et al. (2001).
+This provided ages of 18.64 Ma (central 95% range
+12.61–25.31 Ma) for the root node of Moraea (the split
+between Moraea and Ferraria) and 16.501 Ma (central
+95% range 12.15–21.17 Ma) for the split between Babiana
+and Chasmanthe. Between 10 and 25 independent runs
+of 3,000,000 to 10,000,000 generations, sampling every
+2000–5000 generations were performed for each of the
+four data sets. Convergence of the runs to the same
+posterior distribution and the adequacy of sampling
+(using the Effective Sample Size [ESS] diagnostic) were
+assessed with Tracer (v.1.4; Rambaut and Drummond
+2007). After removing the first 10–25% of the samples
+as burn-in, all runs were combined to build the maximum clade credibility tree using TreeAnnotator (v.1.4.7;
+Drummond and Rambaut 2007). Matrices and trees in
+nexus format are available from TreeBase (accession
+number S11132).
+
+Topographic Complexity and Ancestral Range
+Reconstruction
+To assess the importance of topographic complexity for plant diversification, we tested whether clades
+diversified predominantly in topographically complex
+regions. Topographic complexity was calculated as the
+standard deviation of all grid altitude values at 1 × 1 km
+within a QDS grid following Thuiller et al. (2006) using a
+digital elevation model obtained from Worldclim (v 1.4;
+Hijmans et al. 2005). To test if topographically complex
+areas are more species rich, phylogenetically independent contrasts as implemented in MacroCAIC (Agapow
+and Isaac 2002) were calculated using the relative rate
+difference measure to evaluate the correlation between
+per QDS species richness and topographic complexity.
+Ancestral habitats were reconstructed in an MCMC
+framework, using the MultiState option as implemented
+in BayesTraits (Pagel et al. 2004) with the WWF Terrestrial Ecoregions (Olson et al. 2001) as discrete biogeographic units to identify the ecoregion that most likely
+constitutes the origin of each clade. BayesTraits employs a continuous-time Markov model that allows
+traits to change at any given time to derive the posterior
+probability distribution of the likelihood parameters
+of the model. Each chain was run for 2,000,000 generations, sampling parameters every 1000 generations
+while discarding the first 150,000 generations as burnin. Transition rates between states (i.e., shifts between
+biogeographic regions) were set equal using a uniform
+prior, and an estimate of the probability of each state at
+the root node was derived by combining the particular
+posterior probabilities. Mean topographic complexity
+was calculated for all terrestrial ecoregions in SubSaharan Africa occupied by at least one of the species
+in our study. Novel approaches (e.g., lagrange; Ree and
+Smith 2008) offer promising improvements, such as explicit models of dispersal and local extinction based
+on multiple area concepts. The current implementation
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+trnV(UAC) x2-f and ndhC-r for trnV-ndhC (Shaw et al.
+2007). rbcL was amplified using two primer pairs: 1-f
+and 724(m)-r as well as 636-f and 1367-r (Olmstead et al.
+1992; Muasya et al. 1998). For RPB2, primers INT23f and INT23-r (Norup et al. 2006) were only used for
+initial amplifications. New primers IRID-f (GC ACA
+TAT GGG GAA AGA AGG) and IRID-r (TTA TCC ACC
+TGA GAT GAT TGC) were then designed based on
+sequences for several genera of the Iridaceae, which
+successfully increased the quantity of the PCR product
+and prevented the amplification of paralogous loci.
+Prior to sequencing, amplified products were cleaned
+using NucleoSpin Extract II isolation kit (MachereyNagel GmbH, Düren, Germany) or QIAquick (Qiagen,
+Crawley, West Sussex, UK) and the resulting DNA concentration was measured by photospectrometry. Cycle
+sequencing (26 cycles; 10-s denaturation at 96 ◦ C, 5-s annealing at 50◦ C, 4-min extension at 60◦ C) with BigDye
+Terminators (v3.1; Applied Biosystems) was performed
+in 10 μL volumes. Products were purified with 90%
+ethanol using a Biomek NX Span-8 automated workstation (Beckman Coulter, Fullerton, CA) and resuspended
+in water for sequencing on an automated ABI 3730 DNA
+Analyzer (Applied Biosystems) following manufacturers protocols. Sequences were edited using Sequencer
+4.5 (Gene Codes Corp., Ann Arbor, MI) and aligned
+by eye in PAUP* v.4.0b10 (Swofford 2002). Voucher information and GenBank/EMBL accession numbers are
+provided in the Tables S6 and S7.
+
+VOL. 60
+
+2011
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+Diversification Rates
+Net diversification rates of all four groups were calculated following equation 7 of Magallón and Sanderson
+(2001) for crown groups under the assumptions of 1) no
+extinction (ε = 0) and 2) a high relative extinction rate
+(ε = 0.9) to evaluate the tempo of species diversification.
+Furthermore, we used both temporal and topological
+approaches to test for shifts in diversification rates using branching times and tree topologies, respectively.
+First, a maximum likelihood approach (Rabosky 2006b)
+was utilized to test whether diversification rates have
+changed over time, contrasting the likelihoods of the
+data under models with constant diversification rates
+against models where rates have varied through time.
+Models included in the analysis were a pure-birth (Yule)
+and a birth-death model with constant rates as well as
+a two-rate Yule model and two density-dependent (logistic and exponential) models as rate-variable options.
+The test statistic for a change in diversification rates is
+the difference in the AIC score between best-fit rateconstant and rate-variable models. As Rabosky (2006b)
+has shown, such comparisons can be prone to a high
+probability of a type I error. Thus, to obtain an estimate
+of the null distribution of the test statistic (ΔAIC), we
+generated 1000 trees for each study group using PhyloGen (Rambaut 2002). This simulation accommodates
+incomplete taxon sampling by first generating phylogenetic trees consisting of the number of species described
+for each group following a Yule process, and subsequently sampling these trees to reconstruct phylogenies
+containing the same number of taxa as included in our
+data sets. The observed ΔAIC value is then compared
+with the same statistic for the simulated trees, which
+provide the null distribution of the test statistic. Second,
+
+a topological approach was used to assesses whether
+at any given node we observe an imbalance similar or
+greater than expected under a pure-birth (Yule) model
+of cladogenesis (Chan and Moore 2005), thus identifying clades that potentially have undergone differential
+diversification. The statistic to locate a potential shift
+in diversification rates is based on the probability of a
+rate shift along the lone internal branch of a three-taxon
+tree by comparing the likelihood ratios of 1) a homogeneous (both groups evolve at the same rate), and 2)
+a heterogeneous (both clades evolve at different rates)
+model for both the nested and the more inclusive node
+of the three-taxon clade (Moore et al. 2004). To avoid
+false detection of a rate shift at the inclusive node (the
+so-called “trickle-down” effect), the likelihood of a shift
+along the internal branch is conditioned with the likelihood of a shift occurring within the ingroup. Rate shifts
+were analyzed using the Δ1 statistic as implemented in
+SymmeTREE (Chan and Moore 2005). The null distribution of the shift statistic was estimated by a Monte
+Carlo simulation, generating 1,000,000 trees of the same
+size as the study groups under the equal rates Markov
+model. To avoid a potential bias caused by incomplete
+sampling, missing taxa were added to our phylogenies
+using a PERL script (James Cotton, unpublished data).
+For each group, 100 trees were created, adding missing species to the phylogeny at random points along
+branches within clades identified according to current
+taxonomy, subsequently calculating the Δ1 statistic for
+each tree. Only diversification rate shifts at nodes with
+a posterior probability of 0.85 or higher were taken into
+consideration for further analysis. To identify synchronized shifts in diversification rates and species traits
+(fire survival, edaphic conditions, and pollinators), ancestral character states were reconstructed on a random
+sample of 400 trees from the post–burn-in distribution
+of trees from the BEAST analysis using a maximum likelihood approach (Mk1 model) implemented in Mesquite
+(Maddison and Maddison 2008).
+
+Modes of Speciation
+To test whether speciation tends to involve geographical isolation, we used the age-range correlation (ARC)
+approach proposed by Barraclough and Vogler (2000),
+which considers the degree of geographical range overlap between sister clades in relation to node age. The
+degree of range overlap was calculated by dividing the
+area of overlap between sister clades by the range size
+of the clade with the smaller range. Hence, values may
+vary between 0, indicating no range overlap (allopatry)
+and 1, in which case the range of one clade is encompassed entirely by the range of its sister clade (sympatry). Fitting a regression line to the plot between range
+overlap and node ages can reveal the predominant
+mode of speciation, whereas the slope of the regression
+line contains information on the degree of range movements subsequent to speciation, which might constrain
+our ability to correctly identify the predominant mode
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+of lagrange however optimizes ancestral areas onto a
+single phylogenetic tree and thus, should only be used
+with a very well–supported phylogenetic hypothesis.
+Apart from lagrange, only dispersal-vicariance analysis
+(DIVA; Ronquist 1997) reconstructs ancestral ranges using a multiple area concept. However, DIVA does not
+incorporate branch length, and, as Clark et al. (2008)
+have shown, generally reconstructs broad ancestral areas, which contradicts the narrow distribution found
+in many extant lineages in the Cape. Given the large
+proportion of species within the GCFR that are endemic
+to a single ecoregion (species with wider ranges are predominantly found outside of the GCFR), we consider
+the approach implemented in BayesTraits as appropriate to reconstruct ancestral habitats. To account for
+phylogenetic uncertainty, we used a sample of 400 randomly selected trees from the post–burn-in distribution
+of the BEAST analysis. Furthermore, we reconstructed
+the ranges of the ancestral and descendant nodes on
+branches where a shift in diversification rates was detected (see next paragraph), to assess whether a shift
+into a new habitat might be coupled with an increase in
+diversification rates.
+
+347
+
+348
+
+SYSTEMATIC BIOLOGY
+
+of speciation. As the measure is bound between 0 and
+1, values were arcsine transformed before fitting the regression line (Sokal and Rohlf 1995). To assess whether
+present-day ranges still contain a phylogenetic signal of
+the mode of speciation, ranges were randomly shuffled
+among tips 1000 times, each time recalculating the intercept. The P value represents the proportion of tests with
+an intercept more extreme than the one observed (Perret
+et al. 2007). The geographical mode of speciation was
+also investigated using the Jordan Index (next section).
+
+binary character (e.g., bird pollinated plants vs. plants
+pollinated by other vectors) and tested individually for
+its influence on rates of speciation and extinction. Significant differences in speciation and extinction rates in
+relation to trait changes were assessed using likelihood
+ratio tests between unconstrained (six parameters) and
+constrained (five parameters, with either speciation or
+extinction rates set equal) models. Geographical range
+overlap for all sister-species pairs was calculated as described in the previous section. Finally, we calculated
+the degree of temporal overlap in flowering times between sister species by dividing the number of months
+of phenological overlap by the flowering time of the
+species with the shorter flowering period. The average
+phenological overlap indicates whether sister species
+shows a pattern of co-flowering (index near or equal to
+1) or flower at different times (close or equal to 0). To assess the significance of the observed differences between
+sister species, we performed 1000 random associations
+of sister-species pairs. The significance of sister-species
+differences was determined by calculating whether the
+observed values fall outside the 95% confidence interval
+of the randomization tests. To be conservative, if data
+for one species of a sister-species pair was missing or if
+the main state could not be assigned with confidence,
+the pair was scored as not differing in the trait under consideration, thus avoiding an artificial inflation of
+sister-species differences. In addition, only sister-species
+pairs with a posterior probability of 0.7 or higher were
+included in the analysis.
+R ESULTS
+Phylogenetic Analysis and Timing of Divergence
+Postrun analysis of the MCMC log files from BEAST
+indicated parameter convergence and adequate
+sampling (ESS values were all above 200). The topologies of the chronograms (Figs S1–S4) were in accordance with trees obtained using other reconstruction
+methods (parsimony, maximum likelihood—data not
+shown); taxonomic implications for the study groups
+will be discussed in detail elsewhere. Examination of the
+standard deviation of the UCLN relaxed clock revealed substantial rate variation along branches (Babiana: σ=0.787, 95% highest posterior density (HPD) interval 0.651–1.214; Moraea: σ = 0.861, 95% HPD 0.713–1.056;
+Podalyrieae: σ = 0.959, 95% HPD 0.81–1.125; Protea:
+σ = 0.669, 95% HPD 0.533–0.809) and the measure of
+covariance indicates no autocorrelation of rates, justifying the implementation of a relaxed molecular clock.
+Although the uncorrelated relaxed clock implemented
+in BEAST does not a priori assume a correlation between ancestral and descendant branches, the absence
+of an autocorrelation of rates highlights that using alternative dating methods (such as nonparametric rate
+smoothing or penalized likelihood) would not be appropriate in our case. Divergence time estimations revealed
+stem node ages of the four groups are spread from
+the early Oligocene to the mid-Miocene, ranging from
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Sister-Species Comparisons: Jordan Index
+Differences in traits between sister species were
+analyzed using the Jordan Index (JSIS ) as proposed by
+Fitzpatrick and Turelli (2006). Excluding deeper nodes
+in the phylogeny in the sister-species comparisons
+avoids the uncertainty associated with the reconstruction of ancestral character states and follows the rationale that observed differences between sister species
+might reflect the differences that led to speciation in the
+first place (Linder 2003). Thus, if two sister species differ
+in a given trait (e.g., having different pollinators), this
+factor might be assumed to be key for the divergence of
+the two lineages. If, on the other hand, sister species do
+not differ, the trait in question is unlikely to have played
+an important role in speciation. The index was calculated for the following traits: fire-survival strategy (for
+Podalyrieae and Protea only, not applicable for Babiana
+and Moraea), edaphic conditions, and pollinators with
+the index taking the value of either 0 (indicating sister
+species do not differ) or 1 (indicating that sister species
+differ in a given trait) for each pairwise sister-species
+comparison. Averaged over all sister-species pairs, the
+index provides a measure of the proportion of species
+pairs that differ in the trait in question. Accordingly, a
+high frequency of sister-species differences would be
+expected for traits that drive speciation. Calculations
+of the Jordan Index were based on the predominant
+states of each trait (e.g., the soil type that species were
+most commonly found on). However, to incorporate the
+variability in species traits (in particular with regard
+to the edaphic conditions), we recalculated the Jordan
+Index, this time coding polymorphic species such as
+to minimize the number of sister-species differences.
+This provides a more conservative estimate of the variability (i.e., the minimum number of shifts) for each
+trait and allowed us to assess the robustness of the observed differences. Phylogenetic clustering on the other
+hand would be expected not only for traits with no
+impact on divergence but also in cases where traits represent a key innovation. Therefore, we tested the effect
+of each trait on diversification rates using the BiSSE
+Ln Likelihood test (Maddison et al. 2007) implemented
+in Mesquite (Maddison and Maddison 2008). The test
+calculates the likelihood and parameter estimates of a
+six-parameter model consisting of speciation, extinction, and character shift rates for both states of a binary
+trait. For the calculations, each trait was scored as a
+
+VOL. 60
+
+2011
+
+349
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+33.5 Ma (95% HPD 29.7–37.6) for Podalyrieae to 15.5 Ma
+(95% HPD 11.4–19.5) for Babiana (Figs S1-S4).
+
+Temporal Patterns of Diversification
+Considering no extinction, net diversification rates
+calculated for crown group ages obtained by divergence dating using a relaxed molecular clock approach
+varied between 0.15 Ma−1 (95% HPD 0.12–0.20) for
+Podalyrieae and 0.44 Ma−1 (95% HPD 0.3–0.7) for
+Babiana, with Moraea and Protea having intermediate rates of 0.29 Ma−1 (95% HPD 0.23–0.38) and 0.22
+Ma−1 (95% HPD 0.15–0.39), respectively. Alternatively,
+considering a high relative rate of extinction (ε = 0.9),
+diversification rates are significantly lower (Podalyrieae:
+
+Babiana
+Moraea
+Podalyrieae
+Protea
+
+ΔAIC
+
+r1
+
+r2
+
+st
+
+26.13
+15.15
+17.68
+25.29
+
+0.667
+0.265
+0.17
+0.208
+
+0.069
+0.032
+0.039
+0.017
+
+0.653
+0.382
+1.672
+1.358
+
+Notes: The best-fit model in all cases was found to be a Yule model
+with two rates. ΔAIC = difference in AIC scores between the Yule2-rate model and the best-fit rate-constant model; r1 , r2 = initial and
+final net diversification rate, respectively; st = shift-time; all P < 0.001.
+
+0.09 Ma−1 , 95% HPD 0.07–0.12; Protea: 0.13 Ma−1 , 95%
+HPD 0.09–0.23; Moraea: 0.18 Ma−1 , 95% HPD 0.15–
+0.25; Babiana: 0.26 Ma−1 , 95% HPD 0.18-0.41). To assess
+whether our data are better explained by high or low
+extinction rates, we fitted a pure-birth model (ε = 0)
+and a birth-death model (with ε = 0.9) to our data using
+Laser (Rabosky 2006a), which consistently revealed a
+significantly better fit (using likelihood ratio tests) of
+the pure-birth model.
+The lineage-through-time plot (Fig. 1) shows the substantial spread of the onset of the diversifications, starting in the early Oligocene. Although visual inspection
+suggests that rates of diversification have largely remained constant over time, the graphs show a slight
+decrease of diversification rates toward the present.
+Using a maximum likelihood approach to test for rate
+variation through time (Rabosky 2006a), we found that
+all groups show significantly decreased diversification
+rates toward the present with shifts occurring between
+1.67 Ma (Protea) and 0.382 Ma (Moraea; Table 1; the full
+output of the maximum likelihood analysis is provided
+in Table S2). Such a decrease could however also be an
+artefact caused by incomplete taxon sampling (missing
+or cryptic species; Pybus and Harvey 2000). Thus, to
+assess whether these decreases in diversification rates
+are likely to be attributable to incomplete sampling due
+
+FIGURE 1. Lineage-through-time plots for Babiana, Moraea, Podalyrieae, and Protea based on the mean node ages of the maximum clade
+credibility trees using an UCLN relaxed clock in BEAST.
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Reconstruction of Ancestral Habitats
+Analyses of phylogenetically independent contrasts
+showed no significant correlation between species richness and topographic complexity (Babiana: t = 0.786,
+df = 57, P = 0.446; Moraea: t = −0.153, df = 111, P =
+0.879; Podalyrieae: t = −0.93, df = 70, P = 0.355; Protea: t = −0.225, df = 57, P = 0.823). Reconstruction of
+ancestral habitats following an MCMC approach identified the “Montane Fynbos and Renosterveld” ecoregion as the most likely ancestral region for Moraea,
+Podalyrieae, and Protea, whereas the ”Succulent Karoo”
+ecoregion constitutes the most likely ancestral area of
+the genus Babiana (Fig. S5). Median probabilities for
+these reconstructions across the MCMC analyses were
+0.979 (Moraea), 0.987 (Podalyrieae), 0.998 (Protea), and
+0.999 (Babiana). The Montane Fynbos and Renosterveld
+is among the ecoregions with the highest topographic
+complexity (Table S1), whereas the Succulent Karoo is
+characterized by a significantly less diverse topography
+(t = 13.469, df = 91, P < 0.001).
+
+TABLE 1. Results of the maximum likelihood test for differential
+diversification rates through time
+
+350
+
+SYSTEMATIC BIOLOGY
+
+Geographical Patterns of Speciation
+The observed intercept of the regression between the
+degree of sympatry and node ages for Babiana, Moraea,
+and Protea is significantly higher (P < 0.001; Table 2)
+than those obtained from the randomizations, indicating that the degree of range overlap in these groups
+is not random with respect to the phylogeny. Only
+in Podalyrieae is the observed intercept not significantly different from the null distribution, suggesting
+that present-day ranges might not carry a phylogenetic
+signal.
+In Babiana 25% (22 of 88) of all nodes show no range
+overlap, whereas 16% (14 nodes) are sympatric, including some of the most recent speciation events (Fig. 3).
+These include the split between Babiana vanzijliae and
+B. papyracea, the latter being a narrow endemic known
+only from two populations on the Bokkeveld Plateau.
+Further sister-species pairs with sympatric ranges include B. teretifolia and B. hirsuta, both occurring along
+the west coast of South Africa, as well as B. karooica
+and B. radiata, which are known only from a narrow
+region in the Little Karoo. Finally, the range of B. regia
+is embedded within that of its sister species B. odorata,
+which is common in Swartland region of southwestern
+South Africa. The slope of the regression line is slightly
+negative (−0.004), indicating almost no range movements. The low observed intercept together with the
+positive slope of the regression (0.047) in Moraea suggests predominantly allopatric speciation with range
+movements occurring subsequent to speciation. No
+range overlap is shown in 37% (59 of 160) of the nodes,
+whereas only 6% (9 nodes) are fully sympatric, among
+which are some of the most recent splits (Fig. 3). Sisterspecies pairs with overlapping ranges include Moraea
+kamiesensis and M. fenestralis, with the range of the former being restricted to the Kamiesberg Mountains in
+the Northern Cape, and entirely enclosed in the range of
+M. fenestralis. A second pair comprises M. verecunda and
+M. pseudospicata, two local endemics from the Bokkeveld
+Plateau around Nieuwoudtville. In Podalyrieae, the low
+
+intercept and positive slope of the regression (0.041)
+again suggests predominantly allopatric speciation in
+this group. This pattern was, however, not found to be
+significant (Table 2). In addition, 50% of all nodes (54
+of 108) are allopatric, whereas only 6% (7 nodes) show
+complete range overlap, none of which represent recent speciation events (Fig. 3). In Protea, the observed
+intercept, despite being significantly higher than expected at random, together with the positive slope of
+the regression (0.039), suggests once more that speciation is predominantly allopatric. However, although
+16% (14 of 84) of the nodes have no range overlap,
+19% (16 nodes) are fully sympatric, including several
+recent splits (Fig. 3). In most cases, these sisters-species
+pairs consist of one range-restricted species (Protea pudens, P. stokoei, and P. scabriusucula) whose range is
+encompassed entirely by their sister species (P. longifolia, P. speciosa, and P. scolopendriifolia respectively). In
+another case, both P. susannae and P. obtusifolia are common on the coastal flats of the southwestern Cape, on
+neutral sand and limestone, respectively.
+Sister-Species Analyses
+Geographical range overlap between sister species
+was found to be relatively low (Babiana: 0.275, Moraea:
+0.173, Podalyrieae: 0.205, Protea: 0.409), consistent with
+the predominantly allopatric mode of speciation found
+in the ARC analysis. The proportion of sister species
+differing in traits was found to vary substantially between groups as well as for different traits. All ecological traits were found to be phylogenetically clustered in
+a least some of the groups studied (Table 3 and Fig. 2).
+Within Podalyrieae, about half of the sister-species pairs
+show differences in their fire-survival strategy (JSIS 0.55;
+Table 3); whereas in Protea different fire-survival strategies were found in less than 20% of sister-species pairs
+(Table 3). Differences in edaphic conditions were very
+high, especially in Babiana, Moraea, and Podalyrieae,
+where between 71% and 92% of sister-species pairs
+occur in different edaphic environments (Table 3 and
+Fig. 2). Differences in Protea on the other hand are much
+lower (JSIS 0.334), showing significantly less variation
+between sister species than expected at random. To
+further scrutinize the effect of edaphic conditions, we
+also calculated the Jordan Index separately for lithology and soil types (Table S3), which despite yielding a
+pattern similar to the combined factor, did not show a
+significant clustering. With the exception of Babiana (JSIS
+0.471; Table 3), pollinator shifts between sister species
+occur significantly less frequently than based on our
+randomizations, revealing again a pattern of phylogenetic clustering, with a low frequency of shifts between
+sister species (Moraea 0.25, P < 0.001; Podalyrieae 0,
+P < 0.001; Protea 0.231, P < 0.001; Table 3). The BiSSE Ln
+Likelihood test yielded no significant differences in speciation or extinction rates for any of the traits analyzed
+(Table S4).
+As direct comparisons of the proportion of sisterspecies differences (JSIS ) between lineages and between
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+to cryptic speciation, we excluded the lowest 5th percentile of node ages (Babiana: 0.75 Ma; Moraea: 0.54 Ma;
+Podalyrieae: 1.45 Ma, Protea: 1.08 Ma). This enabled
+us to potentially detect further rate shifts in periods
+deeper in the phylogenies, unaffected by sampling biases. Comparisons show that for the constrained data
+set, rate-variable models do not provide a significantly
+better fit than rate-constant models (Babiana: ΔAIC =
+3.301, p = 0.09; Moraea: ΔAIC = −1.061, P = 0.83; Protea:
+ΔAIC = 2.815, P = 0.24).
+The topological approach to identify potential shifts
+in diversification rates identified six significant rate
+shifts, two each in Babiana and Moraea and one in Podalyrieae and Protea, respectively (Fig. 2). Comparisons
+with the reconstructed trait states revealed the absence
+of direct links between diversification rate shifts and
+shifts in the habitat or traits included in our analysis
+(Fig. 2, data for fire survival not shown).
+
+VOL. 60
+
+2011
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+351
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+FIGURE 2. Variability of species traits. Maximum clade credibility trees of the BEAST analysis for a) Babiana, b) Moraea, c) Podalyrieae, and d)
+Protea. Branches are colored according to maximum likelihood reconstructions of soil types (blue—rocky outcrops; red—gravel, yellow—sand;
+greenloam; cyan—clay; black—marshy soil). Unknown states and/or equivocal reconstructions are colored in gray. Shifts in pollination system
+are marked with an asterisk. Arrows indicate branches along which a significant increase in diversification rates (Δ1 , Chan and Moore 2005)
+has been detected, the scales represent time (Ma). Photographs show representatives of the clades included in this study: a) Babiana patersoniae
+(Roem. & Schult.) G.J.Lewis; b) Moraea villosa Ker Gawl. ex Rchb.; c) Liparia spledens (Burm.f.) Bos & de Wit; d) Protea cynaroides (L.) L. Photos by
+J.C. Manning (b,c) and J. Schnitzler (a,d).
+
+352
+
+VOL. 60
+
+SYSTEMATIC BIOLOGY
+
+TABLE 2. Y-intercepts of the linear regression between the degree of sympatry and node age
+Range randomization test
+Number of nodes
+Babiana
+Moraea
+Podalyrieae
+Protea
+
+88
+160
+108
+84
+
+Observed intercept
+0.408
+0.083
+0.018
+0.333
+
+P value
+<0.001
+<0.001
+ns
+<0.001
+
+Mean intercept
+0.005
+0.016
+0.014
+0.051
+
+Minimum intercept
+10−6
+
+0.018 ×
+0.014 × 10−4
+0.014 × 10−4
+0.063 × 10−5
+
+Maximum intercept
+0.062
+0.075
+0.092
+0.289
+
+traits is restricted by the variable number of states, the
+shift frequency (JSIS ) was conditioned by the number
+of realized states, thus obtaining a measure of the relative variability of each trait. The results show that for
+Babiana, Moraea, and Protea, soil types exhibit the highest variability between sister species (Table 4), whereas
+changes in fire-survival strategy show the highest degree of variability in Podalyrieae (Table 4). Calculating
+the Jordan Index under a conservative scenario of sisterspecies differences (minimum number of shifts for polymorphic characters) resulted in slightly lower estimates
+of sister-species differences, but had little impact on
+the overall patterns. Most importantly, soil types still
+displayed the highest variability in Babiana (0.111),
+Moraea (0.12), and Protea (0.097). Thus, even assuming the most conservative pattern of trait shifts between
+sister species, soil types remain the most variable factor. The analysis of flowering times showed that sister
+species exhibit a high degree of phenological overlap
+(Babiana 0.569, P = 0.42; Moraea 0.762, P < 0.001; Poda-
+
+lyrieae 0.628, P = 0.08; Protea 0.744, P < 0.001), which
+in the case of Moraea and Protea is significantly higher
+than expected based on the randomization of flowering
+times.
+
+D ISCUSSION
+Diversification of the Cape Flora: Timing and Dynamics
+The start of the diversification of some of the key elements of the Cape flora analyzed here is spread from the
+early Oligocene to the mid-Miocene. This range agrees
+well with dates identified for several other lineages in
+southern Africa (Linder 2005; Verboom et al. 2009), indicating that the radiation of the Cape flora was not a
+singular event, and corroborating findings that it represents a mixture of older and more recent radiations
+(Linder 2005, 2008; Verboom et al. 2009). Although the
+clades analyzed here diversified at higher rates than
+the average of their respective families and orders (see
+
+FIGURE 3. Plots of the degree of sympatry (y-axis) against node ages (x-axis) in a) Babiana, b) Moraea, c) Podalyrieae, and d) Protea. Results
+of the regression analysis and significance tests are provided in Table 2.
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Notes: Values for range overlap were arcsine transformed prior to the regression analysis. Ranges were randomly shuffled among tips
+(n = 1000) to test whether intercepts were significantly different from those obtained under random distribution of species. ns = not
+significant.
+
+2011
+
+353
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+TABLE 3. Jordan index (JSIS ) indicating the proportion of observed pairwise species differences
+Fire survival
+Observed
+Babiana
+Moraea
+Podalyrieae
+Protea
+
+Observed
+
+95% confidence interval
+
+—
+—
+0.28–0.73
+0.23–0.77
+
+0.824
+0.923
+0.714
+0.334∗
+
+0.74–1
+0.8–1
+0.67–1
+0.36–0.8
+
+—
+—
+0.56
+0.16∗∗
+
+Pollinators
+
+Edaphic conditions
+
+95% confidence interval
+
+Observed
+0.471
+0.25∗∗∗
+0∗∗∗
+0.231∗∗∗
+
+95% confidence interval
+0.41–0.82
+0.46–0.79
+0–0.158
+0.46–0.93
+
+Notes: Significance was assessed by creating 1000 random associations of the respective number of sister-species pairs: Babiana = 17, Moraea =
+29, Podalyrieae = 19, Protea = 15 (*P = 0.05, **P < 0.01, ***P < 0.001). Differential fire-survival strategies are not present in Babiana and Moraea.
+
+TABLE 4. Relative variability of species traits
+
+Babiana
+Moraea
+Podalyrieae
+Protea
+
+Fire
+survival
+
+Edaphic
+conditions
+
+Pollinators
+
+Lithology
+
+Soil
+type
+
+—
+—
+0.28
+0.08
+
+0.037
+0.038
+0.054
+0.033
+
+0.078
+0.05
+0
+0.077
+
+0.078
+0.092
+0.1
+0.04
+
+0.118
+0.152
+0.106
+0.1
+
+Notes: Proportion of observed pairwise species differences conditioned by the number of states in each category. Traits with the highest
+variability for each lineage are in bold.
+
+It is important to note though that although the maximum likelihood method to detect temporal shifts in diversification rates assumes constant rates across clades
+(Rabosky 2006b), and therefore is suitable to identify
+shifts that affect the entire lineage (e.g., large-scale environmental changes that act throughout the geographic
+range of a lineage), a node-by-node examination of tree
+imbalances can identify diversification rate shifts that
+occur in only one or a few clades (“concealed” shifts).
+The whole-tree test for diversification rate shifts identified eight potential shifts, none of which were directly
+linked to shifts in species traits, suggesting that trait
+shifts and diversification rate shifts seem to be largely
+decoupled, indicating that other factors not included in
+this study might be driving these rate shifts. The test,
+however, cannot distinguish between increases and decreases in diversification rates, as decreases (which can
+be caused by either a significant increase in extinction
+or decrease in speciation rates) will eventually lead to
+the loss of the corresponding phylogenetic information throughout the evolutionary history of the lineage
+(Moore et al. 2004), and thus, rate shifts are interpreted
+as increases along the branch leading to the more diverse clade. Nevertheless, we remain cautious about the
+interpretation of the diversification rate shifts, especially
+in cases where species-poor lineages are nested within
+more diverse clades.
+Spatial Patterns of Speciation
+Our analysis of the geographical mode of speciation
+showed that all groups apart from Podalyrieae have
+intercepts significantly different from those obtained
+under the range randomization test. Thus, present-day
+distributions might still contain information on the
+mode of speciation. Using the correlation between node
+ages and degree of sympatry, we infer that the geographic mode of speciation is predominantly allopatric,
+although extensive range movements have occurred as
+apparent by the wide scatter of overlap values. However, in a few cases, we found recently diverged sister
+species occurring in sympatry, a pattern that might
+reflect sympatric speciation occurring at least at low
+frequencies. Alternatively, the high degree of range
+overlap observed might be due to the spatial resolution
+of the distribution data used in this study. The QDS
+grid cells have an area of approximately 625 km2 and
+thus omit variations at finer scales. The availability of
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Magallón and Castillo 2009), diversification rates are in
+general intermediate, and not among the highest rates
+reported for other major radiations in southern Africa
+(Richardson et al. 2001, 0.56–0.65 spp. per Ma; Klak et al.
+2003, 0.76–1.75 spp. per Ma), in other Mediterraneantype climate regions (Valente et al. 2010b, 2.21–7.55 spp.
+per Ma), on oceanic islands (Baldwin and Sanderson
+1998, 0.43–0.57 spp. per Ma), or in the tropics (Hughes
+and Eastwood 2006, 2.1–3.1 spp. per Ma). Thus, diversification rates of the Cape clades cannot be considered
+extraordinary on a global scale, suggesting that the diversity of the Cape flora might in large parts not be
+the result of a recent and rapid burst in speciation; a
+radiation triggered by the climatic deterioration at the
+end of the Miocene seems therefore unlikely. Here, we
+additionally demonstrate that net rates of diversification remained constant through time, lacking marked
+changes during periods of changing environmental conditions. These results contradict those of Crisp and Cook
+(2009), who analyzed the diversification of Podalyrieae
+and concluded that a significant increase in diversification rates reveals the signature of a mass extinction
+event at the end of the Eocene. However, their study
+includes only a subset of the markers used in this study
+and their root node age of about 50 Ma for the tribe is
+somewhat puzzling given that Boatwright et al. (2008)
+provide a much younger age for the root of this clade
+(33.58 Ma). All groups show a significant decrease in net
+diversification rates between 1.67 and 0.382 myr before
+present, which could reflect limitations for speciation
+in an increasingly diverse flora. Although an actual decrease in diversification rates cannot be ruled out, the
+observed slowdown might also be attributed to a sampling artefact, as the exclusion of only the lowest 5th
+percentile of nodes resulted in the absence of significant
+diversification rate shifts.
+
+354
+
+SYSTEMATIC BIOLOGY
+
+Drivers of Plant Diversification
+Ancestral range reconstructions identified the Montane Fynbos and Renosterveld ecoregion as the most
+likely ancestral habitat for the three of the clades studied here, with only Babiana having its ancestral range in
+the Succulent Karoo. These findings suggest that high
+topographical complexity of the Cape Mountains could
+be promoting species diversity by 1) providing opportunities for habitat differentiation, 2) restricting gene
+flow between geographically isolated populations, or 3)
+increasing the persistence of species. A test for habitat
+differentiation reveals only a weak negative correlation
+between geographical and altitudinal range overlap
+(b = −0.15, r = −0.09; n = 17, sister species with geographical range overlap >0.5). The predominantly allopatric mode of speciation (Table 2) on the other hand,
+together with evidence that dispersal distances in the
+Cape are generally short (Goldblatt and Manning 2000;
+Latimer et al. 2005), suggests that the second scenario
+provides a more plausible explanation. Finally, our results show that species diversity is not significantly
+different between areas of high and low topographic
+complexity, suggesting that lineages have probably also
+diversified extensively in habitats with reduced topographic complexity. As the potential for clades to diversify also depends on the area of the geographical region
+(Losos and Schluter 2000; Davies et al. 2005), area itself
+might be considered important independently of habitat
+complexity. Valente et al. (2010a) have shown however
+that diversification rates in the genus Protea were similar
+within and outside of the CFR (extending into tropical
+Africa), despite the vastly different available areas, suggesting that area per se does not explain the observed
+differences in diversity. Indeed, the topographically
+complex Montane Fynbos and Renosterveld actually
+provides a smaller total surface area than the less complex Succulent Karoo (approximately 3.4 times larger)
+or Lowland Fynbos and Renosterveld ecoregions (approximately 1.3 times larger). Together with the finding
+that ancestral habitats are predominantly topographically complex areas, this provides evidence for a higher
+persistence of lineages these regions, suggesting that,
+in part, low levels of extinction in mountainous regions
+have contributed to present-day patterns of diversity.
+Although sister-species analyses avoid uncertainties
+associated with the reconstruction of character changes
+
+on the phylogeny, this approach relies on a number of
+assumptions. First, the identification of traits driving
+speciation is based on the concept of competition for
+limiting factors; and second, species ranges and ecologies are assumed to reflect conditions immediately following speciation, rather than resulting from changes
+occurring since speciation. Despite a high probability
+that some ecological changes and range movements
+have occurred after sister species have become separated, the large sample size and wide taxonomic range
+allows us to identify patterns of plausible drivers of
+speciation even in the presence of these potentially confounding effects. The factor with the highest variability
+between sister species in three of four groups (Babiana,
+Moraea, and Protea) is soil type, consistent with the idea
+that adaptation to different soil types could be a major
+driver of plant diversification in southern Africa. This
+is supported by the high diversity of soil types found
+in the southwestern Cape (Fig. S6), which has gradually
+increased during the late Cenozoic (Cowling et al. 2009).
+Furthermore, these results are consistent with studies
+of Neotropical plant species (Fine et al. 2004, 2005),
+which highlighted the potential importance of edaphic
+heterogeneity in plant speciation. In Podalyrieae, firesurvival strategy is more variable than other traits and
+thus should be considered a potential driver of diversification in this group. This is highlighted by the fact that
+fire-survival strategy is often the most important distinguishing character between closely related—and morphologically almost identical—species (Schutte et al.
+1995). These findings are robust with regard to sampling
+effort, which could potentially affect the correct identification of sister species. Considering only clades where
+taxon sampling is above 90% (the genera Liparia, Podalyria, Stirtonanthus, Virgilia, and Xiphotheca), we find the
+same level of variation and thus conclude that the observed differences are unlikely to be a sampling artefact.
+Shifts in fire-survival strategy have previously received
+little attention and the frequent shifts between sister
+species are somewhat surprising, especially as species
+with a mixed fire biology are rare (Linder 2003), but the
+adaptations involved in a switch between different firesurvival strategies may not be as complex as previously
+thought (Verdaguer and Ojeda 2005). Furthermore, maximum likelihood reconstructions of fire-survival strategies in Podalyrieae yielded largely equivocal states for
+deeper nodes in the tree, but maximum parsimony reconstructions indicate that the first shift in fire-survival
+strategies occurred in the early Miocene. This coincides
+with a period when summer droughts in the Cape were
+already in place and just before the suggested establishment of regular fires within the region (Bytebier et al.
+2011), providing further support for the importance of
+fire as a driver of diversification in Podalyrieae. Finally,
+the high phenological overlap between sister species
+indicates that shifts in flowering times do not act as a
+driving force in the creation and/or maintenance of reproductive barriers in these clades, although evidence
+in other clades suggest a potential role of phenology in
+the reduction of gene flow (Linder 2001).
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+high-resolution distribution data for Protea (1-km grid)
+allowed us to evaluate the extent of range overlap of
+putative sympatric species at different spatial scales,
+which, as expected, is substantially lower than at the
+QDS scale (mean difference in range overlap: 59%),
+with no sister-species pair still being fully sympatric
+(Table S5). Thus, the relatively coarse scale of this study
+clearly inflates the degree of range overlap, and although
+fine-scale distribution data are currently not available
+for the other groups, we can assume that at least some
+but possibly all of the cases identified as being sympatric
+might in fact also rather be parapatric or allopatric.
+
+VOL. 60
+
+2011
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+S UPPLEMENTARY M ATERIAL
+Supplementary Material, including data files and/or
+online-only appendices, can be found at http://www
+.sysbio.oxfordjournals.org/.
+F UNDING
+This study was funded by the European Commission (“HOTSPOTS,” MEST-CT-2005-020561), Hesse’s
+Ministry of Higher Education, Research, and the Arts
+(funding programme “LOEWE – Landes-Offensive zur
+Entwicklung Wissenschaftlich-ökonomischer Exzellenz”), the European Research Council, the Natural
+Environment Research Council, the Royal Society, the
+Leverhulme Trust, the US National Geographic Society,
+and the South African National Research Foundation.
+A CKNOWLEDGMENTS
+We thank Omar Fiz-Palacios, Paul Rymer and Felix
+Forest for discussions, James Cotton for providing the
+PERL script, and Jack Sullivan, Mark Fishbein, Austin
+Mast, and two anonymous reviewers for helpful comments on an earlier version of the manuscript. The Western Cape Nature Conservation Board and the Northern
+Cape Department of Nature and Environmental Conservation are thanked for the provision of collecting permits. Parts of the analyses were run on the clusters at
+the Swiss Institute of Bioinformatics (Vital-IT) and the
+Computational Biology Service Unit (CBSU) at Cornell
+University.
+R EFERENCES
+Agapow P.-M., Isaac N.J.B. 2002. MacroCAIC: revealing correlates of
+species richness by comparative analysis. Divers. Distrib. 8:41–43.
+Armbruster W.S., Muchhala N. 2009. Associations between floral specialisation and species diversity: cause, effect, or correlation? Evol.
+Ecol. 23:159–179.
+Baldwin B.G., Sanderson M.J. 1998. Age and rate of diversification of
+the Hawaiian silversword alliance (Compositae). Proc. Natl. Acad.
+Sci. U.S.A. 95:9402–9406.
+Barraclough T.G. 2006. What can phylogenetics tell us about speciation
+in the Cape flora? Divers. Distrib. 12:21–26.
+Barraclough T.G., Vogler A.P. 2000. Detecting the geographical pattern
+of speciation from species-level phylogenies. Am. Nat. 155:419–434.
+Beaumont A.J., Beckett R.P., Edwards T.J., Stirton C.H. 1999. Revision of the genus Calpurnia (Sophoreae: Leguminosae). Bothalia. 29:
+5–23.
+Boatwright J.S., Savolainen V., van Wyk B.-E., Schutte-Vlok A.L.,
+Forest F., van der Bank M. 2008. Systematic position of the anomalous Genus Cadia and the phylogeny of the tribe Podalyrieae
+(Fabaceae). Syst. Bot. 33:133–147.
+Born J., Linder H.P., Desmet P. 2007. The Greater Cape Floristic Region.
+J. Biogeogr. 34:147–162.
+Bytebier B., Antonelli A., Bellstedt D.U., Linder H.P. 2011. Estimating
+the age of fire in the Cape flora of South Africa from an orchid phylogeny. Proc. R. Soc. Lond. B. Biol. Sci. 278:188–195.
+Chan K.M.A., Moore B.R. 2005. SymmeTREE: whole-tree analysis of
+differential diversification rates. Bioinformatics. 21:1709–1710.
+Clark J.R., Ree R.H., Alfaro M.E., King M.G., Wagner W.L., Roalson
+E.H. 2008. A comparative study in ancestral range reconstruction
+methods: retracing the uncertain histories of insular lineages. Syst.
+Biol. 57:693–707.
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+One constraint of the Jordan Index used here for
+sister-species comparisons is the limited power to distinguish traits with a causal role in speciation from
+those that show a high degree of variability (as in the
+null model). However, we feel that in this case using
+random associations as a null hypothesis is more appropriate than the one that assumes no difference between
+sister species (due to phylogenetic conservatism), in
+particular given that Losos (2008) and Wiens (2008)
+pointed out that these patterns should be tested rather
+than assumed a priori. Thus, the test statistic might
+have limitations to detect a positive effect of a trait on
+diversification but is powerful (albeit conservative) to
+reject hypotheses of potential drivers of plant diversification. This is the case when traits 1) are found to
+rarely differ between sister species, and 2) lack the signature of a key innovation. For example, apart from
+the genus Babiana, pollination systems show a high degree of phylogenetic conservatism, and the absence of
+a significant effect on speciation and/or extinction rates
+indicates that shifts in pollination systems are unlikely
+to be a main driver of diversification in these clades.
+These conclusions contradict the results of van der Niet
+and Johnson (2009), who found shifts in pollinators to
+be more frequent than shifts in soil types. However, as
+their analysis did not control for the number of realized states in each trait, no definitive conclusions can
+be drawn regarding the causes of speciation. Potential
+explanations for the high frequency of pollinator shifts
+observed in Babiana could be that pollinator shifts are
+the result of a direct selection for reproductive isolation in secondary contact zones between sister species
+adapted to different soil types (Goldblatt and Manning
+1996; van der Niet et al. 2006), or that the diversity
+of pollination systems might in fact be the result, not
+the cause, of high species richness (Armbruster and
+Muchhala 2009).
+In conclusion, our study shows that the remarkable
+plant diversity in the Cape of southern Africa is not the
+result of a recent and rapid radiation triggered by climatic changes, but that diversification took place over
+an extended period of time. Furthermore, the relative
+climatic stability in the Cape throughout the late Cenozoic (Linder 2003; Cowling et al. 2009) may have resulted in lower extinction rates. Together with complex
+geomorphologic conditions—in particular the increase
+in topo-edaphic complexity and the establishment of
+regular fires—we argue that this, rather than pollinator
+specialization or phenological divergence has generated the exceptional plant diversity found in the Cape
+biodiversity hotspot today. Further insights into the
+evolution of the flora could be gained from considering
+the combined effects and interactions of several factors.
+Such analyses however require a larger sample size,
+and could be usefully addressed in future studies including the entire Cape flora. Comparisons with other
+hotspots, especially those with a Mediterranean climate
+will reveal whether the patterns described here provide a global scenario for the evolution of hyperdiverse
+floras.
+
+355
+
+356
+
+SYSTEMATIC BIOLOGY
+
+Goldblatt P., Manning J.C. 2007b. Floral biology of Babiana (Iridaceae:
+Crocoideae): adaptive floral radiation and pollination. Ann. Mo.
+Bot. Gard. 94:709–733.
+Goldblatt P., Manning J.C. 2009. New species of Moraea (Iridaceae: Iridoideae), with range extensions and miscellaneous notes for southern African species. Bothalia. 39:1–10.
+Goldblatt P., Manning J.C. 2010. New taxa of Babiana (Iridaceae: Crocoideae) from coastal Western Cape, South Africa. Bothalia. 40:
+47–53.
+Goldblatt P., Manning J.C., Gereau R. 2008. Two new species of Babiana
+(Iridaceae: Crocoideae) from western South Africa, new names for
+B. longiflora and B. thunbergii, and comments on the original publication of the genus. Bothalia. 38:49–55.
+Goldblatt P., Manning J.C., Snijman D. 2005. Cape plants: corrections
+and additions to the flora. 1. Bothalia. 35:35–46.
+Goldblatt P., Rodriguez A., Powell M.P., Davies T.J., Manning J.C.,
+Van der Bank M., Savolainen V. 2008. Iridaceae ’Out of Australasia’? Phylogeny, biogeography, and divergence time based on plastid DNA sequences. Syst. Bot. 33:495–508.
+Goldblatt P., Savolainen V., Porteous O., Sostaric I., Powell M., Reeves
+G., Manning J.C., Barraclough T.G., Chase M.W. 2002. Radiation
+in the Cape flora and the phylogeny of peacock irises Moraea
+(Iridaceae) based on four plastid DNA regions. Mol. Phylogenet.
+Evol. 25:314–360.
+Hijmans R.J., Cameron S.E., Parra J.L., Jones P.G., Jarvis A. 2005. Very
+high resolution interpolated climate surfaces for global land areas.
+Int. J. Climatol. 25:1965–1978.
+Hughes C., Eastwood R. 2006. Island radiation on a continental scale:
+exceptional rates of plant diversification after uplift of the Andes.
+Proc. Natl. Acad. Sci. U.S.A. 103:10334–10339.
+Johnson S.D. 1996. Pollination, adaptation and speciation models in
+the Cape flora of South Africa. Taxon. 45:59–66.
+Jordan W.C., Courtney M.W., Neigel J.E. 1996. Low levels of intraspecific genetic variation at a rapidly evolving chloroplast DNA locus in North American duckweeds (Lemnaceae). Am. J. Bot. 83:
+430–439.
+Jürgens N. 1997. Floristic biodiversity and history of African arid regions. Biodivers. Conserv. 6:495–514.
+Klak C., Reeves G., Hedderson T. 2003. Unmatched tempo of evolution
+in Southern African semi-desert ice plants. Nature. 427:63–65.
+Kreft H., Jetz W. 2007. Global patterns and determinants of vascular
+plant diversity. Proc. Natl. Acad. Sci. U.S.A. 104:5925–5930.
+Kurzweil H., Linder H.P., Chesselet P. 1991. The phylogeny and evolution of the Pterygodium-Corycium complex (Coryciinae, Orchidaceae). Plant Syst. Evol. 175:161–223.
+Latimer A.M., Silander J.A. Jr., Cowling R.M. 2005. Neutral ecological
+theory reveals isolation and rapid speciation in a biodiversity hot
+spot. Science. 309:1722–1725.
+Levyns M.R. 1964. Migrations and the origins of the Cape flora. Trans.
+R. Soc. S. Afr. 37:85–107.
+Lewis G.J. 1959. The genus Babiana. S. Afr. J. Bot. 50(Suppl. 3):365–379.
+Linder H.P. 2001. Two new species of Ceratocaryum (Restionaceae).
+Kew. Bull. 56:465–477.
+Linder H.P. 2003. The radiation of the Cape flora, southern Africa. Biol.
+Rev. Camb. Philos. Soc. 78:597–638.
+Linder H.P. 2005. Evolution of diversity: the Cape flora. Trends Plant
+Sci. 10:536–541.
+Linder H.P. 2008. Plant species radiations: where, when, why? Philos.
+Trans. R. Soc. Lond. B. Biol. Sci. 363:3097–3105.
+Linder H.P., Hardy C.R. 2004. Evolution of the species-rich Cape flora.
+Philos. Trans. R. Soc. Lond. B. Biol. Sci. 359:1623–1632.
+Linder H.P., Meadows M.E., Cowling R.M. 1992. History of the Cape
+flora. In: Cowling R.M., editor. The ecology of fynbos: nutrients, fire
+and diversity. Oxford University Press. p. 113–134.
+Losos J.B. 2008. Phylogenetic niche conservatism, phylogenetic signal
+and the relationship between phylogenetic relatedness and ecological similarity among species. Ecol. Lett. 11:995–1003.
+Losos J.B., Schluter D. 2000. Analysis of an evolutionary species-area
+relationship. Nature. 408:847–850.
+Maddison W.P., Maddison D.R. 2008. Mesquite: a modular system for evolutionary analysis. Version 2.5. Available from:
+http://mesquiteproject.org.
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Collins B., Rebelo T. 1987. Pollination biology of the Proteaceae in
+Australia and southern Africa. Aust. J. Ecol. 12:387–421.
+Cowling R.M. 1987. Fire and its role in coexisistence and speciation in
+Gondwanan shrublands. S. Afr. J. Bot. 83:106–112.
+Cowling R.M., Lombard A.T. 2002. Heterogeneity, speciation/
+extinction history and climate: explaining regional plant diversity
+patterns in the Cape Floristic Region. Divers. Distrib. 8:163–179.
+Cowling R.M., Procheş Ş., Partridge T.C. 2009. Explaining the uniqueness of the Cape flora: incorporating geomorphic evolution as a
+factor for explaining its diversification. Mol. Phylogenet. Evol. 51:
+64–74.
+Cowling R.M., Rundel P.W., Lamont B.B., Arroyo M.K., Arianoutsou
+M. 1996. Plant diversity in Mediterranean-climate regions. Trends
+Ecol. Evol. 11:362–366.
+Crisp M.D., Cook L.G. 2009. Explosive radiation or cryptic mass extinction? Interpreting signatures in molecular phylogenies. Evolution. 63:2257–2265.
+Csiba L., Powell M.P. 2006. DNA extraction protocols. In: Savolainen
+V., Powell M.P., Davis K., editors. DNA and tissue banking for biodiversity conservation: theory, practice and uses. Richmond (UK):
+Royal Botanic Gardens, Kew.
+Davies T.J., Savolainen V., Chase M.W., Goldblatt P., Barraclough T.G.
+2005. Environment, area, and diversification in the species-rich
+flowering plant family Iridaceae. Am. Nat. 166:418–425.
+Doyle J.J., Doyle J.L. 1987. A rapid DNA isolation procedure for small
+quantities of fresh leaf tissue. Phytochem. Bull. 19:11–15.
+Driver A., Desmet P.G., Rouget M., Cowling R.M., Maze K.E. 2003.
+Succulent Karoo ecosystem plan. Biodiversity component, Technical Report. Cape Town (South Africa): Cape Conservation Unit,
+Botanical Society of South Africa.
+Drummond A.J., Rambaut A. 2007. BEAST: Bayesian evolutionary
+analysis by sampling trees. BMC Evol. Biol. 7:214.
+Etienne R.S., Latimer A.M., Silander J.A. Jr., Cowling R.M. 2006. Comment on “Neutral Ecological Theory Reveals Isolation and Rapid
+Speciation in a Biodiversity Hot Spot”. Science. 311:610b.
+Fine P.V.A., Daly D.C., Munoz G.V., Mesones I., Cameron K.M. 2005.
+The contribution of edaphic heterogeneity to the evolution and
+diversity of Burseraceae trees in the western Amazon. Evolution.
+59:1464–1478.
+Fine P.V.A., Mesones I., Coley P.D. 2004. Herbivores promote habitat specialization by trees in amazonian forests. Science. 305:
+663–665.
+Fitzpatrick B.M., Turelli M. 2006. The geography of mammalian speciation: mixed signals from phylogenies and range maps. Evolution.
+60:601–615.
+Goldblatt P. 1986. The Moraeas of Southern Africa. Cape Town (South
+Africa): National Botanic Gardens.
+Goldblatt P. 1992. New species, chromosome cytology and notes on the
+southern African Iridaceae-Irideae—Moraea, Roggeveldia and Homeria. S. Afr. J. Bot. 58:209–214.
+Goldblatt P. 1998. Reduction of Barnardiella, Galaxia, Gynandriris, Hexaglottis, Homeria, and Roggeveldia in Moraea (Iridaceae: Irideae).
+Novon. 8:371–377.
+Goldblatt P., Bernhardt P., Manning J.C. 2005. Pollination mechanisms
+in the African genus Moraea (Iridaceae: Irioideae): floral divergence
+and adaptation for pollinators. Adansonia. 27:21–46.
+Goldblatt P., Manning J. 2000. Cape plants - a conspectus of the Cape
+flora of South Africa. Pretoria (South Africa): National Botanical
+Institute.
+Goldblatt P., Manning J.C. 1996. Phylogeny and speciation in Lapeirousia subgenus Lapeirousia (Iridaceae: Ixioideae). Ann. Mo. Bot. Gard.
+83:346–361.
+Goldblatt P., Manning J.C. 2000. New species of Moraea (IridaceaeIridoideae) from southern Africa. Novon. 10:14–21.
+Goldblatt P., Manning J.C. 2002. Notes and new species of Moraea
+(Iridaceae: Iridoideae) from the southern African winter-rainfall
+zone. Novon. 12:352–359.
+Goldblatt P., Manning J.C. 2004. New species of Ixia (Crocoideae) and
+Moraea (Iridoideae), and taxonomic notes on some other African
+Iridaceae. Novon. 14:288–298.
+Goldblatt P., Manning J.C. 2007a. A revision of the southern African
+genus Babiana, Iridaceae: Crocoideae. Pretoria (South Africa): South
+African National Biodiversity Institute.
+
+VOL. 60
+
+2011
+
+SCHNITZLER ET AL.—DIVERSIFICATION OF THE CAPE FLORA
+
+Ronquist F. 1997. Dispersal-vicariance analysis: a new approach to
+the quantification of historical biogeography. Syst. Biol. 46:195–
+203.
+Rourke J.P. 1972. Taxonomic studies on Leucospermum R.Br. J. S. Afr.
+Bot. 8 (Suppl):1–194.
+Sauquet H., Weston P.H., Anderson C.L., Barker N.P., Cantrill D.J.,
+Mast A.R., Savolainen V. 2009. Contrasted patterns of hyperdiversification in Mediterranean hotspots. Proc. Natl. Acad. Sci. U.S.A.
+106:221–225.
+Schutte A.L. 1995. A taxonomic study of the tribes Podalyrieae and
+Liparieae (Fabaceae). Johannesburg (South Africa): University of
+Johannesburg.
+Schutte A.L., van Wyk B.E. 1998. Evolutionary relationships in the Podalyrieae and Liparieae (Fabaceae) based on morphological, cytological and chemical evidence. Plant Syst. Evol. 209:1–31.
+Schutte A.L., Vlok J.H.J., van Wyk B.E. 1995. Fire-survival strategy - a
+character of taxonomic, ecological and evolutionary importance in
+fynbos legumes. Plant Syst. Evol. 195:243–259.
+Shaw J., Lickey E.B., Schilling E.E., Small R.L. 2007. Comparison of
+whole chloroplast genome sequences to choose noncoding regions
+for phylogenetic studies in angiosperms: the tortoise and the hare
+III. Am. J. Bot. 94:275–288.
+Sokal R.R., Rohlf F.J. 1995. Biometry: the principles and practice of
+statistics in biological research. 3rd ed. New York: W.H. Freeman.
+Swofford D.L. 2002. PAUP*: phylogenetic analysis using parsimony
+(*and other methods) v. 4.0b10. Sunderland (MA): Sinauer Associates.
+Taberlet P., Gielly L., Pautou G., Bouvet J. 1991. Universal primers for
+amplification of three non-coding regions of the chloroplast DNA.
+Plant Mol. Biol. 17:1105–1109.
+Thuiller W., Midgley G.F., Rouget M., Cowling R.M. 2006. Predicting patterns of plant species richness in megadiverse South Africa.
+Ecography. 29:733–744.
+Tripp E.A., Manos P.S. 2008. Is floral specialisation an evolutionary
+dead-end? Pollination system transitions in Ruella (Acanthaceae).
+Evolution. 62:1712–1737.
+Valente L., Reeves G., Schnitzler J., Pizer Mazon I., Fay M., Rebelo
+T., Chase M., Barraclough T. 2010a. Diversification of the African
+genus Protea in the Cape biodiversity hotspot and beyond: equal
+rates but different spatial scales. Evolution. 64:745–760.
+Valente L.M., Savolainen V., Vargas P. 2010b. Unparalleled rates of
+species diversification in Europe. Proc. R. Soc. Lond. B. Biol. Sci.
+277:1489–1496.
+van der Niet T., Johnson S.D. 2009. Patterns of plant speciation in the
+Cape floristic region. Mol. Phylogenet. Evol. 51:85–93.
+van der Niet T., Johnson S.D., Linder H.P. 2006. Macroevolutionary
+data suggest a role for reinforcement in pollination system shifts.
+Evolution. 60:1596–1601.
+Verboom G.A., Archibald J.K., Bakker F.T., Bellstedt D.U., Conrad
+F., Dreyer L.L., Forest F., Galley C., Goldblatt P., Henning J.F.,
+Mummenhoff K., Linder H.P., Muasya A.M., Oberlander K.C.,
+Savolainen V., Snijman D.A., Van der Niet T., Nowell T.L. 2009. Origin and diversification of the Greater Cape flora: ancient species
+repository, hot-bed of recent radiation, or both? Mol. Phylogenet.
+Evol. 51:44–53.
+Verdaguer D., Ojeda F. 2005. Evolutionary transition from resprouter
+to seeder life history in two Erica (Ericaceae) species: insights from
+seedling axillary buds. Ann. Bot. 95:593–599.
+Verdú M., Pausas J.G., Segarra-Moragues J.G., Ojeda F. 2007. Burning
+phylogenies: fire, molecular evolutionary rates, and diversification.
+Evolution. 61:2195–2204.
+Whittall J.B., Hodges S.A. 2007. Pollinator shifts drive increasingly
+long nectar spurs in columbine flowers. Nature. 447:706–710.
+Wiens J.J. 2008. Commentary on Losos (2008): niche conservatism d éjà
+vu. Ecol. Lett. 11:1004–1005.
+Wikström N., Savolainen V., Chase M.W. 2001. Evolution of the angiosperms: calibrating the family tree. Proc. R. Soc. Lond. B. Biol.
+Sci. 268:2211–2220.
+
+Downloaded from https://academic.oup.com/sysbio/article-abstract/60/3/343/1666085 by guest on 02 March 2020
+
+Maddison W.P., Midforrd P.E., Otto S.P. 2007. Estimating a binary character’s effect on speciation and extinction. Syst. Biol. 56:701–710.
+Magallón S., Castillo A. 2009. Angiosperm diversification through
+time. Am. J. Bot. 96:349–365.
+Magallón S., Sanderson M.J. 2001. Absolute diversification rates in
+angiosperm clades. Evolution. 55:1762–1780.
+Mittermeier R.A., Gil P.R., Hoffmann M., Pilgrim J.D., Brooks T.M.,
+Mittermeier C.G., Lamoreux J.F., da Fonseca G.A.B. 2004. Hotspots
+revisited: earth’s biologically richest and most endangered terrestrial ecoregions. Sierra Madre (CA): University of Virginia.
+Moore B.R., Chan K.M.A., Donoghue M.J. 2004. Detecting diversification rate variation in supertrees. In: Bininda-Emonds O.R.P.,
+editor. Phylogenetic supertrees: combining information to reveal
+the tree of life. Dordrecht (The Netherlands): Kluwer Academic.
+p. 487–533.
+Muasya A.M., Simpson D.A., Chase M.W., Culham A. 1998. An assessment of suprageneric phylogeny in Cyperaceae using rbcL DNA sequences. Plant Syst. Evol. 211:257–271.
+Norup M.V., Dransfield J., Chase M.W., Barford A.S., Fernando E.S.,
+Baker W.J. 2006. Homoplasious character combinations and generic
+delimitation: a case study from the Indo-Pacific Arecoid palms
+(Arecaceae: Areceae). Am. J. Bot. 97:1065–1080.
+Nylander J.A.A. 2004. MrModeltest v.2. Distributed by the author.
+Sweden: Uppsala University.
+Olmstead R.G., Michaels H.J., Scott K.M., Palmer J.D. 1992. Monophyly of the Asteridae and identification of their major lineages
+inferred from DNA sequences of rbcL. Ann. Mo. Bot. Gard. 79:249–
+265.
+Olmstead R.G., Sweere J.A. 1994. Combining data in phylogenetic systematics: an empirical approach using three molecular data sets in
+the Solanaceae. Syst. Biol. 43:467–481.
+Olson D.M., Dinerstein E., Wikramanayake E.D., Burgess N.D.,
+Powell G.V.N., Underwood E.C., D’Amico J.A., Itoua I., Strand
+H.E., Morrison J.C., Loucks C.J., Allnutt T.F., Ricketts T.H., Kura Y.,
+Lamoreux J.F., Wettengel W.W., Hedao P., Kassem K.R. 2001. Terrestrial ecoregions of the world: a new map of live on earth. Bioscience.
+51:933–937.
+Oxelman B., Lidén M., Berglund D. 1997. Chloroplast rps16 intron
+phylogeny of the tribe Sileneae (Caryophyllaceae). Plant Syst. Evol.
+206:393–410.
+Pagel M., Meade A., Barker D. 2004. Bayesian estimation of ancestral
+character states on phylogenies. Syst. Biol. 53:673–684.
+Perret M., Chautems A., Spichiger R., Barraclough T.G., Savolainen V.
+2007. The geographical pattern of speciation and floral diversification in the neotropics: the tribe Sinningieae (Gesneriaceae) as a case
+study. Evolution. 61:1641–1660.
+Pybus O.G., Harvey P.H. 2000. Testing macro-evolutionary models
+using incomplete molecular phylogenies. Proc. R. Soc. Lond. B.
+267:2267–2272.
+Rabosky D.L. 2006a. LASER: a maximum likelihood toolkit for detecting temporal shifts in diversification rates from molecular phylogenies. Evol. Bioinform. Online. 2:257–260.
+Rabosky D.L. 2006b. Likelihood methods for detecting temporal shifts
+in diversification rates. Evolution. 60:1152–1164.
+Rambaut A. 2002. Phyl-O-Gen. Phylogenetic Tree Simulator Package
+v.1.1. Oxford: University of Oxford.
+Rambaut A., Drummond A.J. 2007. Tracer v.1.4. Available from:
+http://beast.bio.ed.ac.uk/Tracer.
+Rebelo T. 2001. Proteas: a field guide to the Proteas of South Africa.
+2nd ed. Simonstown (South Africa): Fernwood Press.
+Ree R.H., Smith S.A. 2008. Maximum likelihood inference of geographic range evolution by dispersal, local extinction, and cladogenesis. Syst. Biol. 57:4–14.
+Reeves G. 2001. Radiation and macroevolutionary ecology of the
+African genus Protea L. London: University of London.
+Richardson J.E., Weitz F.M., Fay M.F., Cronk Q.C.B., Linder H.P.,
+Reeves G., Chase M.W. 2001. Rapid and recent origin of species
+richness in the Cape flora of South Africa. Nature. 412:181–183.
+
+357
+
+

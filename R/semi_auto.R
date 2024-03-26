@@ -1,5 +1,5 @@
 ####################################################################################################################
-########################################## SEMI.AUTO ###############################################################
+########################################## ---- SEMI.AUTO ---- #####################################################
 ####################################################################################################################
 
 #' Interactively retrieve qualitative data from a paper
@@ -52,7 +52,6 @@ semi.auto <-
 
         # check where traits are present, may be present and are not present
         # based on threshold 'n'
-
 
         if(exact == 1){
         for (h in 1:length(keywords)) {
@@ -108,13 +107,15 @@ semi.auto <-
 
             if (length(mp) > 0) {
                 for (d in 1:length(mp)) {
-                    # cat trait name
+
+                  # cat trait name
                     cat(
                         paste("###", data_files[mp[d]]),
                         sep = "\n \n",
                         file = "trait.Rmd",
                         append = T
                     )
+
                     ### merge adjacent paragraphs
                     comb_paras <-
                         paste(cleaned_text[mp[d]], collapse = " ")
@@ -182,7 +183,6 @@ semi.auto <-
                     ))
                     cat("", sep = "\n")
                     cat("", sep = "\n")
-
                     #
                     for (k in 1:length(comb_occs)) {
                         unique_words <- lapply(strsplit(comb_occs[[k]], " "), function(x) {
@@ -207,11 +207,24 @@ semi.auto <-
                         # cat(paste(comb_occs[[k]]),sep='\n'))
                         cat("", sep = "\n")
                         cat("", sep = "\n")
+
                     }
-                    answ <- readline(prompt = "y or n?: ")
-                    traits_mat[mp[d], keywords[g]] <- answ
+
+                      answ <- readline(prompt = "y or n?: ")
+
+                      if(answ == ""){
+
+                        answ <- readline(prompt = "")
+                        traits_mat[mp[d], keywords[g]]  <- answ
+
+                      } else {
+
+                      traits_mat[mp[d], keywords[g]]  <- answ
+
+                      }
 
                 }
+
             }
         }
 
@@ -223,7 +236,7 @@ semi.auto <-
 
         if (length(keywords) == 1) {
             for (i in 1:length(rownames(traits_mat))) {
-                if (traits_mat[i, 1] == "y") {
+                if(grepl("y",traits_mat[i, 1])){
                     traits_vect[i] <- colnames(traits_mat)
                 } else {
                     traits_vect[i] <- NA
@@ -247,7 +260,7 @@ semi.auto <-
 
 
 ####################################################################################################################
-########################################## SEMI.AUTO.PAIRED ########################################################
+###################################### ---- SEMI.AUTO.PAIRED ---- ##################################################
 ####################################################################################################################
 
 
@@ -421,9 +434,15 @@ semi.auto.paired <-
                         cat("", sep = "\n")
                         cat("", sep = "\n")
                     }
+
                     answ <- readline(prompt = "entry: ")
 
-                    if(answ == "quit"){
+                    if(answ == ""){
+
+                      answ <- readline(prompt = "")
+                      traits_mat[mp[d], keywords1[g]]  <- answ
+
+                    } else if(answ == "quit"){
                         #rownames(traits_mat) <- data_files_names
                         traits_mat <- data.frame(traits_mat)
                         traits_mat[traits_mat == ""] <- NA
@@ -432,8 +451,6 @@ semi.auto.paired <-
                     } else {
                         traits_mat[mp[d], keywords1[g]] <- answ
                     }
-
-
 
                     }
                 if(answ == "quit"){
@@ -462,7 +479,7 @@ semi.auto.paired <-
 
 
 ####################################################################################################################
-########################################## SEMI.AUTO.VALUE #########################################################
+########################################## ---- SEMI.AUTO.VALUE ---- #########################################################
 ####################################################################################################################
 
 
@@ -486,7 +503,7 @@ semi.auto.paired <-
 #' keywords<-c('species')
 #'
 #' td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
-#' semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), cleaned_text = ct, sorted_words = td)
+#' semi.auto.value(in_dir = "./test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), cleaned_text = ct, sorted_words = td)
 #'
 semi.auto.value <-
     function(in_dir,
@@ -648,9 +665,19 @@ semi.auto.value <-
                         cat("", sep = "\n")
                         cat("", sep = "\n")
                     }
-                    answ <- readline(prompt = "value: ")
-                    traits_mat[mp[d], keywords[g]] <- answ
 
+                                        answ <- readline(prompt = "value: ")
+
+                    if(answ == ""){
+
+                      answ <- readline(prompt = "")
+                      traits_mat[mp[d], keywords[g]]  <- answ
+
+                    } else {
+
+                      traits_mat[mp[d], keywords[g]]  <- answ
+
+                    }
                 }
             }
         }

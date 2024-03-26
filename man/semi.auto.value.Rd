@@ -32,6 +32,6 @@ ct<-clean.text(in_dir = "./test_pdfs/",all_keywords=kw)
 keywords<-c('species')
 
 td<-generate.term.dataset(cleaned_text = ct, in_dir = "./testpdfs/",keywords = keywords)
-semi.auto.value(in_dir = "./inst/extdata/test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), cleaned_text = ct, sorted_words = td)
+semi.auto.value(in_dir = "./test_pdfs/", keywords = keywords, highlight = c('increase','decrease'), cleaned_text = ct, sorted_words = td)
 
 }
